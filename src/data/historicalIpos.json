@@ -1,0 +1,386 @@
+[
+  {
+    "symbol": "HYUNDAI",
+    "name": "Hyundai Motor India",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹1865 – ₹1960",
+    "lotSize": "7",
+    "schedule": {
+      "startDate": "2024-10-15",
+      "endDate": "2024-10-17",
+      "listingDate": "2024-10-22"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "2.37x" }
+    }
+  },
+  {
+    "symbol": "SWIGGY",
+    "name": "Swiggy Limited",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹371 – ₹390",
+    "lotSize": "38",
+    "schedule": {
+      "startDate": "2024-11-06",
+      "endDate": "2024-11-08",
+      "listingDate": "2024-11-13"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "3.59x" }
+    }
+  },
+  {
+    "symbol": "OLAELEC",
+    "name": "Ola Electric Mobility",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹72 – ₹76",
+    "lotSize": "195",
+    "schedule": {
+      "startDate": "2024-08-02",
+      "endDate": "2024-08-06",
+      "listingDate": "2024-08-09"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "4.45x" }
+    }
+  },
+  {
+    "symbol": "BAJAJHFL",
+    "name": "Bajaj Housing Finance",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹66 – ₹70",
+    "lotSize": "214",
+    "schedule": {
+      "startDate": "2024-09-09",
+      "endDate": "2024-09-11",
+      "listingDate": "2024-09-16"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "67.43x" }
+    }
+  },
+  {
+    "symbol": "WAAREEENER",
+    "name": "Waaree Energies",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹1427 – ₹1503",
+    "lotSize": "9",
+    "schedule": {
+      "startDate": "2024-10-21",
+      "endDate": "2024-10-23",
+      "listingDate": "2024-10-28"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "79.44x" }
+    }
+  },
+  {
+    "symbol": "NTPCGREEN",
+    "name": "NTPC Green Energy",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹102 – ₹108",
+    "lotSize": "138",
+    "schedule": {
+      "startDate": "2024-11-19",
+      "endDate": "2024-11-21",
+      "listingDate": "2024-11-27"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "2.55x" }
+    }
+  },
+  {
+    "symbol": "PREMIERENE",
+    "name": "Premier Energies",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹427 – ₹450",
+    "lotSize": "33",
+    "schedule": {
+      "startDate": "2024-08-27",
+      "endDate": "2024-08-29",
+      "listingDate": "2024-09-03"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "74.38x" }
+    }
+  },
+  {
+    "symbol": "BRAINBEES",
+    "name": "Brainbees Solutions (FirstCry)",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹440 – ₹465",
+    "lotSize": "32",
+    "schedule": {
+      "startDate": "2024-08-06",
+      "endDate": "2024-08-08",
+      "listingDate": "2024-08-13"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "12.22x" }
+    }
+  },
+  {
+    "symbol": "KRN",
+    "name": "KRN Heat Exchanger",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹209 – ₹220",
+    "lotSize": "65",
+    "schedule": {
+      "startDate": "2024-09-25",
+      "endDate": "2024-09-27",
+      "listingDate": "2024-10-03"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "214.32x" }
+    }
+  },
+  {
+    "symbol": "NIVABUPA",
+    "name": "Niva Bupa Health Insurance",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹70 – ₹74",
+    "lotSize": "200",
+    "schedule": {
+      "startDate": "2024-11-07",
+      "endDate": "2024-11-11",
+      "listingDate": "2024-11-14"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "1.90x" }
+    }
+  },
+  {
+    "symbol": "AFCONS",
+    "name": "Afcons Infrastructure",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹440 – ₹463",
+    "lotSize": "32",
+    "schedule": {
+      "startDate": "2024-10-25",
+      "endDate": "2024-10-29",
+      "listingDate": "2024-11-04"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "2.77x" }
+    }
+  },
+  {
+    "symbol": "PNGADGIL",
+    "name": "PN Gadgil Jewellers",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹456 – ₹480",
+    "lotSize": "31",
+    "schedule": {
+      "startDate": "2024-09-10",
+      "endDate": "2024-09-12",
+      "listingDate": "2024-09-17"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "59.41x" }
+    }
+  },
+  {
+    "symbol": "SAGILITY",
+    "name": "Sagility India Limited",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹28 – ₹30",
+    "lotSize": "500",
+    "schedule": {
+      "startDate": "2024-11-05",
+      "endDate": "2024-11-07",
+      "listingDate": "2024-11-12"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "3.20x" }
+    }
+  },
+  {
+    "symbol": "ACMESOLAR",
+    "name": "Acme Solar Holdings",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹275 – ₹289",
+    "lotSize": "51",
+    "schedule": {
+      "startDate": "2024-11-06",
+      "endDate": "2024-11-08",
+      "listingDate": "2024-11-13"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "2.89x" }
+    }
+  },
+  {
+    "symbol": "UNICOMMERCE",
+    "name": "Unicommerce eSolutions",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹102 – ₹108",
+    "lotSize": "138",
+    "schedule": {
+      "startDate": "2024-08-06",
+      "endDate": "2024-08-08",
+      "listingDate": "2024-08-13"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "168.35x" }
+    }
+  },
+  {
+    "symbol": "INTERARCH",
+    "name": "Interarch Building Products",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹850 – ₹900",
+    "lotSize": "16",
+    "schedule": {
+      "startDate": "2024-08-19",
+      "endDate": "2024-08-21",
+      "listingDate": "2024-08-26"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "93.46x" }
+    }
+  },
+  {
+    "symbol": "DIFFUSION",
+    "name": "Diffusion Engineers",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹159 – ₹168",
+    "lotSize": "88",
+    "schedule": {
+      "startDate": "2024-09-26",
+      "endDate": "2024-09-30",
+      "listingDate": "2024-10-04"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "114.49x" }
+    }
+  },
+  {
+    "symbol": "ZINKA",
+    "name": "Zinka Logistics (BlackBuck)",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹259 – ₹273",
+    "lotSize": "54",
+    "schedule": {
+      "startDate": "2024-11-13",
+      "endDate": "2024-11-18",
+      "listingDate": "2024-11-21"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "1.86x" }
+    }
+  },
+  {
+    "symbol": "ENVIRO",
+    "name": "Enviro Infra Engineers",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹140 – ₹148",
+    "lotSize": "101",
+    "schedule": {
+      "startDate": "2024-11-22",
+      "endDate": "2024-11-26",
+      "listingDate": "2024-11-29"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "89.21x" }
+    }
+  },
+  {
+    "symbol": "NORTHARC",
+    "name": "Northern Arc Capital",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹249 – ₹263",
+    "lotSize": "57",
+    "schedule": {
+      "startDate": "2024-09-16",
+      "endDate": "2024-09-18",
+      "listingDate": "2024-09-24"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "110.91x" }
+    }
+  },
+  {
+    "symbol": "AVANSE",
+    "name": "Avanse Financial Services",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹330 – ₹350",
+    "lotSize": "42",
+    "schedule": {
+      "startDate": "2024-12-11",
+      "endDate": "2024-12-13",
+      "listingDate": "2024-12-18"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "45.12x" }
+    }
+  },
+  {
+    "symbol": "KSHINTL",
+    "name": "KSH International Limited",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹360 – ₹384",
+    "lotSize": "39",
+    "schedule": {
+      "startDate": "2025-12-11",
+      "endDate": "2025-12-15",
+      "listingDate": "2025-12-23"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "12.87x" }
+    }
+  },
+  {
+    "symbol": "GKSL",
+    "name": "Gujarat Kidney & Super Speciality",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹108 – ₹114",
+    "lotSize": "130",
+    "schedule": {
+      "startDate": "2025-12-18",
+      "endDate": "2025-12-22",
+      "listingDate": "2025-12-30"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "5.62x" }
+    }
+  },
+  {
+    "symbol": "ICICIAMC",
+    "name": "ICICI Prudential AMC",
+    "type": "Mainboard",
+    "status": "CLOSED",
+    "priceRange": "₹2050 – ₹2165",
+    "lotSize": "6",
+    "schedule": {
+      "startDate": "2025-12-09",
+      "endDate": "2025-12-11",
+      "listingDate": "2025-12-19"
+    },
+    "subscriptionNumbers": {
+      "total": { "subscription": "88.42x" }
+    }
+  }
+]
