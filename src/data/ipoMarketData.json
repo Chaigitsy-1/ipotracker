@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30/7/2026, 11:23:34 pm",
+  "lastUpdated": "30/7/2026, 11:34:12 pm",
   "status": "success",
   "data": [
     {
@@ -83,38 +83,38 @@
         "drawdown": -1.58,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Volume breakout & price action suggests heavy institutional accumulation"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -577,38 +577,38 @@
         "drawdown": -3.69,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Volume breakout & price action suggests heavy institutional accumulation"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -736,38 +736,38 @@
         "drawdown": -0.8,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Volume breakout & price action suggests heavy institutional accumulation"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -1188,38 +1188,38 @@
         "drawdown": 0,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Volume breakout & price action suggests heavy institutional accumulation"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -1431,38 +1431,38 @@
         "drawdown": -5.06,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Volume breakout & price action suggests heavy institutional accumulation"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -1632,38 +1632,38 @@
         "drawdown": -1.69,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Volume breakout & price action suggests heavy institutional accumulation"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -1958,38 +1958,38 @@
         "drawdown": -52.33,
         "anomalyType": "HYPE_DEFLATION",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Volume breakout & price action suggests heavy institutional accumulation"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -2411,38 +2411,38 @@
         "drawdown": -11.1,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Volume breakout & price action suggests heavy institutional accumulation"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -2780,38 +2780,38 @@
         "drawdown": -7.08,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Volume breakout & price action suggests heavy institutional accumulation"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -2855,38 +2855,38 @@
         "drawdown": -7.69,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Volume breakout & price action suggests heavy institutional accumulation"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -3098,38 +3098,38 @@
         "drawdown": -6.64,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Volume breakout & price action suggests heavy institutional accumulation"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -3683,38 +3683,38 @@
         "drawdown": -17.31,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Volume breakout & price action suggests heavy institutional accumulation"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -3758,38 +3758,38 @@
         "drawdown": -24.33,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Volume breakout & price action suggests heavy institutional accumulation"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -3875,39 +3875,38 @@
         "drawdown": -1.04,
         "anomalyType": "FIFTY_TWO_WEEK_HIGH",
         "triggers": [
-          "Breakout alert: Trading near or at 52-Week High on high volume",
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Breakout alert: Trading near or at 52-Week High on high volume"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -3993,39 +3992,38 @@
         "drawdown": 0,
         "anomalyType": "FIFTY_TWO_WEEK_HIGH",
         "triggers": [
-          "Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume",
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -4069,38 +4067,38 @@
         "drawdown": -14.22,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Volume breakout & price action suggests heavy institutional accumulation"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -4396,38 +4394,38 @@
         "drawdown": -15.98,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Volume breakout & price action suggests heavy institutional accumulation"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -4639,39 +4637,38 @@
         "drawdown": -2.25,
         "anomalyType": "FIFTY_TWO_WEEK_HIGH",
         "triggers": [
-          "Breakout alert: Trading near or at 52-Week High on high volume",
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Breakout alert: Trading near or at 52-Week High on high volume"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -5051,39 +5048,38 @@
         "drawdown": -0.49,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Breakout alert: Trading near or at 52-Week High on high volume",
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Breakout alert: Trading near or at 52-Week High on high volume"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -5505,38 +5501,38 @@
         "drawdown": 0,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Volume breakout & price action suggests heavy institutional accumulation"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -5916,38 +5912,38 @@
         "drawdown": -1.66,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Volume breakout & price action suggests heavy institutional accumulation"
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           },
           {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
+            "title": "ListingsAPI Launches an API-First Platform for Local Listings, Reviews, Posts and Analytics",
+            "publisher": "TMX Newsfile",
+            "link": "https://finance.yahoo.com/technology/articles/listingsapi-launches-api-first-platform-175800284.html",
+            "time": 1785434280
           },
           {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Market Chatter: Goldman Sachs Asset Management Launches AlphaAI Platform",
+            "publisher": "MT Newswires",
+            "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-goldman-sachs-asset-175736383.html",
+            "time": 1785434256
           }
         ]
       }
@@ -6494,38 +6490,38 @@
         "drawdown": 0,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -8414,38 +8410,38 @@
         "drawdown": -9.63,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -9124,38 +9120,38 @@
         "drawdown": -7.88,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -9283,38 +9279,38 @@
         "drawdown": -0.35,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -9443,38 +9439,38 @@
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
           "Breakout alert: Trading near or at 52-Week High on high volume",
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -10610,38 +10606,38 @@
         "drawdown": -9.79,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -10767,38 +10763,38 @@
         "drawdown": -7.43,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -10966,38 +10962,38 @@
         "drawdown": -5.5,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -11462,38 +11458,38 @@
         "anomalyType": "FIFTY_TWO_WEEK_HIGH",
         "triggers": [
           "Breakout alert: Trading near or at 52-Week High on high volume",
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -11537,38 +11533,38 @@
         "drawdown": -5.26,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs ��� and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -11738,38 +11734,38 @@
         "drawdown": -17.59,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -11939,38 +11935,38 @@
         "drawdown": -10.26,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -12055,38 +12051,38 @@
         "drawdown": -28.45,
         "anomalyType": "HYPE_DEFLATION",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -12592,38 +12588,38 @@
         "drawdown": -33.49,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -12919,38 +12915,38 @@
         "drawdown": -3.16,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -13162,38 +13158,38 @@
         "drawdown": -3.59,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -13908,38 +13904,38 @@
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
           "Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume",
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -14025,38 +14021,38 @@
         "drawdown": -8.51,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -14142,38 +14138,38 @@
         "drawdown": -12.73,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -14217,38 +14213,38 @@
         "drawdown": -8.87,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -14628,38 +14624,38 @@
         "drawdown": 0,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -15123,38 +15119,38 @@
         "drawdown": -0.2,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -15324,38 +15320,38 @@
         "drawdown": -41.05,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -15441,38 +15437,38 @@
         "drawdown": -19.56,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -16103,38 +16099,38 @@
         "drawdown": -8.35,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -16725,38 +16721,38 @@
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
           "Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume",
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -17261,38 +17257,38 @@
         "drawdown": -29.81,
         "anomalyType": "HYPE_DEFLATION",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
@@ -17672,38 +17668,38 @@
         "drawdown": -9.86,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call\""
+          "Quarterly earnings trigger: \"Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%\""
         ],
         "news": [
           {
-            "title": "Scale AI names Francis deSouza as new CEO",
+            "title": "OpenAI’s AI went rogue and hacked a website, it’s a sign of things to come",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/openais-ai-went-rogue-and-hacked-a-website-its-a-sign-of-things-to-come-180337998.html",
+            "time": 1785434617
+          },
+          {
+            "title": "T. Rowe Price Japan Fund's Top Second Quarter 2026 Move: Cosmo Energy Holdings Co Ltd at a 2. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-japan-funds-180144953.html",
+            "time": 1785434504
+          },
+          {
+            "title": "Hyatt Q2 2026 earnings: rooms growth forecast cut, stock falls 9%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/df440d6c-0036-3020-9b47-a2f31d436631/scale-ai-names-francis.html",
-            "time": 1785433746
+            "link": "https://finance.yahoo.com/m/f7d6aa7e-55f2-378b-a30d-36d52be08057/hyatt-q2-2026-earnings%3A-rooms.html",
+            "time": 1785434496
           },
           {
-            "title": "The Top 5 Analyst Questions From Boyd Gaming’s Q2 Earnings Call",
-            "publisher": "StockStory",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-boyd-174902058.html",
-            "time": 1785433742
+            "title": "T Rowe Price Equity Income Fund's Top Second Quarter 2026 Move: Amazon.com Inc at a 3. ...",
+            "publisher": "GuruFocus.com",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-equity-income-180038451.html",
+            "time": 1785434438
           },
           {
-            "title": "BRIJ Medical Awarded Breakthrough Technology Designation for BRIJ-SEAL™ Advanced Wound Sealant with Premier, Inc.",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/brij-medical-awarded-breakthrough-technology-174600476.html",
-            "time": 1785433560
-          },
-          {
-            "title": "The rent was already high. Then came the $200 work-from-home fee",
-            "publisher": "USA TODAY",
-            "link": "https://finance.yahoo.com/m/54a0f094-5cce-34c7-bfdc-d513d9e56bc5/the-rent-was-already-high..html",
-            "time": 1785433555
-          },
-          {
-            "title": "She left Las Vegas for an Italian island. Here’s how much her new life costs — and why more Americans are looking abroad",
-            "publisher": "Moneywise",
-            "link": "https://finance.yahoo.com/real-estate/articles/she-left-las-vegas-italian-174500038.html",
-            "time": 1785433500
+            "title": "Microsoft's and Meta's results send stocks in opposite directions",
+            "publisher": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/microsofts-and-metas-results-send-stocks-in-opposite-directions-180006443.html",
+            "time": 1785434406
           }
         ]
       }
