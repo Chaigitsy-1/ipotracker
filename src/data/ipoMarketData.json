@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30/7/2026, 11:09:22 pm",
+  "lastUpdated": "30/7/2026, 11:14:24 pm",
   "status": "success",
   "data": [
     {
@@ -83,38 +83,39 @@
         "drawdown": -1.58,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Microsoft rally lifts stocks, 30-year Treasury yield hits 19-year peak",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-choppy-rout-fed-014549754.html",
+            "time": 1785433117
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
             "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
             "time": 1785432782
-          },
-          {
-            "title": "Spineway : H1 2026 results",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
-            "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -577,9 +578,28 @@
         "drawdown": -3.69,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -591,24 +611,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -736,9 +738,28 @@
         "drawdown": -0.8,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -750,24 +771,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -1188,9 +1191,28 @@
         "drawdown": 0,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -1202,24 +1224,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -1431,9 +1435,28 @@
         "drawdown": -5.06,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -1445,24 +1468,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -1632,9 +1637,28 @@
         "drawdown": -1.69,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -1646,24 +1670,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -1958,9 +1964,28 @@
         "drawdown": -52.33,
         "anomalyType": "HYPE_DEFLATION",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -1972,24 +1997,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -2411,9 +2418,28 @@
         "drawdown": -11.1,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -2425,24 +2451,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -2780,9 +2788,28 @@
         "drawdown": -7.08,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -2794,24 +2821,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -2855,9 +2864,28 @@
         "drawdown": -7.69,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -2869,24 +2897,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -3098,9 +3108,28 @@
         "drawdown": -6.64,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -3112,24 +3141,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -3683,9 +3694,28 @@
         "drawdown": -17.31,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -3697,24 +3727,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -3758,38 +3770,39 @@
         "drawdown": -24.33,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Microsoft rally lifts stocks, 30-year Treasury yield hits 19-year peak",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-choppy-rout-fed-014549754.html",
+            "time": 1785433117
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
             "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
             "time": 1785432782
-          },
-          {
-            "title": "Spineway : H1 2026 results",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
-            "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -3876,38 +3889,39 @@
         "anomalyType": "FIFTY_TWO_WEEK_HIGH",
         "triggers": [
           "Breakout alert: Trading near or at 52-Week High on high volume",
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Microsoft rally lifts stocks, 30-year Treasury yield hits 19-year peak",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-choppy-rout-fed-014549754.html",
+            "time": 1785433117
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
             "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
             "time": 1785432782
-          },
-          {
-            "title": "Spineway : H1 2026 results",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
-            "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -3994,9 +4008,28 @@
         "anomalyType": "FIFTY_TWO_WEEK_HIGH",
         "triggers": [
           "Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume",
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -4008,24 +4041,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -4069,9 +4084,28 @@
         "drawdown": -14.22,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -4083,24 +4117,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -4396,9 +4412,28 @@
         "drawdown": -15.98,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -4410,24 +4445,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -4640,9 +4657,28 @@
         "anomalyType": "FIFTY_TWO_WEEK_HIGH",
         "triggers": [
           "Breakout alert: Trading near or at 52-Week High on high volume",
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -4654,24 +4690,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -5052,38 +5070,39 @@
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
           "Breakout alert: Trading near or at 52-Week High on high volume",
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Microsoft rally lifts stocks, 30-year Treasury yield hits 19-year peak",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-choppy-rout-fed-014549754.html",
+            "time": 1785433117
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
             "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
             "time": 1785432782
-          },
-          {
-            "title": "Spineway : H1 2026 results",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
-            "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -5505,9 +5524,28 @@
         "drawdown": 0,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -5519,24 +5557,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -5916,9 +5936,28 @@
         "drawdown": -1.66,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -5930,24 +5969,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -6494,9 +6515,28 @@
         "drawdown": 0,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -6508,24 +6548,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -8414,9 +8436,28 @@
         "drawdown": -9.63,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -8428,24 +8469,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -9124,9 +9147,28 @@
         "drawdown": -7.88,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -9138,24 +9180,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -9283,38 +9307,39 @@
         "drawdown": -0.35,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Microsoft rally lifts stocks, 30-year Treasury yield hits 19-year peak",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-choppy-rout-fed-014549754.html",
+            "time": 1785433117
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
             "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
             "time": 1785432782
-          },
-          {
-            "title": "Spineway : H1 2026 results",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
-            "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -9443,9 +9468,28 @@
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
           "Breakout alert: Trading near or at 52-Week High on high volume",
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -9457,24 +9501,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -10610,9 +10636,28 @@
         "drawdown": -9.79,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -10624,24 +10669,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -10767,9 +10794,28 @@
         "drawdown": -7.43,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -10781,24 +10827,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -10966,38 +10994,39 @@
         "drawdown": -5.5,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Microsoft rally lifts stocks, 30-year Treasury yield hits 19-year peak",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-choppy-rout-fed-014549754.html",
+            "time": 1785433117
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
             "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
             "time": 1785432782
-          },
-          {
-            "title": "Spineway : H1 2026 results",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
-            "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -11462,9 +11491,28 @@
         "anomalyType": "FIFTY_TWO_WEEK_HIGH",
         "triggers": [
           "Breakout alert: Trading near or at 52-Week High on high volume",
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -11476,24 +11524,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -11537,9 +11567,28 @@
         "drawdown": -5.26,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -11551,24 +11600,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -11738,9 +11769,28 @@
         "drawdown": -17.59,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -11752,24 +11802,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -11939,9 +11971,28 @@
         "drawdown": -10.26,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -11953,24 +12004,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -12055,9 +12088,28 @@
         "drawdown": -28.45,
         "anomalyType": "HYPE_DEFLATION",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -12069,24 +12121,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -12592,38 +12626,39 @@
         "drawdown": -33.49,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Microsoft rally lifts stocks, 30-year Treasury yield hits 19-year peak",
+            "publisher": "Reuters",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-choppy-rout-fed-014549754.html",
+            "time": 1785433117
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
             "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
             "time": 1785432782
-          },
-          {
-            "title": "Spineway : H1 2026 results",
-            "publisher": "GlobeNewswire",
-            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
-            "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -12919,9 +12954,28 @@
         "drawdown": -3.16,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -12933,24 +12987,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -13162,9 +13198,28 @@
         "drawdown": -3.59,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -13176,24 +13231,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -13908,9 +13945,28 @@
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
           "Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume",
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -13922,24 +13978,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -14025,9 +14063,28 @@
         "drawdown": -8.51,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -14039,24 +14096,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -14142,9 +14181,28 @@
         "drawdown": -12.73,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -14156,24 +14214,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -14217,9 +14257,28 @@
         "drawdown": -8.87,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -14231,24 +14290,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -14628,9 +14669,28 @@
         "drawdown": 0,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -14642,24 +14702,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -15123,9 +15165,28 @@
         "drawdown": -0.2,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -15137,24 +15198,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -15324,9 +15367,28 @@
         "drawdown": -41.05,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -15338,24 +15400,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -15441,9 +15485,28 @@
         "drawdown": -19.56,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -15455,24 +15518,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -16103,9 +16148,28 @@
         "drawdown": -8.35,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -16117,24 +16181,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -16725,9 +16771,28 @@
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
           "Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume",
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -16739,24 +16804,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -17261,9 +17308,28 @@
         "drawdown": -29.81,
         "anomalyType": "HYPE_DEFLATION",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -17275,24 +17341,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
@@ -17672,9 +17720,28 @@
         "drawdown": -9.86,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
+          "Earnings growth reported: \"Renault confirms 2026 guidance after H1 swing to profit\"",
           "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "Gene Munster Highlights AAPL Has An iPhone Headwind And A Price Hike Tailwind — Here’s What He Said About Siri AI",
+            "publisher": "Stocktwits",
+            "link": "https://finance.yahoo.com/m/98004f1f-4fa2-39e8-83e3-838934c12f24/gene-munster-highlights-aapl.html",
+            "time": 1785433227
+          },
+          {
+            "title": "Renault confirms 2026 guidance after H1 swing to profit",
+            "publisher": "Just Auto",
+            "link": "https://finance.yahoo.com/m/7bb8bde3-946b-3ec1-8ee9-596a11611212/renault-confirms-2026.html",
+            "time": 1785433204
+          },
+          {
+            "title": "Wall Street’s Highest Yielding ETFs Pay Over 50 Percent on Nvidia and Tesla. Here’s What They Don’t Tell You",
+            "publisher": "24/7 Wall St.",
+            "link": "https://finance.yahoo.com/m/3ec20721-02c3-3aa6-b9a0-558c2902bff2/wall-street%E2%80%99s-highest.html",
+            "time": 1785432946
+          },
           {
             "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
             "publisher": "StockStory",
@@ -17686,24 +17753,6 @@
             "publisher": "GlobeNewswire",
             "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
             "time": 1785432660
-          },
-          {
-            "title": "Spire declares dividend",
-            "publisher": "PR Newswire",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
-            "time": 1785432660
-          },
-          {
-            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
-            "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
-            "time": 1785432645
-          },
-          {
-            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
-            "publisher": "Yahoo Finance Video",
-            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
-            "time": 1785432600
           }
         ]
       }
