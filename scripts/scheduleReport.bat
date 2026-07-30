@@ -11,12 +11,12 @@ set PROJECT_DIR=%SCRIPT_DIR%..
 cd /d "%PROJECT_DIR%"
 
 :: Create task
-schtasks /create /tn "Indian_IPO_Tracker_Daily_Report" /tr "cmd.exe /c node \"%PROJECT_DIR%\scripts\sendEmailAlerts.cjs\"" /sc daily /st 18:00 /f
+schtasks /create /tn "Indian_IPO_Tracker_Daily_Report" /tr "cmd.exe /c node \"%PROJECT_DIR%\scripts\sendEmailAlerts.cjs\"" /sc daily /st 08:30 /f
 
 if %errorlevel% equ 0 (
     echo.
     echo [SUCCESS] Scheduled task registered successfully!
-    echo The report and email alerts will run daily at 6:00 PM IST.
+    echo The report and email alerts will run daily at 8:30 AM IST.
     echo Output report: reports/IPO_Daily_Report.md
     echo JSON database: src/data/ipoMarketData.json
     echo Configured email alerts will be sent out immediately after compile.
