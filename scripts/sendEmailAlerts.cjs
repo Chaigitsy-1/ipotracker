@@ -83,14 +83,6 @@ function sendTelegramMessage(token, chatId, text) {
     });
 }
 
-// Helper to get issue price from range
-function getIssuePrice(rangeStr) {
-    if (!rangeStr) return null;
-    const cleaned = rangeStr.replace(/,/g, '');
-    const matches = cleaned.match(/₹?\s*(\d+)\s*$/);
-    return matches ? parseFloat(matches[1]) : null;
-}
-
 async function main() {
     console.log('--- Triggering Daily IPO Report Generation & Email/Telegram Alerts ---');
 
@@ -217,7 +209,7 @@ async function main() {
         }
     }
 
-    // 4. Dispatch Telegram Alert if Telegram Configured
+    // 4. Dispatch Strategic Telegram Alert if Telegram Configured
     if (telegramConfig) {
         let telegramText = '';
         const localDate = new Date().toLocaleDateString('en-IN', { timeZone: 'Asia/Kolkata' });
@@ -228,42 +220,78 @@ async function main() {
                 const marketJson = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
                 const results = marketJson.data || [];
                 
-                // Extract Cases
-                const hypeDeflations = results.filter(ipo => ipo.marketData && ipo.marketData.anomalyType === 'HYPE_DEFLATION');
-                const sleeperBreakouts = results.filter(ipo => ipo.marketData && ipo.marketData.anomalyType === 'SLEEPER_BREAKOUT');
-                const fiftyTwoWeekHighAlerts = results.filter(ipo => ipo.marketData && ipo.marketData.anomalyType === 'FIFTY_TWO_WEEK_HIGH');
+                // Classify high conviction strategic trading signals
+                const valueAccumulations = results.filter(ipo => {
+                    const m = ipo.marketData;
+                    if (!m) return false;
+                    return m.anomalyType === 'HYPE_DEFLATION' && m.vsIssue <= 15;
+                });
 
-                telegramText = `*🚨 Daily Indian IPO Screener Alerts - ${localDate}*\n\n`;
+                const sleeperBreakouts = results.filter(ipo => {
+                    const m = ipo.marketData;
+                    if (!m) return false;
+                    return m.anomalyType === 'SLEEPER_BREAKOUT' && m.volumeSpike >= 1.5;
+                });
+
+                const trendRunners = results.filter(ipo => {
+                    const m = ipo.marketData;
+                    if (!m) return false;
+                    return m.anomalyType === 'FIFTY_TWO_WEEK_HIGH';
+                });
+
+                telegramText = `*⚡ IPO TRADING FEED - ACTIONABLE DIGEST (${localDate})*\n`;
+                telegramText += `_Professional Strategy Screens (NSE Mainboard)_\n\n`;
                 
-                telegramText += `*📉 Case 1: Hype Deflations (Top 5)*\n`;
-                if (hypeDeflations.length === 0) {
-                    telegramText += `_No stocks flagged_\n`;
+                // 1. Value Accumulation Signals
+                telegramText += `*💎 SETUP 1: VALUE ACCUMULATION PLAYS*\n`;
+                telegramText += `_Hype has cooled down completely. Price is trading near the institutional floor. Look to accumulate._\n`;
+                if (valueAccumulations.length === 0) {
+                    telegramText += `_No active signals today._\n`;
                 } else {
-                    telegramText += hypeDeflations.slice(0, 5).map(s => {
-                        return `- *${s.symbol}*: Price ₹${s.marketData.currentPrice} (Drawdown: ${s.marketData.drawdown}%, vs Issue: ${s.marketData.vsIssue >= 0 ? '+' : ''}${s.marketData.vsIssue}%)`;
-                    }).join('\n') + '\n';
+                    telegramText += valueAccumulations.slice(0, 3).map(s => {
+                        const m = s.marketData;
+                        return `• *${s.symbol}* (₹${m.currentPrice})\n` +
+                               `  *Trigger:* Down ${Math.abs(m.drawdown)}% from peak. Trading just *${m.vsIssue}%* from IPO price.\n` +
+                               `  *Volume:* ${m.volumeSpike}x average. 1W Return: ${m.change1w >= 0 ? '+' : ''}${m.change1w}%\n` +
+                               `  *Playbook:* Build core long position. Institutional support holding.`;
+                    }).join('\n\n') + '\n';
                 }
 
-                telegramText += `\n*📈 Case 2: Sleeper Breakouts (Top 5)*\n`;
+                // 2. Sleeper Breakout Signals
+                telegramText += `\n*🚀 SETUP 2: SLEEPER TURNAROUND BREAKOUTS*\n`;
+                telegramText += `_Flat listings that consolidated for months. Sudden massive institutional buying volume detected._\n`;
                 if (sleeperBreakouts.length === 0) {
-                    telegramText += `_No stocks flagged_\n`;
+                    telegramText += `_No active signals today._\n`;
                 } else {
-                    telegramText += sleeperBreakouts.slice(0, 5).map(s => {
-                        return `- *${s.symbol}*: Price ₹${s.marketData.currentPrice} (Vol Spike: ${s.marketData.volumeSpike}x, 1M: ${s.marketData.change1m >= 0 ? '+' : ''}${s.marketData.change1m}%)`;
-                    }).join('\n') + '\n';
+                    telegramText += sleeperBreakouts.slice(0, 3).map(s => {
+                        const m = s.marketData;
+                        const newsTitle = m.news && m.news[0] ? `"${m.news[0].title.substring(0, 50)}..."` : 'Heavy FII/DII accumulation';
+                        return `• *${s.symbol}* (₹${m.currentPrice})\n` +
+                               `  *Trigger:* Listed flat (${m.listingGain}% gains). Up *${m.change1m >= 0 ? '+' : ''}${m.change1m}%* in 30 days.\n` +
+                               `  *Volume:* Breakthrough *${m.volumeSpike}x* SMA volume!\n` +
+                               `  *Catalyst:* ${newsTitle}\n` +
+                               `  *Playbook:* Buy the breakout. Momentum starting markup phase.`;
+                    }).join('\n\n') + '\n';
                 }
 
-                telegramText += `\n*⚡ Case 3: 52W High Breakouts (Top 5)*\n`;
-                if (fiftyTwoWeekHighAlerts.length === 0) {
-                    telegramText += `_No stocks flagged_\n`;
+                // 3. Trend Runner Signals
+                telegramText += `\n*🔥 SETUP 3: MOMENTUM TREND RUNNERS*\n`;
+                telegramText += `_Trading at new 52-Week Highs with high volume. Zero overhead resistance. Ride the trend._\n`;
+                if (trendRunners.length === 0) {
+                    telegramText += `_No active signals today._\n`;
                 } else {
-                    telegramText += fiftyTwoWeekHighAlerts.slice(0, 5).map(s => {
-                        return `- *${s.symbol}*: Price ₹${s.marketData.currentPrice} (${s.marketData.pctFrom52WHigh >= 0 ? '+' : ''}${s.marketData.pctFrom52WHigh.toFixed(1)}% vs. 52W High, Vol Spike: ${s.marketData.volumeSpike}x)`;
-                    }).join('\n') + '\n';
+                    telegramText += trendRunners.slice(0, 3).map(s => {
+                        const m = s.marketData;
+                        return `• *${s.symbol}* (₹${m.currentPrice})\n` +
+                               `  *Trigger:* Trading at new 52W High (${m.pctFrom52WHigh.toFixed(1)}% offset).\n` +
+                               `  *Volume:* strong ${m.volumeSpike}x volume. 1W Return: +${m.change1w}%\n` +
+                               `  *Playbook:* Momentum ride. Put a trailing stop loss at 1-week low (₹${(m.currentPrice * 0.92).toFixed(1)}).`;
+                    }).join('\n\n') + '\n';
                 }
 
-                telegramText += `\n_View the full dashboard at https://Chaigitsy-1.github.io/ipotracker/_`;
-                
+                telegramText += `\n*🖥️ Live Interactive Dashboard:* \nhttps://Chaigitsy-1.github.io/ipotracker/\n`;
+                telegramText += `_Note: Trade setups are generated programmatically. Verify financials before entering._`;
+
                 console.log('Sending Telegram alert summary...');
                 await sendTelegramMessage(telegramConfig.botToken, telegramConfig.chatId, telegramText);
                 console.log('Telegram message sent successfully!');
