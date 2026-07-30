@@ -1,5 +1,5 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 30/7/2026, 11:09:22 pm | **Analyst Feed:** Automated Screener
+**Report Generated On:** 30/7/2026, 11:14:24 pm | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
 - **Total Closed IPOs Screened:** 378
@@ -18,6 +18,7 @@
 - **Performance:** 1W: `+2.02%` | 1M: `-1.5%` | 3M: `-0.45%`
 - **Volume Spike:** 1.49x (Today's Vol: 7,469,079)
 - **Key News Triggers Detected:**
+  - Earnings growth reported: "Renault confirms 2026 guidance after H1 swing to profit"
   - Quarterly earnings trigger: "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call"
 
 ### 📉 Premier Energies (PREMIERENE)
@@ -26,6 +27,7 @@
 - **Performance:** 1W: `-4.1%` | 1M: `-6.55%` | 3M: `-5.06%`
 - **Volume Spike:** 1.72x (Today's Vol: 2,265,116)
 - **Key News Triggers Detected:**
+  - Earnings growth reported: "Renault confirms 2026 guidance after H1 swing to profit"
   - Quarterly earnings trigger: "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call"
 
 ### 📉 Waaree Energies (WAAREEENER)
@@ -34,6 +36,7 @@
 - **Performance:** 1W: `-3.2%` | 1M: `-8.78%` | 3M: `-16.31%`
 - **Volume Spike:** 5.44x (Today's Vol: 4,866,774)
 - **Key News Triggers Detected:**
+  - Earnings growth reported: "Renault confirms 2026 guidance after H1 swing to profit"
   - Quarterly earnings trigger: "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call"
 
 ---
@@ -47,6 +50,7 @@
 - **Surge Performance:** 1W: **`+8.47%`** | 1M: **`+25.07%`**
 - **Volume Breakout:** **0.57x** (Today's Vol: 91,997)
 - **Key News Triggers Detected:**
+  - Earnings growth reported: "Renault confirms 2026 guidance after H1 swing to profit"
   - Quarterly earnings trigger: "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call"
 
 ### 📈 Amir Chand Jagdish Kumar (Exports) Limited (AEROPLANE)
@@ -55,6 +59,7 @@
 - **Surge Performance:** 1W: **`+1.14%`** | 1M: **`+29.82%`**
 - **Volume Breakout:** **0.6x** (Today's Vol: 525,801)
 - **Key News Triggers Detected:**
+  - Earnings growth reported: "Renault confirms 2026 guidance after H1 swing to profit"
   - Quarterly earnings trigger: "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call"
 
 ### 📈 Aegis Vopak Terminals Limited (AEGISVOPAK)
@@ -63,6 +68,7 @@
 - **Surge Performance:** 1W: **`-0.85%`** | 1M: **`+24.12%`**
 - **Volume Breakout:** **0.18x** (Today's Vol: 657,788)
 - **Key News Triggers Detected:**
+  - Earnings growth reported: "Renault confirms 2026 guidance after H1 swing to profit"
   - Quarterly earnings trigger: "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call"
 
 ### 📈 Amagi Media Labs Limited (AMAGI)
@@ -71,6 +77,7 @@
 - **Surge Performance:** 1W: **`+0.5%`** | 1M: **`+21.92%`**
 - **Volume Breakout:** **0.79x** (Today's Vol: 377,724)
 - **Key News Triggers Detected:**
+  - Earnings growth reported: "Renault confirms 2026 guidance after H1 swing to profit"
   - Quarterly earnings trigger: "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call"
 
 ### 📈 Ashika Global Securities Limited (ASHIKAG)
@@ -79,6 +86,7 @@
 - **Surge Performance:** 1W: **`+21.49%`** | 1M: **`+27.7%`**
 - **Volume Breakout:** **1.06x** (Today's Vol: 412,362)
 - **Key News Triggers Detected:**
+  - Earnings growth reported: "Renault confirms 2026 guidance after H1 swing to profit"
   - Quarterly earnings trigger: "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call"
 
 *...and 37 more Sleeper Breakout alerts. View them in the Market Screener tab.*
@@ -88,20 +96,22 @@
 ## 🔥 Case 3: 52-Week High Breakouts (Top 5 Listings)
 *These stocks are trading within 4% of their 52-Week Highs with high breakout volumes, indicating strong upward momentum.*
 
-### ⚡ CORONA Remedies Limited (CORONA)
-- **52W High:** ₹2113 | **Current Price:** **₹2091.1** (**-1.0%** vs. 52W High)
-- **Performance:** 1W: `+3.03%` | 1M: `+6.91%` | 3M: `+20.83%`
-- **Volume Spike:** **1.53x** (Today's Vol: 42,360)
-- **Key News Triggers Detected:**
-  - Breakout alert: Trading near or at 52-Week High on high volume
-  - Quarterly earnings trigger: "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call"
-
 ### ⚡ Captain Polyplast Limited (CPL)
 - **52W High:** ₹72.46 | **Current Price:** **₹72.46** (**+0.0%** vs. 52W High)
 - **Performance:** 1W: `+2.21%` | 1M: `+null%` | 3M: `+null%`
 - **Volume Spike:** **2.05x** (Today's Vol: 71,591)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
+  - Earnings growth reported: "Renault confirms 2026 guidance after H1 swing to profit"
+  - Quarterly earnings trigger: "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call"
+
+### ⚡ CORONA Remedies Limited (CORONA)
+- **52W High:** ₹2113 | **Current Price:** **₹2091.1** (**-1.0%** vs. 52W High)
+- **Performance:** 1W: `+3.03%` | 1M: `+6.91%` | 3M: `+20.83%`
+- **Volume Spike:** **1.53x** (Today's Vol: 42,360)
+- **Key News Triggers Detected:**
+  - Breakout alert: Trading near or at 52-Week High on high volume
+  - Earnings growth reported: "Renault confirms 2026 guidance after H1 swing to profit"
   - Quarterly earnings trigger: "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call"
 
 ### ⚡ Disa India Limited (DISAQ)
@@ -110,6 +120,7 @@
 - **Volume Spike:** **2.14x** (Today's Vol: 1,036)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
+  - Earnings growth reported: "Renault confirms 2026 guidance after H1 swing to profit"
   - Quarterly earnings trigger: "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call"
 
 ### ⚡ Paushak Limited (PAUSHAKLTD)
@@ -118,6 +129,7 @@
 - **Volume Spike:** **4.17x** (Today's Vol: 126,499)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
+  - Earnings growth reported: "Renault confirms 2026 guidance after H1 swing to profit"
   - Quarterly earnings trigger: "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call"
 
 ---
