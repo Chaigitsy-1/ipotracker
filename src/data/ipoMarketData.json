@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "30/7/2026, 11:01:36 pm",
+  "lastUpdated": "30/7/2026, 11:09:22 pm",
   "status": "success",
   "data": [
     {
@@ -83,38 +83,38 @@
         "drawdown": -1.58,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -577,38 +577,38 @@
         "drawdown": -3.69,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -736,38 +736,38 @@
         "drawdown": -0.8,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -1188,38 +1188,38 @@
         "drawdown": 0,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -1431,38 +1431,38 @@
         "drawdown": -5.06,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -1632,38 +1632,38 @@
         "drawdown": -1.69,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -1958,38 +1958,38 @@
         "drawdown": -52.33,
         "anomalyType": "HYPE_DEFLATION",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -2411,38 +2411,38 @@
         "drawdown": -11.1,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -2780,38 +2780,38 @@
         "drawdown": -7.08,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -2855,38 +2855,38 @@
         "drawdown": -7.69,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -3098,38 +3098,38 @@
         "drawdown": -6.64,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -3683,38 +3683,38 @@
         "drawdown": -17.31,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Quarterly earnings trigger: \"Why Apple's Earnings Need 'Zero Blemishes'\""
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
           {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
           },
           {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
           },
           {
-            "title": "Why Apple's Earnings Need 'Zero Blemishes'",
-            "publisher": "Barrons.com",
-            "link": "https://finance.yahoo.com/m/e1c5f464-b42b-35ec-a4ad-d1cbf6358073/why-apple%27s-earnings-need.html",
-            "time": 1785432228
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
           },
           {
-            "title": "How Mastercard plans to compete in agentic commerce",
-            "publisher": "American Banker",
-            "link": "https://finance.yahoo.com/m/d2dd566b-58a6-3afc-a106-a881509a7e31/how-mastercard-plans-to.html",
-            "time": 1785432087
-          },
-          {
-            "title": "Jersey Mike's IPO: JMKE stock opens below $23 price on NYSE",
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
             "publisher": "Quartz",
-            "link": "https://finance.yahoo.com/m/169fa3d3-266f-3c58-844f-6e39fca71048/jersey-mike%27s-ipo%3A-jmke-stock.html",
-            "time": 1785432075
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
+          {
+            "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
+            "publisher": "Yahoo Finance Video",
+            "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
+            "time": 1785432600
           }
         ]
       }
@@ -3758,38 +3758,38 @@
         "drawdown": -24.33,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -3875,38 +3875,39 @@
         "drawdown": -1.04,
         "anomalyType": "FIFTY_TWO_WEEK_HIGH",
         "triggers": [
-          "Breakout alert: Trading near or at 52-Week High on high volume"
+          "Breakout alert: Trading near or at 52-Week High on high volume",
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -3992,38 +3993,39 @@
         "drawdown": 0,
         "anomalyType": "FIFTY_TWO_WEEK_HIGH",
         "triggers": [
-          "Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume"
+          "Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume",
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -4067,38 +4069,38 @@
         "drawdown": -14.22,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -4394,38 +4396,38 @@
         "drawdown": -15.98,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -4637,38 +4639,39 @@
         "drawdown": -2.25,
         "anomalyType": "FIFTY_TWO_WEEK_HIGH",
         "triggers": [
-          "Breakout alert: Trading near or at 52-Week High on high volume"
+          "Breakout alert: Trading near or at 52-Week High on high volume",
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -5048,38 +5051,39 @@
         "drawdown": -0.49,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Breakout alert: Trading near or at 52-Week High on high volume"
+          "Breakout alert: Trading near or at 52-Week High on high volume",
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -5501,38 +5505,38 @@
         "drawdown": 0,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -5912,38 +5916,38 @@
         "drawdown": -1.66,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -6490,38 +6494,38 @@
         "drawdown": 0,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -8410,38 +8414,38 @@
         "drawdown": -9.63,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -9120,38 +9124,38 @@
         "drawdown": -7.88,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -9279,38 +9283,38 @@
         "drawdown": -0.35,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -9438,38 +9442,39 @@
         "drawdown": -3.79,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Breakout alert: Trading near or at 52-Week High on high volume"
+          "Breakout alert: Trading near or at 52-Week High on high volume",
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -10605,38 +10610,38 @@
         "drawdown": -9.79,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -10762,38 +10767,38 @@
         "drawdown": -7.43,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -10961,38 +10966,38 @@
         "drawdown": -5.5,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -11456,38 +11461,39 @@
         "drawdown": -1.32,
         "anomalyType": "FIFTY_TWO_WEEK_HIGH",
         "triggers": [
-          "Breakout alert: Trading near or at 52-Week High on high volume"
+          "Breakout alert: Trading near or at 52-Week High on high volume",
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -11531,38 +11537,38 @@
         "drawdown": -5.26,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -11732,38 +11738,38 @@
         "drawdown": -17.59,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -11933,38 +11939,38 @@
         "drawdown": -10.26,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -12049,38 +12055,38 @@
         "drawdown": -28.45,
         "anomalyType": "HYPE_DEFLATION",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -12586,38 +12592,38 @@
         "drawdown": -33.49,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -12913,38 +12919,38 @@
         "drawdown": -3.16,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -13156,38 +13162,38 @@
         "drawdown": -3.59,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -13901,38 +13907,39 @@
         "drawdown": 0,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume"
+          "Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume",
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -14018,38 +14025,38 @@
         "drawdown": -8.51,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -14135,38 +14142,38 @@
         "drawdown": -12.73,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -14210,38 +14217,38 @@
         "drawdown": -8.87,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -14621,38 +14628,38 @@
         "drawdown": 0,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -15116,38 +15123,38 @@
         "drawdown": -0.2,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -15317,38 +15324,38 @@
         "drawdown": -41.05,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -15434,38 +15441,38 @@
         "drawdown": -19.56,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -16096,38 +16103,38 @@
         "drawdown": -8.35,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -16717,38 +16724,39 @@
         "drawdown": -42.74,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume"
+          "Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume",
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -17253,38 +17261,38 @@
         "drawdown": -29.81,
         "anomalyType": "HYPE_DEFLATION",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
@@ -17664,38 +17672,38 @@
         "drawdown": -9.86,
         "anomalyType": "SLEEPER_BREAKOUT",
         "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
+          "Quarterly earnings trigger: \"The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call\""
         ],
         "news": [
+          {
+            "title": "The 5 Most Interesting Analyst Questions From Boston Beer’s Q2 Earnings Call",
+            "publisher": "StockStory",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-173302520.html",
+            "time": 1785432782
+          },
+          {
+            "title": "Spineway : H1 2026 results",
+            "publisher": "GlobeNewswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/spineway-h1-2026-results-173100840.html",
+            "time": 1785432660
+          },
+          {
+            "title": "Spire declares dividend",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/spire-declares-dividend-173100725.html",
+            "time": 1785432660
+          },
+          {
+            "title": "OpenAI cuts GPT-5.6 Luna and Terra prices by up to 80%",
+            "publisher": "Quartz",
+            "link": "https://finance.yahoo.com/m/ef086d9a-5f80-3112-9f38-ae30d35ff164/openai-cuts-gpt-5.6-luna-and.html",
+            "time": 1785432645
+          },
           {
             "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
             "publisher": "Yahoo Finance Video",
             "link": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html",
             "time": 1785432600
-          },
-          {
-            "title": "Ascendant Network Announces Comprehensive Sponsor Lineup for the Inaugural SHOWCASE: World’s First Retail + Commerce Media Upfront",
-            "publisher": "Business Wire",
-            "link": "https://finance.yahoo.com/media-advertising/articles/ascendant-network-announces-comprehensive-sponsor-172900373.html",
-            "time": 1785432540
-          },
-          {
-            "title": "UEFA says will boycott World Cup if FIFA pushes private investor proposal",
-            "publisher": "AFP",
-            "link": "https://finance.yahoo.com/m/f998ad3d-124a-3044-b1ee-8f880cbffb21/uefa-says-will-boycott-world.html",
-            "time": 1785432363
-          },
-          {
-            "title": "Falafel Inc Named #1 by Washington City Paper for Fourth Consecutive Year",
-            "publisher": "ACCESS Newswire",
-            "link": "https://finance.yahoo.com/small-business/articles/falafel-inc-named-1-washington-172500447.html",
-            "time": 1785432300
-          },
-          {
-            "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-            "publisher": "24/7 Wall St.",
-            "link": "https://finance.yahoo.com/m/072f0760-9194-30c8-b7c5-28201aae1593/doordash-launches-drone.html",
-            "time": 1785432281
           }
         ]
       }
