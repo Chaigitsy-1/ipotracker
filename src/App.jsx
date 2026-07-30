@@ -20,6 +20,7 @@ export default function App() {
   const [sortCol, setSortCol] = useState('listingDate');
   const [sortDir, setSortDir] = useState('desc');
   const [itemsPerPage, setItemsPerPage] = useState(50);
+  const [dashView, setDashView] = useState('insights');
   
   // Watchlist stored in localstorage
   const [watchlist, setWatchlist] = useState(() => {
@@ -248,7 +249,49 @@ export default function App() {
       {activeTab === 'dashboard' || activeTab === 'watchlist' ? (
         <div className="animate-fade-in">
           
-          {/* Filters Bar */}
+          {/* Sub-tab Toggle (Insights vs Leaderboard) */}
+          {activeTab === 'dashboard' && (
+            <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '1.5rem', borderBottom: '1px solid var(--border-glass)', paddingBottom: '0.75rem' }}>
+              <button 
+                onClick={() => setDashView('insights')}
+                style={{
+                  background: dashView === 'insights' ? 'rgba(99, 102, 241, 0.15)' : 'transparent',
+                  border: 'none',
+                  borderBottom: dashView === 'insights' ? '2px solid var(--accent-primary)' : 'none',
+                  color: dashView === 'insights' ? 'var(--text-main)' : 'var(--text-muted)',
+                  padding: '0.5rem 1rem',
+                  fontSize: '0.9rem',
+                  fontWeight: 600,
+                  cursor: 'pointer',
+                  borderRadius: '4px 4px 0 0',
+                  transition: 'var(--transition-smooth)'
+                }}
+              >
+                🎯 Actionable Trade Setups
+              </button>
+              <button 
+                onClick={() => setDashView('leaderboard')}
+                style={{
+                  background: dashView === 'leaderboard' ? 'rgba(99, 102, 241, 0.15)' : 'transparent',
+                  border: 'none',
+                  borderBottom: dashView === 'leaderboard' ? '2px solid var(--accent-primary)' : 'none',
+                  color: dashView === 'leaderboard' ? 'var(--text-main)' : 'var(--text-muted)',
+                  padding: '0.5rem 1rem',
+                  fontSize: '0.9rem',
+                  fontWeight: 600,
+                  cursor: 'pointer',
+                  borderRadius: '4px 4px 0 0',
+                  transition: 'var(--transition-smooth)'
+                }}
+              >
+                📊 All Listings Leaderboard
+              </button>
+            </div>
+          )}
+
+          {(activeTab === 'watchlist' || dashView === 'leaderboard') ? (
+            <>
+              {/* Filters Bar */}
           <div className="glass-panel" style={{ padding: '1.25rem', marginBottom: '1.5rem', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '1rem' }}>
             <div style={{ display: 'flex', gap: '1rem', flexGrow: 1, flexWrap: 'wrap' }}>
               
@@ -599,7 +642,130 @@ export default function App() {
               </div>
             </>
           )}
+          </>
+          ) : (
+            /* Actionable Insights Board View */
+            <div className="grid-3 animate-fade-in" style={{ gap: '1.25rem' }}>
+              
+              {/* Column 1: Value Accumulation */}
+              <div className="glass-panel" style={{ padding: '1.5rem', border: '1px solid rgba(99,102,241,0.15)', background: 'linear-gradient(135deg, rgba(99,102,241,0.02) 0%, rgba(0,0,0,0) 100%)' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '0.65rem', marginBottom: '1.25rem', borderBottom: '1px solid rgba(255,255,255,0.06)', paddingBottom: '0.75rem' }}>
+                  <span style={{ fontSize: '1.4rem' }}>💎</span>
+                  <div>
+                    <h3 style={{ fontSize: '1.05rem', fontWeight: 800, color: 'var(--text-main)', margin: 0 }}>Value Accumulation</h3>
+                    <span style={{ fontSize: '0.7rem', color: 'var(--text-muted)' }}>Hype cooled. Trading near original IPO price.</span>
+                  </div>
+                </div>
+                
+                <div style={{ display: 'flex', flexDirection: 'column', gap: '0.85rem' }}>
+                  {ipos.filter(ipo => ipo.marketData && ipo.marketData.anomalyType === 'HYPE_DEFLATION' && ipo.marketData.vsIssue <= 15).slice(0, 5).map(ipo => {
+                    const m = ipo.marketData;
+                    return (
+                      <div 
+                        key={ipo.symbol} 
+                        onClick={() => setSelectedIpo(ipo)}
+                        className="table-row-hover"
+                        style={{ padding: '1rem', borderRadius: '8px', border: '1px solid var(--border-glass)', cursor: 'pointer', background: 'rgba(255,255,255,0.01)', transition: 'var(--transition-smooth)' }}
+                      >
+                        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.35rem' }}>
+                          <span style={{ fontWeight: 700, color: 'var(--text-main)', fontSize: '0.88rem' }}>{ipo.symbol}</span>
+                          <span style={{ fontSize: '0.88rem', color: 'var(--accent-primary)', fontWeight: 700 }}>₹{m.currentPrice}</span>
+                        </div>
+                        <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginBottom: '0.65rem', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{ipo.name}</div>
+                        <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.72rem', color: 'var(--text-dim)', borderTop: '1px solid rgba(255,255,255,0.04)', paddingTop: '0.5rem' }}>
+                          <span>vs Issue: <strong style={{ color: 'var(--status-danger)' }}>{m.vsIssue}%</strong></span>
+                          <span>Drawdown: <strong style={{ color: 'var(--status-danger)' }}>{m.drawdown}%</strong></span>
+                          <span>Vol: <strong>{m.volumeSpike}x</strong></span>
+                        </div>
+                      </div>
+                    );
+                  })}
+                  {ipos.filter(ipo => ipo.marketData && ipo.marketData.anomalyType === 'HYPE_DEFLATION' && ipo.marketData.vsIssue <= 15).length === 0 && (
+                    <div style={{ textAlign: 'center', padding: '3rem 1rem', color: 'var(--text-dim)', fontSize: '0.8rem' }}>No active setups today.</div>
+                  )}
+                </div>
+              </div>
 
+              {/* Column 2: Sleeper Breakouts */}
+              <div className="glass-panel" style={{ padding: '1.5rem', border: '1px solid rgba(16,185,129,0.15)', background: 'linear-gradient(135deg, rgba(16,185,129,0.02) 0%, rgba(0,0,0,0) 100%)' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '0.65rem', marginBottom: '1.25rem', borderBottom: '1px solid rgba(255,255,255,0.06)', paddingBottom: '0.75rem' }}>
+                  <span style={{ fontSize: '1.4rem' }}>🚀</span>
+                  <div>
+                    <h3 style={{ fontSize: '1.05rem', fontWeight: 800, color: 'var(--text-main)', margin: 0 }}>Sleeper Breakouts</h3>
+                    <span style={{ fontSize: '0.7rem', color: 'var(--text-muted)' }}>Sideways flat listings breaking out on volume.</span>
+                  </div>
+                </div>
+                
+                <div style={{ display: 'flex', flexDirection: 'column', gap: '0.85rem' }}>
+                  {ipos.filter(ipo => ipo.marketData && ipo.marketData.anomalyType === 'SLEEPER_BREAKOUT' && ipo.marketData.volumeSpike >= 1.5).slice(0, 5).map(ipo => {
+                    const m = ipo.marketData;
+                    return (
+                      <div 
+                        key={ipo.symbol} 
+                        onClick={() => setSelectedIpo(ipo)}
+                        className="table-row-hover"
+                        style={{ padding: '1rem', borderRadius: '8px', border: '1px solid var(--border-glass)', cursor: 'pointer', background: 'rgba(255,255,255,0.01)', transition: 'var(--transition-smooth)' }}
+                      >
+                        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.35rem' }}>
+                          <span style={{ fontWeight: 700, color: 'var(--text-main)', fontSize: '0.88rem' }}>{ipo.symbol}</span>
+                          <span style={{ fontSize: '0.88rem', color: 'var(--accent-success)', fontWeight: 700 }}>₹{m.currentPrice}</span>
+                        </div>
+                        <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginBottom: '0.65rem', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{ipo.name}</div>
+                        <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.72rem', color: 'var(--text-dim)', borderTop: '1px solid rgba(255,255,255,0.04)', paddingTop: '0.5rem' }}>
+                          <span>1M Ret: <strong style={{ color: 'var(--status-success)' }}>+{m.change1m}%</strong></span>
+                          <span>Vol Spike: <strong style={{ color: 'var(--status-success)' }}>{m.volumeSpike}x</strong></span>
+                          <span>Listing: <strong>{m.listingGain}%</strong></span>
+                        </div>
+                      </div>
+                    );
+                  })}
+                  {ipos.filter(ipo => ipo.marketData && ipo.marketData.anomalyType === 'SLEEPER_BREAKOUT' && ipo.marketData.volumeSpike >= 1.5).length === 0 && (
+                    <div style={{ textAlign: 'center', padding: '3rem 1rem', color: 'var(--text-dim)', fontSize: '0.8rem' }}>No active setups today.</div>
+                  )}
+                </div>
+              </div>
+
+              {/* Column 3: Trend Runners */}
+              <div className="glass-panel" style={{ padding: '1.5rem', border: '1px solid rgba(245,158,11,0.15)', background: 'linear-gradient(135deg, rgba(245,158,11,0.02) 0%, rgba(0,0,0,0) 100%)' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '0.65rem', marginBottom: '1.25rem', borderBottom: '1px solid rgba(255,255,255,0.06)', paddingBottom: '0.75rem' }}>
+                  <span style={{ fontSize: '1.4rem' }}>🔥</span>
+                  <div>
+                    <h3 style={{ fontSize: '1.05rem', fontWeight: 800, color: 'var(--text-main)', margin: 0 }}>Momentum Runners</h3>
+                    <span style={{ fontSize: '0.7rem', color: 'var(--text-muted)' }}>Trading near or at 52-Week Highs with volume.</span>
+                  </div>
+                </div>
+                
+                <div style={{ display: 'flex', flexDirection: 'column', gap: '0.85rem' }}>
+                  {ipos.filter(ipo => ipo.marketData && ipo.marketData.anomalyType === 'FIFTY_TWO_WEEK_HIGH').slice(0, 5).map(ipo => {
+                    const m = ipo.marketData;
+                    return (
+                      <div 
+                        key={ipo.symbol} 
+                        onClick={() => setSelectedIpo(ipo)}
+                        className="table-row-hover"
+                        style={{ padding: '1rem', borderRadius: '8px', border: '1px solid var(--border-glass)', cursor: 'pointer', background: 'rgba(255,255,255,0.01)', transition: 'var(--transition-smooth)' }}
+                      >
+                        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '0.35rem' }}>
+                          <span style={{ fontWeight: 700, color: 'var(--text-main)', fontSize: '0.88rem' }}>{ipo.symbol}</span>
+                          <span style={{ fontSize: '0.88rem', color: 'var(--accent-warning)', fontWeight: 700 }}>₹{m.currentPrice}</span>
+                        </div>
+                        <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginBottom: '0.65rem', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{ipo.name}</div>
+                        <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: '0.72rem', color: 'var(--text-dim)', borderTop: '1px solid rgba(255,255,255,0.04)', paddingTop: '0.5rem' }}>
+                          <span>vs 52W: <strong style={{ color: 'var(--status-success)' }}>{m.pctFrom52WHigh}%</strong></span>
+                          <span>Vol Spike: <strong style={{ color: 'var(--status-success)' }}>{m.volumeSpike}x</strong></span>
+                          <span>1W Ret: <strong>+{m.change1w}%</strong></span>
+                        </div>
+                      </div>
+                    );
+                  })}
+                  {ipos.filter(ipo => ipo.marketData && ipo.marketData.anomalyType === 'FIFTY_TWO_WEEK_HIGH').length === 0 && (
+                    <div style={{ textAlign: 'center', padding: '3rem 1rem', color: 'var(--text-dim)', fontSize: '0.8rem' }}>No active setups today.</div>
+                  )}
+                </div>
+              </div>
+
+            </div>
+          )}
         </div>
       ) : activeTab === 'screener' ? (
         <MarketScreener ipos={ipos} onSelectIpo={setSelectedIpo} />
