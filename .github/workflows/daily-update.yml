@@ -2,8 +2,8 @@ name: Daily IPO Data Update & Alerts
 
 on:
   schedule:
-    # Run every day at 3:00 AM UTC (8:30 AM IST)
-    - cron: '0 3 * * *'
+    # Run every day at 12:30 AM UTC (6:00 AM IST)
+    - cron: '30 0 * * *'
   workflow_dispatch:
     # Allows manual trigger from the GitHub Actions tab
 
