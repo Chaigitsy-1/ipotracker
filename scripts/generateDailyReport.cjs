@@ -330,12 +330,29 @@ async function main() {
                 const searchRes = await fetchUrl(newsUrl);
                 const searchJson = JSON.parse(searchRes);
                 if (searchJson.news && Array.isArray(searchJson.news)) {
-                    newsArticles = searchJson.news.slice(0, 5).map(n => ({
-                        title: n.title,
-                        publisher: n.publisher,
-                        link: n.link,
-                        time: n.providerPublishTime
-                    }));
+                    const cleanTicker = symbol.toLowerCase();
+                    const cleanCompanyName = ipo.name ? ipo.name.toLowerCase().split(' ')[0] : '';
+                    
+                    newsArticles = searchJson.news
+                        .filter(n => {
+                            // Check if ticker is explicitly related in Yahoo's ticker links
+                            const hasRelatedTicker = n.relatedTickers && 
+                                n.relatedTickers.some(t => t.toLowerCase() === `${cleanTicker}.ns` || t.toLowerCase() === `${cleanTicker}.bo` || t.toLowerCase() === cleanTicker);
+                            
+                            // Check if stock ticker or first word of name is in title (avoiding short noise words)
+                            const titleLower = n.title.toLowerCase();
+                            const hasTextMatch = titleLower.includes(cleanTicker) || 
+                                (cleanCompanyName.length > 3 && titleLower.includes(cleanCompanyName));
+                                
+                            return hasRelatedTicker || hasTextMatch;
+                        })
+                        .slice(0, 5)
+                        .map(n => ({
+                            title: n.title,
+                            publisher: n.publisher,
+                            link: n.link,
+                            time: n.providerPublishTime
+                        }));
 
                     const keywords = [
                         { key: 'FII', phrase: 'FII / Institutional buying detected' },
