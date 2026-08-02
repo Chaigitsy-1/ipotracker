@@ -1,5 +1,5 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 1/8/2026, 9:28:25 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 2/8/2026, 9:31:59 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
 - **Total Closed IPOs Screened:** 378
@@ -18,8 +18,8 @@
 - **Performance:** 1W: `+2.17%` | 1M: `-2.97%` | 3M: `-0.54%`
 - **Volume Spike:** 1.82x (Today's Vol: 6,269,285)
 - **Key News Triggers Detected:**
-  - Strong revenue growth reported: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
-  - New commercial contract bagged: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
+  - Quarterly earnings trigger: "Snap (SNAP) Q2 Earnings: What To Expect"
+  - Quarterly earnings trigger: "Capital Southwest (CSWC) Reports Q2: Everything You Need To Know Ahead Of Earnings"
 
 ### 📉 Premier Energies (PREMIERENE)
 - **Issue Price:** ₹450 | **Listing Price:** ₹990 (+120% Listing Gain)
@@ -27,8 +27,8 @@
 - **Performance:** 1W: `-0.24%` | 1M: `-2.8%` | 3M: `-1.25%`
 - **Volume Spike:** 1.25x (Today's Vol: 1,706,689)
 - **Key News Triggers Detected:**
-  - Strong revenue growth reported: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
-  - New commercial contract bagged: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
+  - Quarterly earnings trigger: "Snap (SNAP) Q2 Earnings: What To Expect"
+  - Quarterly earnings trigger: "Capital Southwest (CSWC) Reports Q2: Everything You Need To Know Ahead Of Earnings"
 
 ### 📉 Waaree Energies (WAAREEENER)
 - **Issue Price:** ₹1503 | **Listing Price:** ₹2500 (+66.33% Listing Gain)
@@ -36,8 +36,8 @@
 - **Performance:** 1W: `-0.81%` | 1M: `-6.92%` | 3M: `-15.76%`
 - **Volume Spike:** 1.43x (Today's Vol: 1,315,915)
 - **Key News Triggers Detected:**
-  - Strong revenue growth reported: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
-  - New commercial contract bagged: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
+  - Quarterly earnings trigger: "Snap (SNAP) Q2 Earnings: What To Expect"
+  - Quarterly earnings trigger: "Capital Southwest (CSWC) Reports Q2: Everything You Need To Know Ahead Of Earnings"
 
 ---
 
@@ -50,17 +50,8 @@
 - **Surge Performance:** 1W: **`+10.73%`** | 1M: **`+25.14%`**
 - **Volume Breakout:** **0.54x** (Today's Vol: 88,583)
 - **Key News Triggers Detected:**
-  - Strong revenue growth reported: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
-  - New commercial contract bagged: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
-
-### 📈 Aegis Vopak Terminals Limited (AEGISVOPAK)
-- **Issue Price:** ₹220 | **Listing Price:** ₹220 (+0% Listing Gain)
-- **Current Price:** **₹290.16** | **Peak Price:** ₹303.49
-- **Surge Performance:** 1W: **`-0.85%`** | 1M: **`+23.61%`**
-- **Volume Breakout:** **0.25x** (Today's Vol: 843,083)
-- **Key News Triggers Detected:**
-  - Strong revenue growth reported: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
-  - New commercial contract bagged: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
+  - Quarterly earnings trigger: "Snap (SNAP) Q2 Earnings: What To Expect"
+  - Quarterly earnings trigger: "Capital Southwest (CSWC) Reports Q2: Everything You Need To Know Ahead Of Earnings"
 
 ### 📈 Amir Chand Jagdish Kumar (Exports) Limited (AEROPLANE)
 - **Issue Price:** ₹200 | **Listing Price:** ₹200 (+0% Listing Gain)
@@ -68,8 +59,17 @@
 - **Surge Performance:** 1W: **`+5.79%`** | 1M: **`+35.8%`**
 - **Volume Breakout:** **1.23x** (Today's Vol: 994,018)
 - **Key News Triggers Detected:**
-  - Strong revenue growth reported: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
-  - New commercial contract bagged: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
+  - Quarterly earnings trigger: "Snap (SNAP) Q2 Earnings: What To Expect"
+  - Quarterly earnings trigger: "Capital Southwest (CSWC) Reports Q2: Everything You Need To Know Ahead Of Earnings"
+
+### 📈 Aegis Vopak Terminals Limited (AEGISVOPAK)
+- **Issue Price:** ₹220 | **Listing Price:** ₹220 (+0% Listing Gain)
+- **Current Price:** **₹290.16** | **Peak Price:** ₹303.49
+- **Surge Performance:** 1W: **`-0.85%`** | 1M: **`+23.61%`**
+- **Volume Breakout:** **0.25x** (Today's Vol: 843,083)
+- **Key News Triggers Detected:**
+  - Quarterly earnings trigger: "Snap (SNAP) Q2 Earnings: What To Expect"
+  - Quarterly earnings trigger: "Capital Southwest (CSWC) Reports Q2: Everything You Need To Know Ahead Of Earnings"
 
 ### 📈 Amagi Media Labs Limited (AMAGI)
 - **Issue Price:** ₹318 | **Listing Price:** ₹318 (+0% Listing Gain)
@@ -77,17 +77,18 @@
 - **Surge Performance:** 1W: **`-0.71%`** | 1M: **`+20.46%`**
 - **Volume Breakout:** **0.32x** (Today's Vol: 155,289)
 - **Key News Triggers Detected:**
-  - Strong revenue growth reported: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
-  - New commercial contract bagged: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
+  - Quarterly earnings trigger: "Snap (SNAP) Q2 Earnings: What To Expect"
+  - Quarterly earnings trigger: "Capital Southwest (CSWC) Reports Q2: Everything You Need To Know Ahead Of Earnings"
 
-### 📈 Arihant Foundations & Housing Limited (ARIHANT)
-- **Issue Price:** ₹40 | **Listing Price:** ₹39.65 (+0% Listing Gain)
-- **Current Price:** **₹1142.75** | **Peak Price:** ₹1144.9
-- **Surge Performance:** 1W: **`+11.85%`** | 1M: **`+44.85%`**
-- **Volume Breakout:** **1.29x** (Today's Vol: 12,663)
+### 📈 Ashika Global Securities Limited (ASHIKAG)
+- **Issue Price:** ₹372 | **Listing Price:** ₹372 (+0% Listing Gain)
+- **Current Price:** **₹498.55** | **Peak Price:** ₹498.55
+- **Surge Performance:** 1W: **`+24.87%`** | 1M: **`+27.75%`**
+- **Volume Breakout:** **1.42x** (Today's Vol: 580,766)
 - **Key News Triggers Detected:**
-  - Strong revenue growth reported: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
-  - New commercial contract bagged: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
+  - Breakout alert: Trading near or at 52-Week High on high volume
+  - Quarterly earnings trigger: "Snap (SNAP) Q2 Earnings: What To Expect"
+  - Quarterly earnings trigger: "Capital Southwest (CSWC) Reports Q2: Everything You Need To Know Ahead Of Earnings"
 
 *...and 44 more Sleeper Breakout alerts. View them in the Market Screener tab.*
 
@@ -102,8 +103,8 @@
 - **Volume Spike:** **2.5x** (Today's Vol: 1,167,576)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
-  - Strong revenue growth reported: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
-  - New commercial contract bagged: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
+  - Quarterly earnings trigger: "Snap (SNAP) Q2 Earnings: What To Expect"
+  - Quarterly earnings trigger: "Capital Southwest (CSWC) Reports Q2: Everything You Need To Know Ahead Of Earnings"
 
 ### ⚡ Disa India Limited (DISAQ)
 - **52W High:** ₹12560 | **Current Price:** **₹12225** (**-2.7%** vs. 52W High)
@@ -111,8 +112,8 @@
 - **Volume Spike:** **1.3x** (Today's Vol: 606)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
-  - Strong revenue growth reported: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
-  - New commercial contract bagged: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
+  - Quarterly earnings trigger: "Snap (SNAP) Q2 Earnings: What To Expect"
+  - Quarterly earnings trigger: "Capital Southwest (CSWC) Reports Q2: Everything You Need To Know Ahead Of Earnings"
 
 ### ⚡ Niva Bupa Health Insurance (NIVABUPA)
 - **52W High:** ₹88.36 | **Current Price:** **₹87.01** (**-1.5%** vs. 52W High)
@@ -120,8 +121,8 @@
 - **Volume Spike:** **7.48x** (Today's Vol: 18,633,773)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
-  - Strong revenue growth reported: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
-  - New commercial contract bagged: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
+  - Quarterly earnings trigger: "Snap (SNAP) Q2 Earnings: What To Expect"
+  - Quarterly earnings trigger: "Capital Southwest (CSWC) Reports Q2: Everything You Need To Know Ahead Of Earnings"
 
 ### ⚡ Park Medi World Limited (PARKHOSPS)
 - **52W High:** ₹299.3 | **Current Price:** **₹292.65** (**-2.2%** vs. 52W High)
@@ -129,8 +130,8 @@
 - **Volume Spike:** **2.72x** (Today's Vol: 2,484,352)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
-  - Strong revenue growth reported: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
-  - New commercial contract bagged: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
+  - Quarterly earnings trigger: "Snap (SNAP) Q2 Earnings: What To Expect"
+  - Quarterly earnings trigger: "Capital Southwest (CSWC) Reports Q2: Everything You Need To Know Ahead Of Earnings"
 
 ### ⚡ Rajputana Stainless Limited (RSL)
 - **52W High:** ₹142.01 | **Current Price:** **₹141.03** (**-0.7%** vs. 52W High)
@@ -138,8 +139,8 @@
 - **Volume Spike:** **1.39x** (Today's Vol: 362,539)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
-  - Strong revenue growth reported: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
-  - New commercial contract bagged: "Robinhood's Event Contracts Went From $10 Million to $156 Million of Quarterly Revenue in a Year"
+  - Quarterly earnings trigger: "Snap (SNAP) Q2 Earnings: What To Expect"
+  - Quarterly earnings trigger: "Capital Southwest (CSWC) Reports Q2: Everything You Need To Know Ahead Of Earnings"
 
 *...and 2 more 52-Week High Breakout alerts. View them in the Market Screener tab.*
 
