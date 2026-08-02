@@ -1,5 +1,5 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 2/8/2026, 6:06:54 pm | **Analyst Feed:** Automated Screener
+**Report Generated On:** 2/8/2026, 6:39:06 pm | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
 - **Total Closed IPOs Screened:** 378
@@ -109,17 +109,17 @@
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
-### ⚡ Park Medi World Limited (PARKHOSPS)
-- **52W High:** ₹299.3 | **Current Price:** **₹292.65** (**-2.2%** vs. 52W High)
-- **Performance:** 1W: `+4.42%` | 1M: `+1.63%` | 3M: `+22.03%`
-- **Volume Spike:** **2.72x** (Today's Vol: 2,484,352)
-- **Key News Triggers Detected:**
-  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
-
 ### ⚡ Paushak Limited (PAUSHAKLTD)
 - **52W High:** ₹629.7 | **Current Price:** **₹629.7** (**+0.0%** vs. 52W High)
 - **Performance:** 1W: `+11.96%` | 1M: `+13.01%` | 3M: `+24.58%`
 - **Volume Spike:** **9.72x** (Today's Vol: 537,269)
+- **Key News Triggers Detected:**
+  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
+
+### ⚡ Park Medi World Limited (PARKHOSPS)
+- **52W High:** ₹299.3 | **Current Price:** **₹292.65** (**-2.2%** vs. 52W High)
+- **Performance:** 1W: `+4.42%` | 1M: `+1.63%` | 3M: `+22.03%`
+- **Volume Spike:** **2.72x** (Today's Vol: 2,484,352)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
