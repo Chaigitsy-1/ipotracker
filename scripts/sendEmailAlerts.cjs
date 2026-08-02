@@ -239,8 +239,51 @@ async function main() {
                     return m.anomalyType === 'FIFTY_TWO_WEEK_HIGH';
                 });
 
+                // Build a quick summary monospace table
+                const allSetups = [];
+                valueAccumulations.slice(0, 3).forEach(s => {
+                    allSetups.push({
+                        symbol: s.symbol,
+                        price: s.marketData.currentPrice.toFixed(1),
+                        vol: s.marketData.volumeSpike.toFixed(1),
+                        playbook: 'VALUE'
+                    });
+                });
+                sleeperBreakouts.slice(0, 3).forEach(s => {
+                    allSetups.push({
+                        symbol: s.symbol,
+                        price: s.marketData.currentPrice.toFixed(1),
+                        vol: s.marketData.volumeSpike.toFixed(1),
+                        playbook: 'BREAKOUT'
+                    });
+                });
+                trendRunners.slice(0, 3).forEach(s => {
+                    allSetups.push({
+                        symbol: s.symbol,
+                        price: s.marketData.currentPrice.toFixed(1),
+                        vol: s.marketData.volumeSpike.toFixed(1),
+                        playbook: 'MOMENTUM'
+                    });
+                });
+
+                let monospaceTable = '';
+                if (allSetups.length > 0) {
+                    monospaceTable += '```\n';
+                    monospaceTable += 'STOCK     PRICE    VOL    PLAYBOOK\n';
+                    monospaceTable += '----------------------------------\n';
+                    allSetups.forEach(row => {
+                        const col1 = row.symbol.padEnd(9).substring(0, 9);
+                        const col2 = `₹${row.price}`.padEnd(8).substring(0, 8);
+                        const col3 = `${row.vol}x`.padEnd(6).substring(0, 6);
+                        const col4 = row.playbook.padEnd(9).substring(0, 9);
+                        monospaceTable += `${col1} ${col2} ${col3} ${col4}\n`;
+                    });
+                    monospaceTable += '```\n\n';
+                }
+
                 telegramText = `*⚡ IPO TRADING FEED - ACTIONABLE DIGEST (${localDate})*\n`;
                 telegramText += `_Professional Strategy Screens (NSE Mainboard)_\n\n`;
+                telegramText += monospaceTable;
                 
                 // 1. Value Accumulation Signals
                 telegramText += `*💎 SETUP 1: VALUE ACCUMULATION PLAYS*\n`;
