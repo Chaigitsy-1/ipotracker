@@ -1,8 +1,8 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 5/8/2026, 5:04:05 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 6/8/2026, 5:00:24 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
-- **Total Closed IPOs Screened:** 377
+- **Total Closed IPOs Screened:** 376
 - **Hype Deflations Detected (Case 1):** 2
 - **Sleeper Breakouts Detected (Case 2):** 53
 - **52-Week High Breakouts (Case 3):** 9
@@ -14,17 +14,17 @@
 
 ### 📉 Bajaj Housing Finance (BAJAJHFL)
 - **Issue Price:** ₹70 | **Listing Price:** ₹150 (+114.29% Listing Gain)
-- **Current Price:** **₹87.11** (*Drawdown: **-52.0%** from peak*)
-- **Performance:** 1W: `+1.88%` | 1M: `-4.64%` | 3M: `+0.16%`
-- **Volume Spike:** 1.47x (Today's Vol: 4,958,819)
+- **Current Price:** **₹86.98** (*Drawdown: **-52.1%** from peak*)
+- **Performance:** 1W: `-0.74%` | 1M: `-1.75%` | 3M: `-0.65%`
+- **Volume Spike:** 0.65x (Today's Vol: 2,118,186)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📉 Waaree Energies (WAAREEENER)
 - **Issue Price:** ₹1503 | **Listing Price:** ₹2500 (+66.33% Listing Gain)
-- **Current Price:** **₹2670** (*Drawdown: **-28.6%** from peak*)
-- **Performance:** 1W: `-2.6%` | 1M: `-6.62%` | 3M: `-17.21%`
-- **Volume Spike:** 0.65x (Today's Vol: 614,196)
+- **Current Price:** **₹2697** (*Drawdown: **-27.9%** from peak*)
+- **Performance:** 1W: `-1.43%` | 1M: `-5.08%` | 3M: `-16.5%`
+- **Volume Spike:** 0.48x (Today's Vol: 447,151)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
@@ -35,41 +35,41 @@
 
 ### 📈 Aarnav Fashions Limited (AARNAV)
 - **Issue Price:** ₹28 | **Listing Price:** ₹28.11 (+0% Listing Gain)
-- **Current Price:** **₹30.31** | **Peak Price:** ₹31.63
-- **Surge Performance:** 1W: **`-3.16%`** | 1M: **`+21.29%`**
-- **Volume Breakout:** **0.58x** (Today's Vol: 98,562)
+- **Current Price:** **₹30.44** | **Peak Price:** ₹31.63
+- **Surge Performance:** 1W: **`+4.43%`** | 1M: **`+21.61%`**
+- **Volume Breakout:** **0.36x** (Today's Vol: 62,024)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📈 Amir Chand Jagdish Kumar (Exports) Limited (AEROPLANE)
 - **Issue Price:** ₹200 | **Listing Price:** ₹200 (+0% Listing Gain)
-- **Current Price:** **₹201.39** | **Peak Price:** ₹198.62
-- **Surge Performance:** 1W: **`+7.21%`** | 1M: **`+36.55%`**
-- **Volume Breakout:** **1.37x** (Today's Vol: 1,018,512)
+- **Current Price:** **₹200.59** | **Peak Price:** ₹201.39
+- **Surge Performance:** 1W: **`+8.26%`** | 1M: **`+17.83%`**
+- **Volume Breakout:** **0.43x** (Today's Vol: 305,053)
 - **Key News Triggers Detected:**
-  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
+  - Volume breakout & price action suggests heavy institutional accumulation
 
-### 📈 Aegis Vopak Terminals Limited (AEGISVOPAK)
-- **Issue Price:** ₹220 | **Listing Price:** ₹220 (+0% Listing Gain)
-- **Current Price:** **₹296.15** | **Peak Price:** ₹303.49
-- **Surge Performance:** 1W: **`-2.42%`** | 1M: **`+15.04%`**
-- **Volume Breakout:** **0.44x** (Today's Vol: 1,038,556)
+### 📈 Advance Agrolife Limited (ADVANCE)
+- **Issue Price:** ₹114 | **Listing Price:** ₹114 (+0% Listing Gain)
+- **Current Price:** **₹134.1** | **Peak Price:** ₹147.57
+- **Surge Performance:** 1W: **`+18.05%`** | 1M: **`+17.84%`**
+- **Volume Breakout:** **2.49x** (Today's Vol: 1,054,225)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📈 Amagi Media Labs Limited (AMAGI)
 - **Issue Price:** ₹318 | **Listing Price:** ₹318 (+0% Listing Gain)
-- **Current Price:** **₹674.7** | **Peak Price:** ₹669.7
-- **Surge Performance:** 1W: **`+10.78%`** | 1M: **`+25.06%`**
-- **Volume Breakout:** **0.45x** (Today's Vol: 224,699)
+- **Current Price:** **₹674.35** | **Peak Price:** ₹674.7
+- **Surge Performance:** 1W: **`+7.89%`** | 1M: **`+26.61%`**
+- **Volume Breakout:** **0.67x** (Today's Vol: 330,886)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📈 Ambalal Sarabhai Enterprises Limited (AMBALALSA)
 - **Issue Price:** ₹32 | **Listing Price:** ₹32 (+0% Listing Gain)
-- **Current Price:** **₹42.7** | **Peak Price:** ₹37.3
-- **Surge Performance:** 1W: **`+31.83%`** | 1M: **`+33.81%`**
-- **Volume Breakout:** **9.6x** (Today's Vol: 1,626,531)
+- **Current Price:** **₹42.9** | **Peak Price:** ₹42.7
+- **Surge Performance:** 1W: **`+35.8%`** | 1M: **`+30.71%`**
+- **Volume Breakout:** **4.63x** (Today's Vol: 1,003,802)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
@@ -80,38 +80,38 @@
 ## 🔥 Case 3: 52-Week High Breakouts (Top 5 Listings)
 *These stocks are trading within 4% of their 52-Week Highs with high breakout volumes, indicating strong upward momentum.*
 
-### ⚡ Acme Solar Holdings (ACMESOLAR)
-- **52W High:** ₹394 | **Current Price:** **₹381.65** (**-3.1%** vs. 52W High)
-- **Performance:** 1W: `+4.32%` | 1M: `-2.95%` | 3M: `+29.15%`
-- **Volume Spike:** **1.36x** (Today's Vol: 2,928,617)
+### ⚡ Batliboi Limited (BATLIBOI)
+- **52W High:** ₹94.3 | **Current Price:** **₹94.3** (**+0.0%** vs. 52W High)
+- **Performance:** 1W: `+13.07%` | 1M: `+13.77%` | 3M: `+12.21%`
+- **Volume Spike:** **4.76x** (Today's Vol: 268,717)
 - **Key News Triggers Detected:**
-  - Breakout alert: Trading near or at 52-Week High on high volume
+  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
-### ⚡ CORONA Remedies Limited (CORONA)
-- **52W High:** ₹2113 | **Current Price:** **₹2159.7** (**+2.2%** vs. 52W High)
-- **Performance:** 1W: `+2.21%` | 1M: `+7.5%` | 3M: `+22.65%`
-- **Volume Spike:** **5.13x** (Today's Vol: 207,629)
-- **Key News Triggers Detected:**
-  - Breakout alert: Trading near or at 52-Week High on high volume
-
-### ⚡ Disa India Limited (DISAQ)
-- **52W High:** ₹12560 | **Current Price:** **₹12470** (**-0.7%** vs. 52W High)
-- **Performance:** 1W: `+1.42%` | 1M: `+2.7%` | 3M: `+2.89%`
-- **Volume Spike:** **1.35x** (Today's Vol: 647)
+### ⚡ Captain Polyplast Limited (CPL)
+- **52W High:** ₹72.88 | **Current Price:** **₹72.88** (**+0.0%** vs. 52W High)
+- **Performance:** 1W: `+3.13%` | 1M: `+null%` | 3M: `+null%`
+- **Volume Spike:** **2.33x** (Today's Vol: 89,275)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
 ### ⚡ Dr Agarwals Eye Hospital Limited (DRAGARWQ)
-- **52W High:** ₹5183.8 | **Current Price:** **₹5081** (**-2.0%** vs. 52W High)
-- **Performance:** 1W: `+0.57%` | 1M: `+1.63%` | 3M: `+0.91%`
-- **Volume Spike:** **6.85x** (Today's Vol: 6,564)
+- **52W High:** ₹5197 | **Current Price:** **₹5197** (**+0.0%** vs. 52W High)
+- **Performance:** 1W: `+3.81%` | 1M: `+4.02%` | 3M: `+1.87%`
+- **Volume Spike:** **2.27x** (Today's Vol: 2,161)
 - **Key News Triggers Detected:**
-  - Breakout alert: Trading near or at 52-Week High on high volume
+  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
-### ⚡ Kiran Vyapar Limited (KIRANVYPAR)
-- **52W High:** ₹202.99 | **Current Price:** **₹197.73** (**-2.6%** vs. 52W High)
-- **Performance:** 1W: `-1.88%` | 1M: `+1.4%` | 3M: `+4.59%`
-- **Volume Spike:** **2.1x** (Today's Vol: 4,269)
+### ⚡ Mangalam Worldwide Limited (MWL)
+- **52W High:** ₹42.25 | **Current Price:** **₹42.85** (**+1.4%** vs. 52W High)
+- **Performance:** 1W: `+19.36%` | 1M: `+13.96%` | 3M: `+22.52%`
+- **Volume Spike:** **1.56x** (Today's Vol: 2,708,098)
+- **Key News Triggers Detected:**
+  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
+
+### ⚡ Rajputana Stainless Limited (RSL)
+- **52W High:** ₹150.45 | **Current Price:** **₹150.45** (**+0.0%** vs. 52W High)
+- **Performance:** 1W: `+7.89%` | 1M: `+15.3%` | 3M: `+9.52%`
+- **Volume Spike:** **2.1x** (Today's Vol: 892,236)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
 
