@@ -1,10 +1,10 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 8/8/2026, 4:37:16 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 9/8/2026, 4:28:43 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
 - **Total Closed IPOs Screened:** 375
 - **Hype Deflations Detected (Case 1):** 1
-- **Sleeper Breakouts Detected (Case 2):** 53
+- **Sleeper Breakouts Detected (Case 2):** 54
 - **52-Week High Breakouts (Case 3):** 11
 
 ---
@@ -15,7 +15,7 @@
 ### 📉 Bajaj Housing Finance (BAJAJHFL)
 - **Issue Price:** ₹70 | **Listing Price:** ₹150 (+114.29% Listing Gain)
 - **Current Price:** **₹85.79** (*Drawdown: **-52.7%** from peak*)
-- **Performance:** 1W: `-0.84%` | 1M: `-0.23%` | 3M: `-0.54%`
+- **Performance:** 1W: `-0.27%` | 1M: `-2.06%` | 3M: `+2.29%`
 - **Volume Spike:** 0.69x (Today's Vol: 2,169,115)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
@@ -36,36 +36,36 @@
 ### 📈 Amir Chand Jagdish Kumar (Exports) Limited (AEROPLANE)
 - **Issue Price:** ₹200 | **Listing Price:** ₹200 (+0% Listing Gain)
 - **Current Price:** **₹194.37** | **Peak Price:** ₹201.39
-- **Surge Performance:** 1W: **`+6.49%`** | 1M: **`+12.32%`**
-- **Volume Breakout:** **1.06x** (Today's Vol: 691,498)
+- **Surge Performance:** 1W: **`-2.98%`** | 1M: **`+12.59%`**
+- **Volume Breakout:** **1.05x** (Today's Vol: 691,498)
+- **Key News Triggers Detected:**
+  - Volume breakout & price action suggests heavy institutional accumulation
+
+### 📈 Aegis Vopak Terminals Limited (AEGISVOPAK)
+- **Issue Price:** ₹220 | **Listing Price:** ₹220 (+0% Listing Gain)
+- **Current Price:** **₹285.3** | **Peak Price:** ₹303.49
+- **Surge Performance:** 1W: **`-1.67%`** | 1M: **`+3.55%`**
+- **Volume Breakout:** **0.37x** (Today's Vol: 813,020)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📈 Artemis Electricals and Projects Limited (AEPL)
 - **Issue Price:** ₹18 | **Listing Price:** ₹18.3 (+0% Listing Gain)
 - **Current Price:** **₹17.13** | **Peak Price:** ₹19.66
-- **Surge Performance:** 1W: **`+17.73%`** | 1M: **`+0%`**
-- **Volume Breakout:** **15.75x** (Today's Vol: 1,203,384)
+- **Surge Performance:** 1W: **`+19.12%`** | 1M: **`+0.12%`**
+- **Volume Breakout:** **15.74x** (Today's Vol: 1,203,384)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📈 Ambalal Sarabhai Enterprises Limited (AMBALALSA)
 - **Issue Price:** ₹32 | **Listing Price:** ₹32 (+0% Listing Gain)
-- **Current Price:** **₹46.73** | **Peak Price:** ₹43.7
-- **Surge Performance:** 1W: **`+50.94%`** | 1M: **`+46.21%`**
-- **Volume Breakout:** **2.5x** (Today's Vol: 651,920)
+- **Current Price:** **₹46.73** | **Peak Price:** ₹46.73
+- **Surge Performance:** 1W: **`+34.13%`** | 1M: **`+49.58%`**
+- **Volume Breakout:** **2.4x** (Today's Vol: 651,920)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
-### 📈 Amagi Media Labs Limited (AMAGI)
-- **Issue Price:** ₹318 | **Listing Price:** ₹318 (+0% Listing Gain)
-- **Current Price:** **₹646.95** | **Peak Price:** ₹674.7
-- **Surge Performance:** 1W: **`-0.61%`** | 1M: **`+21.15%`**
-- **Volume Breakout:** **1.09x** (Today's Vol: 476,947)
-- **Key News Triggers Detected:**
-  - Volume breakout & price action suggests heavy institutional accumulation
-
-*...and 48 more Sleeper Breakout alerts. View them in the Market Screener tab.*
+*...and 49 more Sleeper Breakout alerts. View them in the Market Screener tab.*
 
 ---
 
@@ -74,21 +74,21 @@
 
 ### ⚡ Aequs Limited (AEQUS)
 - **52W High:** ₹258.07 | **Current Price:** **₹248.31** (**-3.8%** vs. 52W High)
-- **Performance:** 1W: `+8.38%` | 1M: `+2.43%` | 3M: `+21.17%`
+- **Performance:** 1W: `+8.73%` | 1M: `-3.06%` | 3M: `+31.12%`
 - **Volume Spike:** **1.52x** (Today's Vol: 5,614,800)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
 
 ### ⚡ Akums Drugs and Pharmaceuticals Limited (AKUMS)
 - **52W High:** ₹701.95 | **Current Price:** **₹697.45** (**-0.6%** vs. 52W High)
-- **Performance:** 1W: `+4.95%` | 1M: `+7.32%` | 3M: `+25.19%`
-- **Volume Spike:** **2.36x** (Today's Vol: 636,417)
+- **Performance:** 1W: `+5.94%` | 1M: `+5.96%` | 3M: `+31.99%`
+- **Volume Spike:** **2.77x** (Today's Vol: 636,417)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
 
 ### ⚡ Belrise Industries Limited (BELRISE)
-- **52W High:** ₹247.5 | **Current Price:** **₹248.21** (**+0.3%** vs. 52W High)
-- **Performance:** 1W: `+6.62%` | 1M: `+9.95%` | 3M: `+13.8%`
+- **52W High:** ₹248.21 | **Current Price:** **₹248.21** (**+0.0%** vs. 52W High)
+- **Performance:** 1W: `+4.85%` | 1M: `+8.46%` | 3M: `+20.9%`
 - **Volume Spike:** **1.43x** (Today's Vol: 6,169,341)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
@@ -101,9 +101,9 @@
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
 ### ⚡ Elpro International Limited (ELPROINTL)
-- **52W High:** ₹178.9 | **Current Price:** **₹180.06** (**+0.7%** vs. 52W High)
-- **Performance:** 1W: `+1.75%` | 1M: `+3.54%` | 3M: `+25.08%`
-- **Volume Spike:** **5.98x** (Today's Vol: 531,761)
+- **52W High:** ₹180.06 | **Current Price:** **₹180.06** (**+0.0%** vs. 52W High)
+- **Performance:** 1W: `+1.73%` | 1M: `+3.5%` | 3M: `+8.48%`
+- **Volume Spike:** **5.95x** (Today's Vol: 531,761)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
 
