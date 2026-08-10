@@ -1,11 +1,11 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 10/8/2026, 4:30:38 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 11/8/2026, 4:37:47 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
-- **Total Closed IPOs Screened:** 376
-- **Hype Deflations Detected (Case 1):** 1
-- **Sleeper Breakouts Detected (Case 2):** 54
-- **52-Week High Breakouts (Case 3):** 9
+- **Total Closed IPOs Screened:** 384
+- **Hype Deflations Detected (Case 1):** 2
+- **Sleeper Breakouts Detected (Case 2):** 52
+- **52-Week High Breakouts (Case 3):** 13
 
 ---
 
@@ -14,9 +14,17 @@
 
 ### 📉 Bajaj Housing Finance (BAJAJHFL)
 - **Issue Price:** ₹70 | **Listing Price:** ₹150 (+114.29% Listing Gain)
-- **Current Price:** **₹85.78** (*Drawdown: **-52.7%** from peak*)
-- **Performance:** 1W: `-0.28%` | 1M: `-2.07%` | 3M: `+2.28%`
-- **Volume Spike:** 0.69x (Today's Vol: 2,173,109)
+- **Current Price:** **₹85.06** (*Drawdown: **-53.1%** from peak*)
+- **Performance:** 1W: `-1.12%` | 1M: `-2.89%` | 3M: `+1.42%`
+- **Volume Spike:** 1.03x (Today's Vol: 3,149,191)
+- **Key News Triggers Detected:**
+  - Volume breakout & price action suggests heavy institutional accumulation
+
+### 📉 Ola Electric Mobility (OLAELEC)
+- **Issue Price:** ₹76 | **Listing Price:** ₹97 (+27.63% Listing Gain)
+- **Current Price:** **₹39.3** (*Drawdown: **-73.2%** from peak*)
+- **Performance:** 1W: `+1.66%` | 1M: `-2.7%` | 3M: `+11.87%`
+- **Volume Spike:** 1.16x (Today's Vol: 62,253,293)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
@@ -27,87 +35,87 @@
 
 ### 📈 Aarnav Fashions Limited (AARNAV)
 - **Issue Price:** ₹28 | **Listing Price:** ₹28.11 (+0% Listing Gain)
-- **Current Price:** **₹30.6** | **Peak Price:** ₹31.63
-- **Surge Performance:** 1W: **`-2.42%`** | 1M: **`+21.38%`**
-- **Volume Breakout:** **0.44x** (Today's Vol: 76,907)
+- **Current Price:** **₹30.62** | **Peak Price:** ₹31.63
+- **Surge Performance:** 1W: **`+0.59%`** | 1M: **`+21.8%`**
+- **Volume Breakout:** **0.19x** (Today's Vol: 33,097)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-### 📈 Artemis Electricals and Projects Limited (AEPL)
-- **Issue Price:** ₹18 | **Listing Price:** ₹18.3 (+0% Listing Gain)
-- **Current Price:** **₹16.8** | **Peak Price:** ₹19.66
-- **Surge Performance:** 1W: **`+16.83%`** | 1M: **`-1.81%`**
-- **Volume Breakout:** **15.74x** (Today's Vol: 1,203,391)
+### 📈 ACS Technologies Limited (ACSTECH)
+- **Issue Price:** ₹42 | **Listing Price:** ₹41.5 (+0% Listing Gain)
+- **Current Price:** **₹50.6** | **Peak Price:** ₹50.6
+- **Surge Performance:** 1W: **`+25.84%`** | 1M: **`+19.68%`**
+- **Volume Breakout:** **2.78x** (Today's Vol: 800,448)
 - **Key News Triggers Detected:**
-  - Volume breakout & price action suggests heavy institutional accumulation
+  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
 ### 📈 Amir Chand Jagdish Kumar (Exports) Limited (AEROPLANE)
 - **Issue Price:** ₹200 | **Listing Price:** ₹200 (+0% Listing Gain)
-- **Current Price:** **₹194.15** | **Peak Price:** ₹201.39
-- **Surge Performance:** 1W: **`-3.09%`** | 1M: **`+12.46%`**
-- **Volume Breakout:** **1.05x** (Today's Vol: 691,566)
-- **Key News Triggers Detected:**
-  - Volume breakout & price action suggests heavy institutional accumulation
-
-### 📈 Aequs Limited (AEQUS)
-- **Issue Price:** ₹140 | **Listing Price:** ₹140 (+0% Listing Gain)
-- **Current Price:** **₹247.5** | **Peak Price:** ₹258.07
-- **Surge Performance:** 1W: **`+8%`** | 1M: **`-4.1%`**
-- **Volume Breakout:** **1.72x** (Today's Vol: 5,616,343)
+- **Current Price:** **₹190.96** | **Peak Price:** ₹201.39
+- **Surge Performance:** 1W: **`-4.68%`** | 1M: **`+10.61%`**
+- **Volume Breakout:** **0.23x** (Today's Vol: 148,120)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📈 Aegis Vopak Terminals Limited (AEGISVOPAK)
 - **Issue Price:** ₹220 | **Listing Price:** ₹220 (+0% Listing Gain)
-- **Current Price:** **₹285** | **Peak Price:** ₹303.49
-- **Surge Performance:** 1W: **`-1.78%`** | 1M: **`+3.44%`**
-- **Volume Breakout:** **0.37x** (Today's Vol: 813,122)
+- **Current Price:** **₹276.55** | **Peak Price:** ₹303.49
+- **Surge Performance:** 1W: **`-4.69%`** | 1M: **`+0.37%`**
+- **Volume Breakout:** **0.47x** (Today's Vol: 933,615)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-*...and 49 more Sleeper Breakout alerts. View them in the Market Screener tab.*
+### 📈 Aequs Limited (AEQUS)
+- **Issue Price:** ₹140 | **Listing Price:** ₹140 (+0% Listing Gain)
+- **Current Price:** **₹244.13** | **Peak Price:** ₹258.07
+- **Surge Performance:** 1W: **`+6.53%`** | 1M: **`-5.4%`**
+- **Volume Breakout:** **1.26x** (Today's Vol: 4,039,524)
+- **Key News Triggers Detected:**
+  - Volume breakout & price action suggests heavy institutional accumulation
+
+*...and 47 more Sleeper Breakout alerts. View them in the Market Screener tab.*
 
 ---
 
 ## 🔥 Case 3: 52-Week High Breakouts (Top 5 Listings)
 *These stocks are trading within 4% of their 52-Week Highs with high breakout volumes, indicating strong upward momentum.*
 
-### ⚡ Akums Drugs and Pharmaceuticals Limited (AKUMS)
-- **52W High:** ₹701.95 | **Current Price:** **₹695** (**-1.0%** vs. 52W High)
-- **Performance:** 1W: `+5.57%` | 1M: `+5.59%` | 3M: `+31.53%`
-- **Volume Spike:** **2.78x** (Today's Vol: 637,075)
+### ⚡ Dr. Agarwal's Health Care Limited (AGARWALEYE)
+- **52W High:** ₹546.25 | **Current Price:** **₹560.7** (**+2.6%** vs. 52W High)
+- **Performance:** 1W: `+17.3%` | 1M: `+15.47%` | 3M: `+24.54%`
+- **Volume Spike:** **1.6x** (Today's Vol: 202,004)
 - **Key News Triggers Detected:**
-  - Breakout alert: Trading near or at 52-Week High on high volume
+  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
+
+### ⚡ Anthem Biosciences Limited (ANTHEM)
+- **52W High:** ₹864.5 | **Current Price:** **₹853** (**-1.3%** vs. 52W High)
+- **Performance:** 1W: `+5.41%` | 1M: `+13.43%` | 3M: `+6.75%`
+- **Volume Spike:** **1.32x** (Today's Vol: 1,250,612)
+- **Key News Triggers Detected:**
+  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
 ### ⚡ Belrise Industries Limited (BELRISE)
-- **52W High:** ₹248.21 | **Current Price:** **₹248.05** (**-0.1%** vs. 52W High)
-- **Performance:** 1W: `+4.78%` | 1M: `+8.39%` | 3M: `+20.82%`
-- **Volume Spike:** **1.43x** (Today's Vol: 6,171,893)
+- **52W High:** ₹248.21 | **Current Price:** **₹252.77** (**+1.8%** vs. 52W High)
+- **Performance:** 1W: `+6.78%` | 1M: `+10.46%` | 3M: `+23.12%`
+- **Volume Spike:** **1.56x** (Today's Vol: 6,589,713)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
 ### ⚡ Dr Agarwals Eye Hospital Limited (DRAGARWQ)
-- **52W High:** ₹5285.5 | **Current Price:** **₹5285** (**-0.0%** vs. 52W High)
-- **Performance:** 1W: `+5.23%` | 1M: `+5.45%` | 3M: `+3.55%`
-- **Volume Spike:** **1.42x** (Today's Vol: 1,497)
+- **52W High:** ₹5386.5 | **Current Price:** **₹5386.5** (**+0.0%** vs. 52W High)
+- **Performance:** 1W: `+7.58%` | 1M: `+9.87%` | 3M: `+5.33%`
+- **Volume Spike:** **1.94x** (Today's Vol: 2,159)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
-### ⚡ Elpro International Limited (ELPROINTL)
-- **52W High:** ₹180.06 | **Current Price:** **₹180** (**-0.0%** vs. 52W High)
-- **Performance:** 1W: `+1.69%` | 1M: `+3.47%` | 3M: `+8.44%`
-- **Volume Spike:** **5.95x** (Today's Vol: 531,761)
+### ⚡ Kiran Vyapar Limited (KIRANVYPAR)
+- **52W High:** ₹203.6 | **Current Price:** **₹197.08** (**-3.2%** vs. 52W High)
+- **Performance:** 1W: `-2.91%` | 1M: `+1.76%` | 3M: `-0.37%`
+- **Volume Spike:** **2.57x** (Today's Vol: 5,609)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
 
-### ⚡ Lloyds Enterprises Limited (LLOYDSENT)
-- **52W High:** ₹83.72 | **Current Price:** **₹83.25** (**-0.6%** vs. 52W High)
-- **Performance:** 1W: `+4.11%` | 1M: `+11.63%` | 3M: `+17.25%`
-- **Volume Spike:** **1.45x** (Today's Vol: 9,148,520)
-- **Key News Triggers Detected:**
-  - Breakout alert: Trading near or at 52-Week High on high volume
-
-*...and 4 more 52-Week High Breakout alerts. View them in the Market Screener tab.*
+*...and 8 more 52-Week High Breakout alerts. View them in the Market Screener tab.*
 
 ---
 
