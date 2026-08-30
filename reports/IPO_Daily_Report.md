@@ -1,10 +1,10 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 29/8/2026, 9:18:47 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 30/8/2026, 6:04:57 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
 - **Total Closed IPOs Screened:** 384
 - **Hype Deflations Detected (Case 1):** 4
-- **Sleeper Breakouts Detected (Case 2):** 51
+- **Sleeper Breakouts Detected (Case 2):** 53
 - **52-Week High Breakouts (Case 3):** 17
 
 ---
@@ -15,7 +15,7 @@
 ### 📉 Bajaj Housing Finance (BAJAJHFL)
 - **Issue Price:** ₹70 | **Listing Price:** ₹150 (+114.29% Listing Gain)
 - **Current Price:** **₹85** (*Drawdown: **-53.2%** from peak*)
-- **Performance:** 1W: `-0.69%` | 1M: `-3%` | 3M: `+1.13%`
+- **Performance:** 1W: `+0.18%` | 1M: `-1.76%` | 3M: `+2.07%`
 - **Volume Spike:** 0.66x (Today's Vol: 1,691,758)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
@@ -23,7 +23,7 @@
 ### 📉 Ola Electric Mobility (OLAELEC)
 - **Issue Price:** ₹76 | **Listing Price:** ₹128.7 (+69.34% Listing Gain)
 - **Current Price:** **₹38.98** (*Drawdown: **-69.0%** from peak*)
-- **Performance:** 1W: `+3.07%` | 1M: `+1.51%` | 3M: `-1.39%`
+- **Performance:** 1W: `+3.31%` | 1M: `+3.18%` | 3M: `-2.13%`
 - **Volume Spike:** 1.62x (Today's Vol: 78,423,367)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
@@ -31,7 +31,7 @@
 ### 📉 Premier Energies (PREMIERENE)
 - **Issue Price:** ₹450 | **Listing Price:** ₹990 (+120% Listing Gain)
 - **Current Price:** **₹1013.9** (*Drawdown: **-26.2%** from peak*)
-- **Performance:** 1W: `-2.51%` | 1M: `-2.15%` | 3M: `-3.69%`
+- **Performance:** 1W: `-3.71%` | 1M: `+3.17%` | 3M: `-5.63%`
 - **Volume Spike:** 2.17x (Today's Vol: 2,307,383)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
@@ -39,7 +39,7 @@
 ### 📉 Waaree Energies (WAAREEENER)
 - **Issue Price:** ₹1503 | **Listing Price:** ₹2500 (+66.33% Listing Gain)
 - **Current Price:** **₹2640** (*Drawdown: **-29.4%** from peak*)
-- **Performance:** 1W: `-1.31%` | 1M: `-3.52%` | 3M: `-14.73%`
+- **Performance:** 1W: `-1.43%` | 1M: `+0.58%` | 3M: `-14.83%`
 - **Volume Spike:** 1.08x (Today's Vol: 488,179)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
@@ -57,27 +57,19 @@
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
-### 📈 Amir Chand Jagdish Kumar (Exports) Limited (AEROPLANE)
-- **Issue Price:** ₹200 | **Listing Price:** ₹200 (+0% Listing Gain)
-- **Current Price:** **₹174.82** | **Peak Price:** ₹201.39
-- **Surge Performance:** 1W: **`-4.24%`** | 1M: **`-4.22%`**
-- **Volume Breakout:** **0.36x** (Today's Vol: 179,715)
-- **Key News Triggers Detected:**
-  - Volume breakout & price action suggests heavy institutional accumulation
-
 ### 📈 Aegis Vopak Terminals Limited (AEGISVOPAK)
 - **Issue Price:** ₹220 | **Listing Price:** ₹220 (+0% Listing Gain)
 - **Current Price:** **₹269.9** | **Peak Price:** ₹303.49
-- **Surge Performance:** 1W: **`+1.24%`** | 1M: **`-8.64%`**
+- **Surge Performance:** 1W: **`-2.32%`** | 1M: **`-7.66%`**
 - **Volume Breakout:** **0.65x** (Today's Vol: 587,426)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-### 📈 Akums Drugs and Pharmaceuticals Limited (AKUMS)
-- **Issue Price:** ₹872 | **Listing Price:** ₹871.85 (+0% Listing Gain)
-- **Current Price:** **₹772.6** | **Peak Price:** ₹920.65
-- **Surge Performance:** 1W: **`+2.62%`** | 1M: **`+16.26%`**
-- **Volume Breakout:** **0.92x** (Today's Vol: 408,015)
+### 📈 Amir Chand Jagdish Kumar (Exports) Limited (AEROPLANE)
+- **Issue Price:** ₹200 | **Listing Price:** ₹200 (+0% Listing Gain)
+- **Current Price:** **₹174.82** | **Peak Price:** ₹201.39
+- **Surge Performance:** 1W: **`-0.57%`** | 1M: **`-8.72%`**
+- **Volume Breakout:** **0.36x** (Today's Vol: 179,715)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
@@ -89,7 +81,15 @@
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-*...and 46 more Sleeper Breakout alerts. View them in the Market Screener tab.*
+### 📈 Akums Drugs and Pharmaceuticals Limited (AKUMS)
+- **Issue Price:** ₹872 | **Listing Price:** ₹871.85 (+0% Listing Gain)
+- **Current Price:** **₹772.6** | **Peak Price:** ₹920.65
+- **Surge Performance:** 1W: **`+2.62%`** | 1M: **`+16.26%`**
+- **Volume Breakout:** **0.92x** (Today's Vol: 408,015)
+- **Key News Triggers Detected:**
+  - Volume breakout & price action suggests heavy institutional accumulation
+
+*...and 48 more Sleeper Breakout alerts. View them in the Market Screener tab.*
 
 ---
 
@@ -105,7 +105,7 @@
 
 ### ⚡ Aye Finance Limited (AYE)
 - **52W High:** ₹189.13 | **Current Price:** **₹183.92** (**-2.8%** vs. 52W High)
-- **Performance:** 1W: `+8.39%` | 1M: `+10.76%` | 3M: `+23.4%`
+- **Performance:** 1W: `+8.18%` | 1M: `+14.17%` | 3M: `+12.16%`
 - **Volume Spike:** **5.23x** (Today's Vol: 8,919,586)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
