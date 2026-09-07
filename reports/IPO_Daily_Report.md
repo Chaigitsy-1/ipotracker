@@ -1,8 +1,8 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 6/9/2026, 5:38:44 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 7/9/2026, 5:43:31 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
-- **Total Closed IPOs Screened:** 387
+- **Total Closed IPOs Screened:** 388
 - **Hype Deflations Detected (Case 1):** 3
 - **Sleeper Breakouts Detected (Case 2):** 41
 - **52-Week High Breakouts (Case 3):** 15
@@ -41,14 +41,6 @@
 ## 🚀 Case 2: Sleeper Breakout Alerts (Top 5 Listings)
 *These stocks listed with weak gains (<= 10%) but are currently surging on high trading volume. This indicates sudden institutional accumulation (FII/DII buying) or turnaround catalyst triggers.*
 
-### 📈 Aegis Vopak Terminals Limited (AEGISVOPAK)
-- **Issue Price:** ₹220 | **Listing Price:** ₹220 (+0% Listing Gain)
-- **Current Price:** **₹284** | **Peak Price:** ₹303.49
-- **Surge Performance:** 1W: **`+5.22%`** | 1M: **`-1.63%`**
-- **Volume Breakout:** **0.95x** (Today's Vol: 788,218)
-- **Key News Triggers Detected:**
-  - Volume breakout & price action suggests heavy institutional accumulation
-
 ### 📈 Amir Chand Jagdish Kumar (Exports) Limited (AEROPLANE)
 - **Issue Price:** ₹200 | **Listing Price:** ₹200 (+0% Listing Gain)
 - **Current Price:** **₹196.2** | **Peak Price:** ₹201.39
@@ -56,6 +48,14 @@
 - **Volume Breakout:** **1.52x** (Today's Vol: 724,408)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
+
+### 📈 Aegis Vopak Terminals Limited (AEGISVOPAK)
+- **Issue Price:** ₹220 | **Listing Price:** ₹220 (+0% Listing Gain)
+- **Current Price:** **₹284** | **Peak Price:** ₹303.49
+- **Surge Performance:** 1W: **`+5.22%`** | 1M: **`-1.63%`**
+- **Volume Breakout:** **0.95x** (Today's Vol: 788,218)
+- **Key News Triggers Detected:**
+  - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📈 Amagi Media Labs Limited (AMAGI)
 - **Issue Price:** ₹318 | **Listing Price:** ₹318 (+0% Listing Gain)
