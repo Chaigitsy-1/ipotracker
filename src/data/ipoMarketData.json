@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "6/9/2026, 5:38:44 am",
+  "lastUpdated": "7/9/2026, 5:43:31 am",
   "status": "success",
   "data": [
     {
@@ -3688,48 +3688,6 @@
       }
     },
     {
-      "symbol": "DAICHI",
-      "name": "Dai-Ichi Karkaria Limited",
-      "type": "Mainboard",
-      "status": "CLOSED",
-      "priceRange": "₹338",
-      "lotSize": "N/A",
-      "schedule": {
-        "listingDate": "2026-04-20"
-      },
-      "subscriptionNumbers": null,
-      "aboutCompany": "",
-      "strengths": [],
-      "risks": [],
-      "utilizationOfProceeds": null,
-      "drhpLink": null,
-      "rhpLink": null,
-      "greyMarketPremium": null,
-      "marketData": {
-        "ticker": "DAICHI.NS",
-        "currentPrice": 363.1,
-        "listingPrice": 337.95,
-        "listingGain": 0,
-        "vsIssue": 7.44,
-        "vsListing": 7.44,
-        "fiftyTwoWeekHigh": 369.75,
-        "pctFrom52WHigh": -1.8,
-        "change1w": 5.54,
-        "change1m": null,
-        "change3m": null,
-        "change6m": null,
-        "change1y": null,
-        "currentVolume": 5043,
-        "volumeSma20": 7746,
-        "volumeSpike": 0.65,
-        "peakPrice": 369.75,
-        "drawdown": -1.8,
-        "anomalyType": "NONE",
-        "triggers": [],
-        "news": []
-      }
-    },
-    {
       "symbol": "DAMCAPITAL",
       "name": "Dam Capital Advisors Limited",
       "type": "Mainboard",
@@ -3766,6 +3724,48 @@
         "volumeSpike": 0.58,
         "peakPrice": 415.1,
         "drawdown": -65.18,
+        "anomalyType": "NONE",
+        "triggers": [],
+        "news": []
+      }
+    },
+    {
+      "symbol": "DBEIL",
+      "name": "Deepak Builders & Engineers India Limited",
+      "type": "Mainboard",
+      "status": "CLOSED",
+      "priceRange": "₹20",
+      "lotSize": "N/A",
+      "schedule": {
+        "listingDate": "2024-10-28"
+      },
+      "subscriptionNumbers": null,
+      "aboutCompany": "",
+      "strengths": [],
+      "risks": [],
+      "utilizationOfProceeds": null,
+      "drhpLink": null,
+      "rhpLink": null,
+      "greyMarketPremium": null,
+      "marketData": {
+        "ticker": "DBEIL.NS",
+        "currentPrice": 6.44,
+        "listingPrice": 20,
+        "listingGain": 0,
+        "vsIssue": -67.8,
+        "vsListing": -67.8,
+        "fiftyTwoWeekHigh": 17.92,
+        "pctFrom52WHigh": -64.07,
+        "change1w": 0.78,
+        "change1m": -11.29,
+        "change3m": -20.49,
+        "change6m": -10.77,
+        "change1y": -51.43,
+        "currentVolume": 210682,
+        "volumeSma20": 135205,
+        "volumeSpike": 1.56,
+        "peakPrice": 20.43,
+        "drawdown": -68.48,
         "anomalyType": "NONE",
         "triggers": [],
         "news": []
@@ -12139,48 +12139,6 @@
       }
     },
     {
-      "symbol": "RNBDENIMS",
-      "name": "R&B Denims Limited",
-      "type": "Mainboard",
-      "status": "CLOSED",
-      "priceRange": "₹38",
-      "lotSize": "N/A",
-      "schedule": {
-        "listingDate": "2025-09-04"
-      },
-      "subscriptionNumbers": null,
-      "aboutCompany": "",
-      "strengths": [],
-      "risks": [],
-      "utilizationOfProceeds": null,
-      "drhpLink": null,
-      "rhpLink": null,
-      "greyMarketPremium": null,
-      "marketData": {
-        "ticker": "RNBDENIMS.NS",
-        "currentPrice": 10.27,
-        "listingPrice": 37.67,
-        "listingGain": 0,
-        "vsIssue": -72.74,
-        "vsListing": -72.74,
-        "fiftyTwoWeekHigh": 66.4,
-        "pctFrom52WHigh": -84.53,
-        "change1w": 4.48,
-        "change1m": 13.61,
-        "change3m": 10.55,
-        "change6m": -77.86,
-        "change1y": null,
-        "currentVolume": 424488,
-        "volumeSma20": 364081,
-        "volumeSpike": 1.17,
-        "peakPrice": 66.4,
-        "drawdown": -84.53,
-        "anomalyType": "NONE",
-        "triggers": [],
-        "news": []
-      }
-    },
-    {
       "symbol": "ROSSTECH",
       "name": "Rossell Techsys Limited",
       "type": "Mainboard",
@@ -13317,7 +13275,14 @@
         "triggers": [
           "Volume breakout & price action suggests heavy institutional accumulation"
         ],
-        "news": []
+        "news": [
+          {
+            "title": "Wooree Group Concludes Vitafoods Asia 2026, CEO Ji-yong Yoon Calls for Scientific Validation Standard for Liposome Claims",
+            "publisher": "PR Newswire",
+            "link": "https://finance.yahoo.com/healthcare/articles/wooree-group-concludes-vitafoods-asia-000000828.html",
+            "time": 1788739200
+          }
+        ]
       }
     },
     {
@@ -14930,6 +14895,48 @@
       }
     },
     {
+      "symbol": "THACKER",
+      "name": "Thacker & Company Limited",
+      "type": "Mainboard",
+      "status": "CLOSED",
+      "priceRange": "₹1028",
+      "lotSize": "N/A",
+      "schedule": {
+        "listingDate": "2026-04-20"
+      },
+      "subscriptionNumbers": null,
+      "aboutCompany": "",
+      "strengths": [],
+      "risks": [],
+      "utilizationOfProceeds": null,
+      "drhpLink": null,
+      "rhpLink": null,
+      "greyMarketPremium": null,
+      "marketData": {
+        "ticker": "THACKER.NS",
+        "currentPrice": 1050,
+        "listingPrice": 1028,
+        "listingGain": 0,
+        "vsIssue": 2.14,
+        "vsListing": 2.14,
+        "fiftyTwoWeekHigh": 1100,
+        "pctFrom52WHigh": -4.55,
+        "change1w": 5.04,
+        "change1m": null,
+        "change3m": null,
+        "change6m": null,
+        "change1y": null,
+        "currentVolume": 38,
+        "volumeSma20": 31,
+        "volumeSpike": 1.24,
+        "peakPrice": 1100,
+        "drawdown": -4.55,
+        "anomalyType": "NONE",
+        "triggers": [],
+        "news": []
+      }
+    },
+    {
       "symbol": "THAKDEV",
       "name": "Thakkers Developers Limited",
       "type": "Mainboard",
@@ -15982,6 +15989,48 @@
         "volumeSpike": 1.34,
         "peakPrice": 81.5,
         "drawdown": -31.29,
+        "anomalyType": "NONE",
+        "triggers": [],
+        "news": []
+      }
+    },
+    {
+      "symbol": "VIVIANA",
+      "name": "Viviana Power Tech Limited",
+      "type": "Mainboard",
+      "status": "CLOSED",
+      "priceRange": "₹923",
+      "lotSize": "N/A",
+      "schedule": {
+        "listingDate": "2026-06-02"
+      },
+      "subscriptionNumbers": null,
+      "aboutCompany": "",
+      "strengths": [],
+      "risks": [],
+      "utilizationOfProceeds": null,
+      "drhpLink": null,
+      "rhpLink": null,
+      "greyMarketPremium": null,
+      "marketData": {
+        "ticker": "VIVIANA.NS",
+        "currentPrice": 804.7,
+        "listingPrice": 923,
+        "listingGain": 0,
+        "vsIssue": -12.82,
+        "vsListing": -12.82,
+        "fiftyTwoWeekHigh": 1759.95,
+        "pctFrom52WHigh": -54.28,
+        "change1w": 10.48,
+        "change1m": 13.31,
+        "change3m": -2.05,
+        "change6m": 25.81,
+        "change1y": -31.97,
+        "currentVolume": 24977,
+        "volumeSma20": 18287,
+        "volumeSpike": 1.37,
+        "peakPrice": 1759.95,
+        "drawdown": -54.28,
         "anomalyType": "NONE",
         "triggers": [],
         "news": []
