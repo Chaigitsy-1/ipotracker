@@ -1,11 +1,11 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 10/9/2026, 5:57:21 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 11/9/2026, 5:53:42 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
-- **Total Closed IPOs Screened:** 386
+- **Total Closed IPOs Screened:** 385
 - **Hype Deflations Detected (Case 1):** 4
-- **Sleeper Breakouts Detected (Case 2):** 44
-- **52-Week High Breakouts (Case 3):** 10
+- **Sleeper Breakouts Detected (Case 2):** 41
+- **52-Week High Breakouts (Case 3):** 16
 
 ---
 
@@ -14,33 +14,33 @@
 
 ### 📉 Bajaj Housing Finance (BAJAJHFL)
 - **Issue Price:** ₹70 | **Listing Price:** ₹150 (+114.29% Listing Gain)
-- **Current Price:** **₹82.92** (*Drawdown: **-54.3%** from peak*)
-- **Performance:** 1W: `+0.17%` | 1M: `-2.65%` | 3M: `-1.97%`
-- **Volume Spike:** 0.72x (Today's Vol: 1,812,167)
+- **Current Price:** **₹84.22** (*Drawdown: **-53.6%** from peak*)
+- **Performance:** 1W: `+1.53%` | 1M: `-0.64%` | 3M: `-2.74%`
+- **Volume Spike:** 1.42x (Today's Vol: 3,727,904)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📉 Ola Electric Mobility (OLAELEC)
-- **Issue Price:** ₹76 | **Listing Price:** ₹110 (+44.74% Listing Gain)
-- **Current Price:** **₹37.31** (*Drawdown: **-68.4%** from peak*)
-- **Performance:** 1W: `-4.28%` | 1M: `-5.93%` | 3M: `-18.43%`
-- **Volume Spike:** 0.42x (Today's Vol: 19,047,531)
+- **Issue Price:** ₹76 | **Listing Price:** ₹114.8 (+51.05% Listing Gain)
+- **Current Price:** **₹39.15** (*Drawdown: **-66.8%** from peak*)
+- **Performance:** 1W: `+4.48%` | 1M: `-1.78%` | 3M: `-11.26%`
+- **Volume Spike:** 3.4x (Today's Vol: 180,678,084)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📉 Premier Energies (PREMIERENE)
-- **Issue Price:** ₹450 | **Listing Price:** ₹1120 (+148.89% Listing Gain)
-- **Current Price:** **₹975.9** (*Drawdown: **-28.9%** from peak*)
-- **Performance:** 1W: `-2.41%` | 1M: `-7.06%` | 3M: `-5.67%`
-- **Volume Spike:** 0.6x (Today's Vol: 583,259)
+- **Issue Price:** ₹450 | **Listing Price:** ₹1240 (+175.56% Listing Gain)
+- **Current Price:** **₹967.9** (*Drawdown: **-29.5%** from peak*)
+- **Performance:** 1W: `-3.98%` | 1M: `-5.67%` | 3M: `-7.41%`
+- **Volume Spike:** 0.99x (Today's Vol: 992,962)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📉 Waaree Energies (WAAREEENER)
 - **Issue Price:** ₹1503 | **Listing Price:** ₹2500 (+66.33% Listing Gain)
-- **Current Price:** **₹2568** (*Drawdown: **-31.3%** from peak*)
-- **Performance:** 1W: `-0.51%` | 1M: `-5.03%` | 3M: `-15.29%`
-- **Volume Spike:** 0.64x (Today's Vol: 282,508)
+- **Current Price:** **₹2548** (*Drawdown: **-31.9%** from peak*)
+- **Performance:** 1W: `-1.24%` | 1M: `-4.5%` | 3M: `-16.48%`
+- **Volume Spike:** 1.36x (Today's Vol: 628,777)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
@@ -51,87 +51,87 @@
 
 ### 📈 Amir Chand Jagdish Kumar (Exports) Limited (AEROPLANE)
 - **Issue Price:** ₹200 | **Listing Price:** ₹200 (+0% Listing Gain)
-- **Current Price:** **₹199.47** | **Peak Price:** ₹201.39
-- **Surge Performance:** 1W: **`+11.28%`** | 1M: **`+9.05%`**
-- **Volume Breakout:** **0.57x** (Today's Vol: 287,278)
-- **Key News Triggers Detected:**
-  - Volume breakout & price action suggests heavy institutional accumulation
-
-### 📈 Aegis Vopak Terminals Limited (AEGISVOPAK)
-- **Issue Price:** ₹220 | **Listing Price:** ₹220 (+0% Listing Gain)
-- **Current Price:** **₹297.65** | **Peak Price:** ₹303.49
-- **Surge Performance:** 1W: **`+3.96%`** | 1M: **`+6.1%`**
-- **Volume Breakout:** **2.24x** (Today's Vol: 1,911,720)
+- **Current Price:** **₹206.9** | **Peak Price:** ₹206.9
+- **Surge Performance:** 1W: **`+10.01%`** | 1M: **`+12.67%`**
+- **Volume Breakout:** **3.53x** (Today's Vol: 1,973,428)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
-### 📈 Amagi Media Labs Limited (AMAGI)
-- **Issue Price:** ₹318 | **Listing Price:** ₹318 (+0% Listing Gain)
-- **Current Price:** **₹583.75** | **Peak Price:** ₹674.7
-- **Surge Performance:** 1W: **`-0.09%`** | 1M: **`-9.88%`**
-- **Volume Breakout:** **0.33x** (Today's Vol: 513,228)
-- **Key News Triggers Detected:**
-  - Volume breakout & price action suggests heavy institutional accumulation
-
-### 📈 Anuh Pharma Limited (ANUHPHR)
-- **Issue Price:** ₹116 | **Listing Price:** ₹116 (+0% Listing Gain)
-- **Current Price:** **₹96.74** | **Peak Price:** ₹115.51
-- **Surge Performance:** 1W: **`+22.55%`** | 1M: **`+24.41%`**
-- **Volume Breakout:** **2.65x** (Today's Vol: 626,349)
+### 📈 Anlon Healthcare Limited (AHCL)
+- **Issue Price:** ₹9 | **Listing Price:** ₹9.2 (+0% Listing Gain)
+- **Current Price:** **₹17.54** | **Peak Price:** ₹16.86
+- **Surge Performance:** 1W: **`+12.72%`** | 1M: **`+21.72%`**
+- **Volume Breakout:** **5.65x** (Today's Vol: 31,589,174)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
 ### 📈 Ather Energy Limited (ATHERENERG)
 - **Issue Price:** ₹328 | **Listing Price:** ₹328 (+0% Listing Gain)
-- **Current Price:** **₹1580** | **Peak Price:** ₹1725.6
-- **Surge Performance:** 1W: **`-6.29%`** | 1M: **`+3.58%`**
-- **Volume Breakout:** **0.35x** (Today's Vol: 1,668,845)
+- **Current Price:** **₹1658.3** | **Peak Price:** ₹1725.6
+- **Surge Performance:** 1W: **`+1.18%`** | 1M: **`+5.66%`**
+- **Volume Breakout:** **1.64x** (Today's Vol: 8,084,030)
+- **Key News Triggers Detected:**
+  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
+
+### 📈 BlueStone Jewellery and Lifestyle Limited (BLUESTONE)
+- **Issue Price:** ₹510 | **Listing Price:** ₹510 (+0% Listing Gain)
+- **Current Price:** **₹855.15** | **Peak Price:** ₹894.5
+- **Surge Performance:** 1W: **`+6.24%`** | 1M: **`-4.4%`**
+- **Volume Breakout:** **0.48x** (Today's Vol: 402,439)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-*...and 39 more Sleeper Breakout alerts. View them in the Market Screener tab.*
+### 📈 Bluspring Enterprises Limited (BLUSPRING)
+- **Issue Price:** ₹89 | **Listing Price:** ₹89 (+0% Listing Gain)
+- **Current Price:** **₹137.45** | **Peak Price:** ₹138.96
+- **Surge Performance:** 1W: **`+3.78%`** | 1M: **`+16.63%`**
+- **Volume Breakout:** **1.18x** (Today's Vol: 835,012)
+- **Key News Triggers Detected:**
+  - Volume breakout & price action suggests heavy institutional accumulation
+
+*...and 36 more Sleeper Breakout alerts. View them in the Market Screener tab.*
 
 ---
 
 ## 🔥 Case 3: 52-Week High Breakouts (Top 5 Listings)
 *These stocks are trading within 4% of their 52-Week Highs with high breakout volumes, indicating strong upward momentum.*
 
-### ⚡ Anlon Healthcare Limited (AHCL)
-- **52W High:** ₹16.86 | **Current Price:** **₹16.28** (**-3.5%** vs. 52W High)
-- **Performance:** 1W: `+4.63%` | 1M: `+12.98%` | 3M: `+8.1%`
-- **Volume Spike:** **4.28x** (Today's Vol: 17,457,663)
-- **Key News Triggers Detected:**
-  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
-
 ### ⚡ Balmer Lawrie Investments Limited (BLIL)
-- **52W High:** ₹72.79 | **Current Price:** **₹72.01** (**-1.1%** vs. 52W High)
-- **Performance:** 1W: `-0.14%` | 1M: `+null%` | 3M: `+null%`
-- **Volume Spike:** **1.76x** (Today's Vol: 123,861)
+- **52W High:** ₹72.79 | **Current Price:** **₹71.42** (**-1.9%** vs. 52W High)
+- **Performance:** 1W: `-0.96%` | 1M: `+null%` | 3M: `+null%`
+- **Volume Spike:** **1.61x** (Today's Vol: 117,230)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
 
 ### ⚡ CORONA Remedies Limited (CORONA)
-- **52W High:** ₹2165.8 | **Current Price:** **₹2197.2** (**+1.4%** vs. 52W High)
-- **Performance:** 1W: `+8.06%` | 1M: `+5.57%` | 3M: `+30.54%`
-- **Volume Spike:** **8.71x** (Today's Vol: 262,839)
+- **52W High:** ₹2197.2 | **Current Price:** **₹2200.8** (**+0.2%** vs. 52W High)
+- **Performance:** 1W: `+7.14%` | 1M: `+4.72%` | 3M: `+27.34%`
+- **Volume Spike:** **7.49x** (Today's Vol: 354,683)
+- **Key News Triggers Detected:**
+  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
+
+### ⚡ Dr Agarwals Eye Hospital Limited (DRAGARWQ)
+- **52W High:** ₹5422.5 | **Current Price:** **₹5306** (**-2.1%** vs. 52W High)
+- **Performance:** 1W: `-2.1%` | 1M: `+null%` | 3M: `+null%`
+- **Volume Spike:** **2.14x** (Today's Vol: 2,708)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
 
 ### ⚡ Fedders Holding Limited (FEDDERSHOL)
-- **52W High:** ₹48.5 | **Current Price:** **₹48.5** (**+0.0%** vs. 52W High)
-- **Performance:** 1W: `+5.46%` | 1M: `+null%` | 3M: `+null%`
-- **Volume Spike:** **2.84x** (Today's Vol: 2,860,165)
+- **52W High:** ₹48.5 | **Current Price:** **₹48.42** (**-0.2%** vs. 52W High)
+- **Performance:** 1W: `+5.28%` | 1M: `+null%` | 3M: `+null%`
+- **Volume Spike:** **3.47x** (Today's Vol: 4,095,165)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
 
-### ⚡ Kovai Medical Center & Hospital Limited (KOVAI)
-- **52W High:** ₹6205 | **Current Price:** **₹6149.5** (**-0.9%** vs. 52W High)
-- **Performance:** 1W: `+1.23%` | 1M: `+5.24%` | 3M: `+5%`
-- **Volume Spike:** **1.46x** (Today's Vol: 6,798)
+### ⚡ Kiran Vyapar Limited (KIRANVYPAR)
+- **52W High:** ₹207.98 | **Current Price:** **₹206.99** (**-0.5%** vs. 52W High)
+- **Performance:** 1W: `+3.5%` | 1M: `+null%` | 3M: `+null%`
+- **Volume Spike:** **1.77x** (Today's Vol: 8,867)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
 
-*...and 5 more 52-Week High Breakout alerts. View them in the Market Screener tab.*
+*...and 11 more 52-Week High Breakout alerts. View them in the Market Screener tab.*
 
 ---
 
