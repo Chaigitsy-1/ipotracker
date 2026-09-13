@@ -1,11 +1,11 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 12/9/2026, 5:59:57 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 13/9/2026, 5:39:26 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
 - **Total Closed IPOs Screened:** 385
 - **Hype Deflations Detected (Case 1):** 4
-- **Sleeper Breakouts Detected (Case 2):** 46
-- **52-Week High Breakouts (Case 3):** 8
+- **Sleeper Breakouts Detected (Case 2):** 43
+- **52-Week High Breakouts (Case 3):** 7
 
 ---
 
@@ -68,16 +68,8 @@
 ### 📈 Anuh Pharma Limited (ANUHPHR)
 - **Issue Price:** ₹116 | **Listing Price:** ₹116 (+0% Listing Gain)
 - **Current Price:** **₹94.86** | **Peak Price:** ₹115.51
-- **Surge Performance:** 1W: **`+19.05%`** | 1M: **`+22.91%`**
+- **Surge Performance:** 1W: **`+16.97%`** | 1M: **`+23.21%`**
 - **Volume Breakout:** **0.84x** (Today's Vol: 222,158)
-- **Key News Triggers Detected:**
-  - Volume breakout & price action suggests heavy institutional accumulation
-
-### 📈 Amagi Media Labs Limited (AMAGI)
-- **Issue Price:** ₹318 | **Listing Price:** ₹318 (+0% Listing Gain)
-- **Current Price:** **₹578.35** | **Peak Price:** ₹674.7
-- **Surge Performance:** 1W: **`+2.85%`** | 1M: **`-9.46%`**
-- **Volume Breakout:** **0.5x** (Today's Vol: 380,713)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
@@ -89,7 +81,15 @@
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-*...and 41 more Sleeper Breakout alerts. View them in the Market Screener tab.*
+### 📈 Bluspring Enterprises Limited (BLUSPRING)
+- **Issue Price:** ₹89 | **Listing Price:** ₹89 (+0% Listing Gain)
+- **Current Price:** **₹131.48** | **Peak Price:** ₹138.96
+- **Surge Performance:** 1W: **`-5.38%`** | 1M: **`+13.85%`**
+- **Volume Breakout:** **0.56x** (Today's Vol: 388,095)
+- **Key News Triggers Detected:**
+  - Volume breakout & price action suggests heavy institutional accumulation
+
+*...and 38 more Sleeper Breakout alerts. View them in the Market Screener tab.*
 
 ---
 
@@ -98,21 +98,21 @@
 
 ### ⚡ Aegis Vopak Terminals Limited (AEGISVOPAK)
 - **52W High:** ₹303.49 | **Current Price:** **₹295.1** (**-2.8%** vs. 52W High)
-- **Performance:** 1W: `+2.88%` | 1M: `+7.88%` | 3M: `+27.37%`
+- **Performance:** 1W: `+3.73%` | 1M: `+8.69%` | 3M: `+24.62%`
 - **Volume Spike:** **1.89x** (Today's Vol: 1,776,439)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
 
 ### ⚡ Asian Star Company Limited (ASTAR)
 - **52W High:** ₹600 | **Current Price:** **₹583** (**-2.8%** vs. 52W High)
-- **Performance:** 1W: `+0.78%` | 1M: `+null%` | 3M: `+null%`
+- **Performance:** 1W: `-0.34%` | 1M: `+null%` | 3M: `+null%`
 - **Volume Spike:** **2.21x** (Today's Vol: 172)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
 
 ### ⚡ CORONA Remedies Limited (CORONA)
-- **52W High:** ₹2200.8 | **Current Price:** **₹2236.1** (**+1.6%** vs. 52W High)
-- **Performance:** 1W: `+5.09%` | 1M: `+4.69%` | 3M: `+29.13%`
+- **52W High:** ₹2236.1 | **Current Price:** **₹2236.1** (**+0.0%** vs. 52W High)
+- **Performance:** 1W: `+6.48%` | 1M: `+5.82%` | 3M: `+27.73%`
 - **Volume Spike:** **2.63x** (Today's Vol: 137,429)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
@@ -126,12 +126,12 @@
 
 ### ⚡ Mac Charles India Limited (MCCHRLS-B)
 - **52W High:** ₹694.95 | **Current Price:** **₹673.9** (**-3.0%** vs. 52W High)
-- **Performance:** 1W: `-0.89%` | 1M: `+null%` | 3M: `+null%`
+- **Performance:** 1W: `+0.58%` | 1M: `+null%` | 3M: `+null%`
 - **Volume Spike:** **7.71x** (Today's Vol: 4,933)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
 
-*...and 3 more 52-Week High Breakout alerts. View them in the Market Screener tab.*
+*...and 2 more 52-Week High Breakout alerts. View them in the Market Screener tab.*
 
 ---
 
