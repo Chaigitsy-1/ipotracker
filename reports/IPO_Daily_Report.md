@@ -1,8 +1,8 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 14/9/2026, 5:51:18 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 15/9/2026, 6:19:47 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
-- **Total Closed IPOs Screened:** 385
+- **Total Closed IPOs Screened:** 386
 - **Hype Deflations Detected (Case 1):** 4
 - **Sleeper Breakouts Detected (Case 2):** 47
 - **52-Week High Breakouts (Case 3):** 9
@@ -21,7 +21,7 @@
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📉 Ola Electric Mobility (OLAELEC)
-- **Issue Price:** ₹76 | **Listing Price:** ₹115.49 (+51.96% Listing Gain)
+- **Issue Price:** ₹76 | **Listing Price:** ₹112 (+47.37% Listing Gain)
 - **Current Price:** **₹38.51** (*Drawdown: **-67.3%** from peak*)
 - **Performance:** 1W: `+0.81%` | 1M: `-2.92%` | 3M: `-10.59%`
 - **Volume Spike:** 0.9x (Today's Vol: 48,676,576)
@@ -29,7 +29,7 @@
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📉 Premier Energies (PREMIERENE)
-- **Issue Price:** ₹450 | **Listing Price:** ₹1154.2 (+156.49% Listing Gain)
+- **Issue Price:** ₹450 | **Listing Price:** ₹1110 (+146.67% Listing Gain)
 - **Current Price:** **₹974.2** (*Drawdown: **-29.1%** from peak*)
 - **Performance:** 1W: `-2.77%` | 1M: `-5.95%` | 3M: `-7.69%`
 - **Volume Spike:** 1.44x (Today's Vol: 1,528,118)
@@ -49,14 +49,6 @@
 ## 🚀 Case 2: Sleeper Breakout Alerts (Top 5 Listings)
 *These stocks listed with weak gains (<= 10%) but are currently surging on high trading volume. This indicates sudden institutional accumulation (FII/DII buying) or turnaround catalyst triggers.*
 
-### 📈 Amir Chand Jagdish Kumar (Exports) Limited (AEROPLANE)
-- **Issue Price:** ₹200 | **Listing Price:** ₹200 (+0% Listing Gain)
-- **Current Price:** **₹205.8** | **Peak Price:** ₹206.9
-- **Surge Performance:** 1W: **`+5.92%`** | 1M: **`+7.55%`**
-- **Volume Breakout:** **6.18x** (Today's Vol: 4,850,211)
-- **Key News Triggers Detected:**
-  - Breakout alert: Trading near or at 52-Week High on high volume
-
 ### 📈 Anlon Healthcare Limited (AHCL)
 - **Issue Price:** ₹9 | **Listing Price:** ₹9.2 (+0% Listing Gain)
 - **Current Price:** **₹19.8** | **Peak Price:** ₹19.57
@@ -64,6 +56,14 @@
 - **Volume Breakout:** **11.6x** (Today's Vol: 150,749,037)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
+
+### 📈 Amir Chand Jagdish Kumar (Exports) Limited (AEROPLANE)
+- **Issue Price:** ₹200 | **Listing Price:** ₹200 (+0% Listing Gain)
+- **Current Price:** **₹205.8** | **Peak Price:** ₹206.9
+- **Surge Performance:** 1W: **`+5.92%`** | 1M: **`+7.55%`**
+- **Volume Breakout:** **6.18x** (Today's Vol: 4,850,211)
+- **Key News Triggers Detected:**
+  - Breakout alert: Trading near or at 52-Week High on high volume
 
 ### 📈 Anuh Pharma Limited (ANUHPHR)
 - **Issue Price:** ₹116 | **Listing Price:** ₹116 (+0% Listing Gain)
@@ -81,13 +81,13 @@
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-### 📈 Bluspring Enterprises Limited (BLUSPRING)
-- **Issue Price:** ₹89 | **Listing Price:** ₹89 (+0% Listing Gain)
-- **Current Price:** **₹131.9** | **Peak Price:** ₹138.96
-- **Surge Performance:** 1W: **`-5.08%`** | 1M: **`+14.21%`**
-- **Volume Breakout:** **0.56x** (Today's Vol: 388,095)
+### 📈 BlueStone Jewellery and Lifestyle Limited (BLUESTONE)
+- **Issue Price:** ₹510 | **Listing Price:** ₹510 (+0% Listing Gain)
+- **Current Price:** **₹892** | **Peak Price:** ₹894.5
+- **Surge Performance:** 1W: **`+5.84%`** | 1M: **`+2.02%`**
+- **Volume Breakout:** **1.68x** (Today's Vol: 1,308,518)
 - **Key News Triggers Detected:**
-  - Volume breakout & price action suggests heavy institutional accumulation
+  - Breakout alert: Trading near or at 52-Week High on high volume
 
 *...and 42 more Sleeper Breakout alerts. View them in the Market Screener tab.*
 
