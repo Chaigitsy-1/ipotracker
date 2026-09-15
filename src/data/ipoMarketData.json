@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "14/9/2026, 5:51:18 am",
+  "lastUpdated": "15/9/2026, 6:19:47 am",
   "status": "success",
   "data": [
     {
@@ -133,7 +133,7 @@
       "name": "A B Cotspin India Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹248",
+      "priceRange": "₹287",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2025-09-24"
@@ -149,10 +149,10 @@
       "marketData": {
         "ticker": "ABCOTS.NS",
         "currentPrice": 202.35,
-        "listingPrice": 247.95,
+        "listingPrice": 287.1,
         "listingGain": 0,
-        "vsIssue": -18.39,
-        "vsListing": -18.39,
+        "vsIssue": -29.52,
+        "vsListing": -29.52,
         "fiftyTwoWeekHigh": 456.5,
         "pctFrom52WHigh": -55.67,
         "change1w": -2.46,
@@ -893,7 +893,7 @@
       "name": "Akums Drugs and Pharmaceuticals Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹930",
+      "priceRange": "₹908",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-08-06"
@@ -909,10 +909,10 @@
       "marketData": {
         "ticker": "AKUMS.NS",
         "currentPrice": 774.9,
-        "listingPrice": 929.7,
+        "listingPrice": 907.95,
         "listingGain": 0,
-        "vsIssue": -16.65,
-        "vsListing": -16.65,
+        "vsIssue": -14.65,
+        "vsListing": -14.65,
         "fiftyTwoWeekHigh": 780.55,
         "pctFrom52WHigh": -0.72,
         "change1w": 1.19,
@@ -1529,7 +1529,7 @@
       "name": "Avantel Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹171",
+      "priceRange": "₹169",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-07-31"
@@ -1545,10 +1545,10 @@
       "marketData": {
         "ticker": "AVANTEL.NS",
         "currentPrice": 156.75,
-        "listingPrice": 170.9,
+        "listingPrice": 168.99,
         "listingGain": 0,
-        "vsIssue": -8.28,
-        "vsListing": -8.28,
+        "vsIssue": -7.24,
+        "vsListing": -7.24,
         "fiftyTwoWeekHigh": 211.66,
         "pctFrom52WHigh": -25.94,
         "change1w": 1.16,
@@ -1782,7 +1782,7 @@
       "name": "Shree Tirupati Balajee Agro Trading Company Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹90",
+      "priceRange": "₹98",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-09-12"
@@ -1798,10 +1798,10 @@
       "marketData": {
         "ticker": "BALAJEE.NS",
         "currentPrice": 25.15,
-        "listingPrice": 90,
+        "listingPrice": 97.9,
         "listingGain": 0,
-        "vsIssue": -72.06,
-        "vsListing": -72.06,
+        "vsIssue": -74.31,
+        "vsListing": -74.31,
         "fiftyTwoWeekHigh": 54.04,
         "pctFrom52WHigh": -53.46,
         "change1w": -3.86,
@@ -1812,8 +1812,8 @@
         "currentVolume": 53682,
         "volumeSma20": 29672,
         "volumeSpike": 1.81,
-        "peakPrice": 99.22,
-        "drawdown": -74.65,
+        "peakPrice": 94.25,
+        "drawdown": -73.32,
         "anomalyType": "NONE",
         "triggers": [],
         "news": []
@@ -2078,7 +2078,7 @@
       "name": "Beta Drugs Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹1875",
+      "priceRange": "₹1849",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2025-11-24"
@@ -2094,10 +2094,10 @@
       "marketData": {
         "ticker": "BETA.NS",
         "currentPrice": 2130,
-        "listingPrice": 1874.9,
+        "listingPrice": 1849,
         "listingGain": 0,
-        "vsIssue": 13.61,
-        "vsListing": 13.61,
+        "vsIssue": 15.2,
+        "vsListing": 15.2,
         "fiftyTwoWeekHigh": 2668.3,
         "pctFrom52WHigh": -20.17,
         "change1w": -5.71,
@@ -2796,7 +2796,7 @@
       "name": "Ceigall India Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹373",
+      "priceRange": "₹385",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-08-08"
@@ -2812,10 +2812,10 @@
       "marketData": {
         "ticker": "CEIGALL.NS",
         "currentPrice": 381.6,
-        "listingPrice": 373,
+        "listingPrice": 385,
         "listingGain": 0,
-        "vsIssue": 2.31,
-        "vsListing": 2.31,
+        "vsIssue": -0.88,
+        "vsListing": -0.88,
         "fiftyTwoWeekHigh": 395.95,
         "pctFrom52WHigh": -3.62,
         "change1w": 7.25,
@@ -4156,7 +4156,7 @@
       "name": "Ecos (India) Mobility & Hospitality Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹492",
+      "priceRange": "₹497",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-09-04"
@@ -4172,10 +4172,10 @@
       "marketData": {
         "ticker": "ECOSMOBLTY.NS",
         "currentPrice": 112.8,
-        "listingPrice": 492.4,
+        "listingPrice": 497.15,
         "listingGain": 0,
-        "vsIssue": -77.09,
-        "vsListing": -77.09,
+        "vsIssue": -77.31,
+        "vsListing": -77.31,
         "fiftyTwoWeekHigh": 290.2,
         "pctFrom52WHigh": -61.13,
         "change1w": -0.65,
@@ -4666,7 +4666,7 @@
       "name": "Eureka Forbes Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹499",
+      "priceRange": "₹549",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-09-11"
@@ -4682,10 +4682,10 @@
       "marketData": {
         "ticker": "EUREKAFORB.NS",
         "currentPrice": 394.95,
-        "listingPrice": 499.45,
+        "listingPrice": 549,
         "listingGain": 0,
-        "vsIssue": -20.92,
-        "vsListing": -20.92,
+        "vsIssue": -28.06,
+        "vsListing": -28.06,
         "fiftyTwoWeekHigh": 652.8,
         "pctFrom52WHigh": -39.5,
         "change1w": -6.8,
@@ -4708,7 +4708,7 @@
       "name": "Euro Panel Products Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹189",
+      "priceRange": "₹191",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2025-08-01"
@@ -4724,10 +4724,10 @@
       "marketData": {
         "ticker": "EUROBOND.NS",
         "currentPrice": 150.1,
-        "listingPrice": 188.5,
+        "listingPrice": 191,
         "listingGain": 0,
-        "vsIssue": -20.37,
-        "vsListing": -20.37,
+        "vsIssue": -21.41,
+        "vsListing": -21.41,
         "fiftyTwoWeekHigh": 238.81,
         "pctFrom52WHigh": -37.15,
         "change1w": -0.66,
@@ -4960,7 +4960,7 @@
       "name": "Brainbees Solutions Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹607",
+      "priceRange": "₹660",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-08-13"
@@ -4976,10 +4976,10 @@
       "marketData": {
         "ticker": "FIRSTCRY.NS",
         "currentPrice": 169.29,
-        "listingPrice": 606.5,
+        "listingPrice": 660,
         "listingGain": 0,
-        "vsIssue": -72.09,
-        "vsListing": -72.09,
+        "vsIssue": -74.35,
+        "vsListing": -74.35,
         "fiftyTwoWeekHigh": 397.65,
         "pctFrom52WHigh": -57.43,
         "change1w": -6.03,
@@ -5128,7 +5128,7 @@
       "name": "Gala Precision Engineering Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹720",
+      "priceRange": "₹757",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-09-09"
@@ -5144,10 +5144,10 @@
       "marketData": {
         "ticker": "GALAPREC.NS",
         "currentPrice": 1022.3,
-        "listingPrice": 720,
+        "listingPrice": 756.95,
         "listingGain": 0,
-        "vsIssue": 41.99,
-        "vsListing": 41.99,
+        "vsIssue": 35.06,
+        "vsListing": 35.06,
         "fiftyTwoWeekHigh": 1234,
         "pctFrom52WHigh": -17.16,
         "change1w": -0.17,
@@ -5244,6 +5244,48 @@
         "volumeSpike": 0.67,
         "peakPrice": 242.37,
         "drawdown": -24.91,
+        "anomalyType": "NONE",
+        "triggers": [],
+        "news": []
+      }
+    },
+    {
+      "symbol": "GAUDIUMIVF",
+      "name": "Gaudium IVF and Women Health Limited",
+      "type": "Mainboard",
+      "status": "CLOSED",
+      "priceRange": "₹83",
+      "lotSize": "N/A",
+      "schedule": {
+        "listingDate": "2026-02-27"
+      },
+      "subscriptionNumbers": null,
+      "aboutCompany": "",
+      "strengths": [],
+      "risks": [],
+      "utilizationOfProceeds": null,
+      "drhpLink": null,
+      "rhpLink": null,
+      "greyMarketPremium": null,
+      "marketData": {
+        "ticker": "GAUDIUMIVF.NS",
+        "currentPrice": 118.1,
+        "listingPrice": 83,
+        "listingGain": 0,
+        "vsIssue": 42.29,
+        "vsListing": 42.29,
+        "fiftyTwoWeekHigh": 158.16,
+        "pctFrom52WHigh": -25.33,
+        "change1w": 1.43,
+        "change1m": -6.08,
+        "change3m": 14.04,
+        "change6m": 45.86,
+        "change1y": null,
+        "currentVolume": 241339,
+        "volumeSma20": 137880,
+        "volumeSpike": 1.75,
+        "peakPrice": 158.16,
+        "drawdown": -25.33,
         "anomalyType": "NONE",
         "triggers": [],
         "news": []
@@ -5425,7 +5467,7 @@
       "name": "Globale Tessile Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹42",
+      "priceRange": "₹39",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-08-27"
@@ -5441,10 +5483,10 @@
       "marketData": {
         "ticker": "GLOBALE.NS",
         "currentPrice": 10.92,
-        "listingPrice": 41.86,
+        "listingPrice": 38.99,
         "listingGain": 0,
-        "vsIssue": -73.91,
-        "vsListing": -73.91,
+        "vsIssue": -71.99,
+        "vsListing": -71.99,
         "fiftyTwoWeekHigh": 14.2,
         "pctFrom52WHigh": -23.1,
         "change1w": -4.13,
@@ -5455,8 +5497,8 @@
         "currentVolume": 13142,
         "volumeSma20": 5157,
         "volumeSpike": 2.55,
-        "peakPrice": 38.9,
-        "drawdown": -71.93,
+        "peakPrice": 38.75,
+        "drawdown": -71.82,
         "anomalyType": "NONE",
         "triggers": [],
         "news": []
@@ -6687,7 +6729,7 @@
       "name": "Innovana Thinklabs Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹505",
+      "priceRange": "₹498",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-12-17"
@@ -6703,10 +6745,10 @@
       "marketData": {
         "ticker": "INNOVANA.NS",
         "currentPrice": 330.55,
-        "listingPrice": 505,
+        "listingPrice": 498,
         "listingGain": 0,
-        "vsIssue": -34.54,
-        "vsListing": -34.54,
+        "vsIssue": -33.62,
+        "vsListing": -33.62,
         "fiftyTwoWeekHigh": 554.2,
         "pctFrom52WHigh": -40.36,
         "change1w": 7.15,
@@ -6786,10 +6828,10 @@
       "marketData": {
         "ticker": "INTERARCH.NS",
         "currentPrice": 1726,
-        "listingPrice": 1290,
-        "listingGain": 43.33,
+        "listingPrice": 1250,
+        "listingGain": 38.89,
         "vsIssue": 91.78,
-        "vsListing": 33.8,
+        "vsListing": 38.08,
         "fiftyTwoWeekHigh": 2623.4,
         "pctFrom52WHigh": -34.21,
         "change1w": 1.11,
@@ -7148,7 +7190,7 @@
       "name": "Jeena Sikho Lifecare Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹1468",
+      "priceRange": "₹1372",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2025-08-11"
@@ -7164,10 +7206,10 @@
       "marketData": {
         "ticker": "JSLL.NS",
         "currentPrice": 512,
-        "listingPrice": 1468.2,
+        "listingPrice": 1372.1,
         "listingGain": 0,
-        "vsIssue": -65.13,
-        "vsListing": -65.13,
+        "vsIssue": -62.68,
+        "vsListing": -62.68,
         "fiftyTwoWeekHigh": 837.95,
         "pctFrom52WHigh": -38.9,
         "change1w": 2.1,
@@ -7698,7 +7740,7 @@
       "name": "KN Agri Resources Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹231",
+      "priceRange": "₹262",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2025-12-09"
@@ -7714,10 +7756,10 @@
       "marketData": {
         "ticker": "KNAGRI.NS",
         "currentPrice": 193.05,
-        "listingPrice": 231,
+        "listingPrice": 261.65,
         "listingGain": 0,
-        "vsIssue": -16.43,
-        "vsListing": -16.43,
+        "vsIssue": -26.22,
+        "vsListing": -26.22,
         "fiftyTwoWeekHigh": 239.95,
         "pctFrom52WHigh": -19.55,
         "change1w": -6.39,
@@ -7908,7 +7950,7 @@
       "name": "Krishival Foods Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹288",
+      "priceRange": "₹310",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2025-06-20"
@@ -7924,10 +7966,10 @@
       "marketData": {
         "ticker": "KRISHIVAL.NS",
         "currentPrice": 418,
-        "listingPrice": 287.9,
+        "listingPrice": 310,
         "listingGain": 0,
-        "vsIssue": 45.19,
-        "vsListing": 45.19,
+        "vsIssue": 34.84,
+        "vsListing": 34.84,
         "fiftyTwoWeekHigh": 502.8,
         "pctFrom52WHigh": -16.87,
         "change1w": 1.09,
@@ -7950,7 +7992,7 @@
       "name": "Krishna Defence And Allied Industries Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹766",
+      "priceRange": "₹763",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2025-12-30"
@@ -7966,10 +8008,10 @@
       "marketData": {
         "ticker": "KRISHNADEF.NS",
         "currentPrice": 1065.6,
-        "listingPrice": 765.5,
+        "listingPrice": 762.9,
         "listingGain": 0,
-        "vsIssue": 39.2,
-        "vsListing": 39.2,
+        "vsIssue": 39.68,
+        "vsListing": 39.68,
         "fiftyTwoWeekHigh": 1370.2,
         "pctFrom52WHigh": -22.23,
         "change1w": 5.64,
@@ -8480,10 +8522,10 @@
       "marketData": {
         "ticker": "LEMERITE.NS",
         "currentPrice": 21.37,
-        "listingPrice": 41.94,
+        "listingPrice": 41.8,
         "listingGain": 0,
-        "vsIssue": -49.05,
-        "vsListing": -49.05,
+        "vsIssue": -48.88,
+        "vsListing": -48.88,
         "fiftyTwoWeekHigh": 103.25,
         "pctFrom52WHigh": -79.3,
         "change1w": 1.23,
@@ -8802,7 +8844,7 @@
       "name": "Mangal Credit and Fincorp Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹143",
+      "priceRange": "₹149",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-08-16"
@@ -8818,10 +8860,10 @@
       "marketData": {
         "ticker": "MANCREDIT.NS",
         "currentPrice": 222,
-        "listingPrice": 143.05,
+        "listingPrice": 149.45,
         "listingGain": 0,
-        "vsIssue": 55.19,
-        "vsListing": 55.19,
+        "vsIssue": 48.54,
+        "vsListing": 48.54,
         "fiftyTwoWeekHigh": 257.36,
         "pctFrom52WHigh": -13.74,
         "change1w": -2.77,
@@ -9312,7 +9354,7 @@
       "name": "Mahalaxmi Fabric Mills Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹64",
+      "priceRange": "₹60",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-08-27"
@@ -9328,10 +9370,10 @@
       "marketData": {
         "ticker": "MFML.NS",
         "currentPrice": 19,
-        "listingPrice": 64,
+        "listingPrice": 59.94,
         "listingGain": 0,
-        "vsIssue": -70.31,
-        "vsListing": -70.31,
+        "vsIssue": -68.3,
+        "vsListing": -68.3,
         "fiftyTwoWeekHigh": 33.56,
         "pctFrom52WHigh": -43.38,
         "change1w": 2.21,
@@ -9342,8 +9384,8 @@
         "currentVolume": 2771,
         "volumeSma20": 3379,
         "volumeSpike": 0.82,
-        "peakPrice": 61.22,
-        "drawdown": -68.96,
+        "peakPrice": 60.22,
+        "drawdown": -68.45,
         "anomalyType": "NONE",
         "triggers": [],
         "news": []
@@ -9648,7 +9690,7 @@
       "name": "Mangalam Worldwide Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹14",
+      "priceRange": "₹15",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2025-09-18"
@@ -9664,10 +9706,10 @@
       "marketData": {
         "ticker": "MWL.NS",
         "currentPrice": 41.51,
-        "listingPrice": 13.8,
+        "listingPrice": 14.64,
         "listingGain": 0,
-        "vsIssue": 200.8,
-        "vsListing": 200.8,
+        "vsIssue": 183.54,
+        "vsListing": 183.54,
         "fiftyTwoWeekHigh": 43.04,
         "pctFrom52WHigh": -3.55,
         "change1w": 6.22,
@@ -10154,7 +10196,7 @@
       "name": "Network People Services Technologies Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹3100",
+      "priceRange": "₹3170",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2025-04-30"
@@ -10170,10 +10212,10 @@
       "marketData": {
         "ticker": "NPST.NS",
         "currentPrice": 1675,
-        "listingPrice": 3100,
+        "listingPrice": 3170,
         "listingGain": 0,
-        "vsIssue": -45.97,
-        "vsListing": -45.97,
+        "vsIssue": -47.16,
+        "vsListing": -47.16,
         "fiftyTwoWeekHigh": 2151.3,
         "pctFrom52WHigh": -22.14,
         "change1w": -2.53,
@@ -10294,10 +10336,10 @@
       "marketData": {
         "ticker": "OLAELEC.NS",
         "currentPrice": 38.51,
-        "listingPrice": 115.49,
-        "listingGain": 51.96,
+        "listingPrice": 112,
+        "listingGain": 47.37,
         "vsIssue": -49.33,
-        "vsListing": -66.66,
+        "vsListing": -65.62,
         "fiftyTwoWeekHigh": 60.51,
         "pctFrom52WHigh": -36.36,
         "change1w": 0.81,
@@ -10490,7 +10532,7 @@
       "name": "Orient Technologies Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹284",
+      "priceRange": "₹279",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-08-28"
@@ -10506,10 +10548,10 @@
       "marketData": {
         "ticker": "ORIENTTECH.NS",
         "currentPrice": 247.47,
-        "listingPrice": 284.09,
+        "listingPrice": 279.18,
         "listingGain": 0,
-        "vsIssue": -12.89,
-        "vsListing": -12.89,
+        "vsIssue": -11.36,
+        "vsListing": -11.36,
         "fiftyTwoWeekHigh": 459.45,
         "pctFrom52WHigh": -46.14,
         "change1w": 3.81,
@@ -10700,7 +10742,7 @@
       "name": "Pashupati Cotspin Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹48",
+      "priceRange": "₹51",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2025-07-17"
@@ -10716,10 +10758,10 @@
       "marketData": {
         "ticker": "PASHUPATI.NS",
         "currentPrice": 80.56,
-        "listingPrice": 48.17,
+        "listingPrice": 51,
         "listingGain": 0,
-        "vsIssue": 67.24,
-        "vsListing": 67.24,
+        "vsIssue": 57.96,
+        "vsListing": 57.96,
         "fiftyTwoWeekHigh": 101.45,
         "pctFrom52WHigh": -20.59,
         "change1w": -3.06,
@@ -11271,10 +11313,10 @@
       "marketData": {
         "ticker": "PREMIERENE.NS",
         "currentPrice": 974.2,
-        "listingPrice": 1154.2,
-        "listingGain": 156.49,
+        "listingPrice": 1110,
+        "listingGain": 146.67,
         "vsIssue": 116.49,
-        "vsListing": -15.6,
+        "vsListing": -12.23,
         "fiftyTwoWeekHigh": 1117.2,
         "pctFrom52WHigh": -12.8,
         "change1w": -2.77,
@@ -11725,7 +11767,7 @@
       "name": "Raymond Lifestyle Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹2337",
+      "priceRange": "₹2420",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-09-05"
@@ -11741,10 +11783,10 @@
       "marketData": {
         "ticker": "RAYMONDLSL.NS",
         "currentPrice": 691.95,
-        "listingPrice": 2336.85,
+        "listingPrice": 2420,
         "listingGain": 0,
-        "vsIssue": -70.39,
-        "vsListing": -70.39,
+        "vsIssue": -71.41,
+        "vsListing": -71.41,
         "fiftyTwoWeekHigh": 1329.8,
         "pctFrom52WHigh": -47.97,
         "change1w": 4.26,
@@ -11755,8 +11797,8 @@
         "currentVolume": 445304,
         "volumeSma20": 306603,
         "volumeSpike": 1.45,
-        "peakPrice": 2438.1,
-        "drawdown": -71.62,
+        "peakPrice": 2434.4,
+        "drawdown": -71.58,
         "anomalyType": "NONE",
         "triggers": [],
         "news": []
@@ -11851,7 +11893,7 @@
       "name": "Ravindra Energy Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹99",
+      "priceRange": "₹115",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-07-30"
@@ -11867,10 +11909,10 @@
       "marketData": {
         "ticker": "RELTD.NS",
         "currentPrice": 157.39,
-        "listingPrice": 99.04,
+        "listingPrice": 114.63,
         "listingGain": 0,
-        "vsIssue": 58.92,
-        "vsListing": 58.92,
+        "vsIssue": 37.3,
+        "vsListing": 37.3,
         "fiftyTwoWeekHigh": 183.08,
         "pctFrom52WHigh": -14.03,
         "change1w": -2.47,
@@ -12061,7 +12103,7 @@
       "name": "Raghav Productivity Enhancers Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹598",
+      "priceRange": "₹563",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-08-08"
@@ -12077,10 +12119,10 @@
       "marketData": {
         "ticker": "RPEL.NS",
         "currentPrice": 1840,
-        "listingPrice": 597.85,
+        "listingPrice": 562.75,
         "listingGain": 0,
-        "vsIssue": 207.77,
-        "vsListing": 207.77,
+        "vsIssue": 226.97,
+        "vsListing": 226.97,
         "fiftyTwoWeekHigh": 1885.2,
         "pctFrom52WHigh": -2.4,
         "change1w": 1.81,
@@ -12207,10 +12249,10 @@
       "marketData": {
         "ticker": "RUBFILA.NS",
         "currentPrice": 69,
-        "listingPrice": 84.7,
+        "listingPrice": 85,
         "listingGain": 0,
-        "vsIssue": -18.54,
-        "vsListing": -18.54,
+        "vsIssue": -18.82,
+        "vsListing": -18.82,
         "fiftyTwoWeekHigh": 86.11,
         "pctFrom52WHigh": -19.87,
         "change1w": -2.39,
@@ -12319,7 +12361,7 @@
       "name": "Revathi Equipment India Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹3250",
+      "priceRange": "₹3210",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-09-11"
@@ -12335,10 +12377,10 @@
       "marketData": {
         "ticker": "RVTH.NS",
         "currentPrice": 740.4,
-        "listingPrice": 3250,
+        "listingPrice": 3210,
         "listingGain": 0,
-        "vsIssue": -77.22,
-        "vsListing": -77.22,
+        "vsIssue": -76.93,
+        "vsListing": -76.93,
         "fiftyTwoWeekHigh": 1241.8,
         "pctFrom52WHigh": -40.38,
         "change1w": 0.81,
@@ -12654,7 +12696,7 @@
       "name": "Sanofi Consumer Healthcare India Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹4670",
+      "priceRange": "₹5149",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-09-13"
@@ -12670,10 +12712,10 @@
       "marketData": {
         "ticker": "SANOFICONR.NS",
         "currentPrice": 4020,
-        "listingPrice": 4670,
+        "listingPrice": 5148.65,
         "listingGain": 0,
-        "vsIssue": -13.92,
-        "vsListing": -13.92,
+        "vsIssue": -21.92,
+        "vsListing": -21.92,
         "fiftyTwoWeekHigh": 5292.5,
         "pctFrom52WHigh": -24.04,
         "change1w": -4.32,
@@ -13877,7 +13919,7 @@
       "name": "Solex Energy Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹1336",
+      "priceRange": "₹1292",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2025-10-08"
@@ -13893,10 +13935,10 @@
       "marketData": {
         "ticker": "SOLEX.NS",
         "currentPrice": 704.5,
-        "listingPrice": 1336.04,
+        "listingPrice": 1292,
         "listingGain": 0,
-        "vsIssue": -47.27,
-        "vsListing": -47.27,
+        "vsIssue": -45.47,
+        "vsListing": -45.47,
         "fiftyTwoWeekHigh": 1918,
         "pctFrom52WHigh": -63.27,
         "change1w": -3.35,
@@ -14045,7 +14087,7 @@
       "name": "Saraswati Saree Depot Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹169",
+      "priceRange": "₹164",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-08-20"
@@ -14061,10 +14103,10 @@
       "marketData": {
         "ticker": "SSDL.NS",
         "currentPrice": 62.25,
-        "listingPrice": 169,
+        "listingPrice": 164.35,
         "listingGain": 0,
-        "vsIssue": -63.17,
-        "vsListing": -63.17,
+        "vsIssue": -62.12,
+        "vsListing": -62.12,
         "fiftyTwoWeekHigh": 90.67,
         "pctFrom52WHigh": -31.34,
         "change1w": 9.81,
@@ -14217,7 +14259,7 @@
       "name": "Baazar Style Retail Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹370",
+      "priceRange": "₹360",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-09-06"
@@ -14233,10 +14275,10 @@
       "marketData": {
         "ticker": "STYLEBAAZA.NS",
         "currentPrice": 387.55,
-        "listingPrice": 369.7,
+        "listingPrice": 359.95,
         "listingGain": 0,
-        "vsIssue": 4.83,
-        "vsListing": 4.83,
+        "vsIssue": 7.67,
+        "vsListing": 7.67,
         "fiftyTwoWeekHigh": 439.6,
         "pctFrom52WHigh": -11.84,
         "change1w": -3.17,
@@ -14345,7 +14387,7 @@
       "name": "Suraj Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹348",
+      "priceRange": "₹454",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-08-29"
@@ -14361,10 +14403,10 @@
       "marketData": {
         "ticker": "SURAJLTD.NS",
         "currentPrice": 199.99,
-        "listingPrice": 348,
+        "listingPrice": 454,
         "listingGain": 0,
-        "vsIssue": -42.53,
-        "vsListing": -42.53,
+        "vsIssue": -55.95,
+        "vsListing": -55.95,
         "fiftyTwoWeekHigh": 345.1,
         "pctFrom52WHigh": -42.05,
         "change1w": -0.89,
@@ -14471,7 +14513,7 @@
       "name": "Suyog Telematics Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹1710",
+      "priceRange": "₹1675",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-08-20"
@@ -14487,10 +14529,10 @@
       "marketData": {
         "ticker": "SUYOG.NS",
         "currentPrice": 654.9,
-        "listingPrice": 1709.5,
+        "listingPrice": 1675.4,
         "listingGain": 0,
-        "vsIssue": -61.69,
-        "vsListing": -61.69,
+        "vsIssue": -60.91,
+        "vsListing": -60.91,
         "fiftyTwoWeekHigh": 901.4,
         "pctFrom52WHigh": -27.35,
         "change1w": -10.43,
@@ -15314,7 +15356,7 @@
       "name": "Unicommerce Esolutions Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹227",
+      "priceRange": "₹243",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2024-08-13"
@@ -15330,10 +15372,10 @@
       "marketData": {
         "ticker": "UNIECOM.NS",
         "currentPrice": 83.11,
-        "listingPrice": 226.75,
+        "listingPrice": 242.65,
         "listingGain": 0,
-        "vsIssue": -63.35,
-        "vsListing": -63.35,
+        "vsIssue": -65.75,
+        "vsListing": -65.75,
         "fiftyTwoWeekHigh": 149.76,
         "pctFrom52WHigh": -44.5,
         "change1w": -5.15,
@@ -15824,7 +15866,7 @@
       "name": "Vital Chemtech Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹78",
+      "priceRange": "₹81",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2026-03-11"
@@ -15840,10 +15882,10 @@
       "marketData": {
         "ticker": "VITAL.NS",
         "currentPrice": 55.67,
-        "listingPrice": 78,
+        "listingPrice": 80.5,
         "listingGain": 0,
-        "vsIssue": -28.63,
-        "vsListing": -28.63,
+        "vsIssue": -30.84,
+        "vsListing": -30.84,
         "fiftyTwoWeekHigh": 66.15,
         "pctFrom52WHigh": -15.84,
         "change1w": 2.17,
@@ -15854,8 +15896,8 @@
         "currentVolume": 2687,
         "volumeSma20": 14914,
         "volumeSpike": 0.18,
-        "peakPrice": 81.5,
-        "drawdown": -31.69,
+        "peakPrice": 80.1,
+        "drawdown": -30.5,
         "anomalyType": "NONE",
         "triggers": [],
         "news": []
@@ -15866,7 +15908,7 @@
       "name": "Viviana Power Tech Limited",
       "type": "Mainboard",
       "status": "CLOSED",
-      "priceRange": "₹855",
+      "priceRange": "₹824",
       "lotSize": "N/A",
       "schedule": {
         "listingDate": "2026-06-02"
@@ -15882,10 +15924,10 @@
       "marketData": {
         "ticker": "VIVIANA.NS",
         "currentPrice": 750.1,
-        "listingPrice": 855,
+        "listingPrice": 824,
         "listingGain": 0,
-        "vsIssue": -12.27,
-        "vsListing": -12.27,
+        "vsIssue": -8.97,
+        "vsListing": -8.97,
         "fiftyTwoWeekHigh": 1759.95,
         "pctFrom52WHigh": -57.38,
         "change1w": -2.13,
