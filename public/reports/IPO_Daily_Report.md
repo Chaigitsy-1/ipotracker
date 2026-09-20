@@ -1,11 +1,11 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 19/9/2026, 6:00:45 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 20/9/2026, 5:47:18 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
 - **Total Closed IPOs Screened:** 382
 - **Hype Deflations Detected (Case 1):** 4
-- **Sleeper Breakouts Detected (Case 2):** 35
-- **52-Week High Breakouts (Case 3):** 12
+- **Sleeper Breakouts Detected (Case 2):** 37
+- **52-Week High Breakouts (Case 3):** 11
 
 ---
 
@@ -57,6 +57,14 @@
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
+### 📈 Aegis Vopak Terminals Limited (AEGISVOPAK)
+- **Issue Price:** ₹220 | **Listing Price:** ₹220 (+0% Listing Gain)
+- **Current Price:** **₹314.95** | **Peak Price:** ₹314.95
+- **Surge Performance:** 1W: **`+6.73%`** | 1M: **`+18.14%`**
+- **Volume Breakout:** **1.54x** (Today's Vol: 2,342,046)
+- **Key News Triggers Detected:**
+  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
+
 ### 📈 Amir Chand Jagdish Kumar (Exports) Limited (AEROPLANE)
 - **Issue Price:** ₹200 | **Listing Price:** ₹200 (+0% Listing Gain)
 - **Current Price:** **₹201.49** | **Peak Price:** ₹206.9
@@ -68,7 +76,7 @@
 ### 📈 Anuh Pharma Limited (ANUHPHR)
 - **Issue Price:** ₹116 | **Listing Price:** ₹116 (+0% Listing Gain)
 - **Current Price:** **₹93.48** | **Peak Price:** ₹115.51
-- **Surge Performance:** 1W: **`+2.49%`** | 1M: **`+23.23%`**
+- **Surge Performance:** 1W: **`-1.45%`** | 1M: **`+23.15%`**
 - **Volume Breakout:** **0.33x** (Today's Vol: 95,805)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
@@ -81,15 +89,7 @@
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-### 📈 Asian Star Company Limited (ASTAR)
-- **Issue Price:** ₹620 | **Listing Price:** ₹619.5 (+0% Listing Gain)
-- **Current Price:** **₹807.35** | **Peak Price:** ₹672.8
-- **Surge Performance:** 1W: **`+40.38%`** | 1M: **`+36.7%`**
-- **Volume Breakout:** **16.81x** (Today's Vol: 13,851)
-- **Key News Triggers Detected:**
-  - Breakout alert: Trading near or at 52-Week High on high volume
-
-*...and 30 more Sleeper Breakout alerts. View them in the Market Screener tab.*
+*...and 32 more Sleeper Breakout alerts. View them in the Market Screener tab.*
 
 ---
 
@@ -103,13 +103,6 @@
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
 
-### ⚡ Aegis Vopak Terminals Limited (AEGISVOPAK)
-- **52W High:** ₹310.7 | **Current Price:** **₹314.95** (**+1.4%** vs. 52W High)
-- **Performance:** 1W: `+7.92%` | 1M: `+16.58%` | 3M: `+27.88%`
-- **Volume Spike:** **1.54x** (Today's Vol: 2,342,046)
-- **Key News Triggers Detected:**
-  - Breakout alert: Trading near or at 52-Week High on high volume
-
 ### ⚡ Algoquant Fintech Limited (ALGOQUANT)
 - **52W High:** ₹72.27 | **Current Price:** **₹72.27** (**+0.0%** vs. 52W High)
 - **Performance:** 1W: `+11.86%` | 1M: `+10.96%` | 3M: `+25.99%`
@@ -119,19 +112,26 @@
 
 ### ⚡ Anthem Biosciences Limited (ANTHEM)
 - **52W High:** ₹957.8 | **Current Price:** **₹928.5** (**-3.1%** vs. 52W High)
-- **Performance:** 1W: `-1.46%` | 1M: `+5.28%` | 3M: `+21.19%`
+- **Performance:** 1W: `-1.32%` | 1M: `+6.17%` | 3M: `+19.66%`
 - **Volume Spike:** **5.03x** (Today's Vol: 5,490,000)
-- **Key News Triggers Detected:**
-  - Breakout alert: Trading near or at 52-Week High on high volume
-
-### ⚡ OnEMI Technology Solutions Limited (KISSHT)
-- **52W High:** ₹359.95 | **Current Price:** **₹356.05** (**-1.1%** vs. 52W High)
-- **Performance:** 1W: `+6.63%` | 1M: `+18.58%` | 3M: `+20.45%`
-- **Volume Spike:** **2.52x** (Today's Vol: 4,153,061)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
-*...and 7 more 52-Week High Breakout alerts. View them in the Market Screener tab.*
+### ⚡ Kirloskar Ferrous Industries Limited (KIRLFER)
+- **52W High:** ₹498.05 | **Current Price:** **₹480.65** (**-3.5%** vs. 52W High)
+- **Performance:** 1W: `+3.34%` | 1M: `+8.24%` | 3M: `-0.79%`
+- **Volume Spike:** **1.69x** (Today's Vol: 201,207)
+- **Key News Triggers Detected:**
+  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
+
+### ⚡ OnEMI Technology Solutions Limited (KISSHT)
+- **52W High:** ₹359.95 | **Current Price:** **₹356.05** (**-1.1%** vs. 52W High)
+- **Performance:** 1W: `+8.32%` | 1M: `+17.64%` | 3M: `+24.8%`
+- **Volume Spike:** **2.52x** (Today's Vol: 4,153,061)
+- **Key News Triggers Detected:**
+  - Breakout alert: Trading near or at 52-Week High on high volume
+
+*...and 6 more 52-Week High Breakout alerts. View them in the Market Screener tab.*
 
 ---
 
