@@ -1,10 +1,10 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 26/9/2026, 6:16:55 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 27/9/2026, 6:17:51 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
 - **Total Closed IPOs Screened:** 383
 - **Hype Deflations Detected (Case 1):** 4
-- **Sleeper Breakouts Detected (Case 2):** 42
+- **Sleeper Breakouts Detected (Case 2):** 38
 - **52-Week High Breakouts (Case 3):** 5
 
 ---
@@ -15,7 +15,7 @@
 ### 📉 Bajaj Housing Finance (BAJAJHFL)
 - **Issue Price:** ₹70 | **Listing Price:** ₹157.8 (+125.43% Listing Gain)
 - **Current Price:** **₹83.14** (*Drawdown: **-47.3%** from peak*)
-- **Performance:** 1W: `+0.53%` | 1M: `-1.11%` | 3M: `-4.21%`
+- **Performance:** 1W: `-2.85%` | 1M: `-2.52%` | 3M: `-4.98%`
 - **Volume Spike:** 1.1x (Today's Vol: 3,120,310)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
@@ -50,17 +50,17 @@
 *These stocks listed with weak gains (<= 10%) but are currently surging on high trading volume. This indicates sudden institutional accumulation (FII/DII buying) or turnaround catalyst triggers.*
 
 ### 📈 Aastha Spintex Limited (AASTHA)
-- **Issue Price:** ₹130 | **Listing Price:** ₹130 (+0% Listing Gain)
-- **Current Price:** **₹72.72** | **Peak Price:** ₹136.49
-- **Surge Performance:** 1W: **`+90.74%`** | 1M: **`-17.7%`**
-- **Volume Breakout:** **2.69x** (Today's Vol: 4,768,025)
+- **Issue Price:** ₹65 | **Listing Price:** ₹65 (+0% Listing Gain)
+- **Current Price:** **₹72.72** | **Peak Price:** ₹68.25
+- **Surge Performance:** 1W: **`+90.74%`** | 1M: **`+64.6%`**
+- **Volume Breakout:** **2.21x** (Today's Vol: 4,768,025)
 - **Key News Triggers Detected:**
-  - Volume breakout & price action suggests heavy institutional accumulation
+  - Breakout alert: Trading near or at 52-Week High on high volume
 
 ### 📈 Anlon Healthcare Limited (AHCL)
 - **Issue Price:** ₹9 | **Listing Price:** ₹9.2 (+0% Listing Gain)
-- **Current Price:** **₹31.51** | **Peak Price:** ₹29.68
-- **Surge Performance:** 1W: **`+44.28%`** | 1M: **`+108.54%`**
+- **Current Price:** **₹31.51** | **Peak Price:** ₹31.51
+- **Surge Performance:** 1W: **`+37.6%`** | 1M: **`+101.99%`**
 - **Volume Breakout:** **1.5x** (Today's Vol: 80,194,446)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
@@ -73,14 +73,6 @@
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-### 📈 Bella Casa Fashion & Retail Limited (BELLACASA)
-- **Issue Price:** ₹429 | **Listing Price:** ₹428.7 (+0% Listing Gain)
-- **Current Price:** **₹274.98** | **Peak Price:** ₹471.7
-- **Surge Performance:** 1W: **`+7.73%`** | 1M: **`+23.11%`**
-- **Volume Breakout:** **1.03x** (Today's Vol: 14,505)
-- **Key News Triggers Detected:**
-  - Volume breakout & price action suggests heavy institutional accumulation
-
 ### 📈 BlueStone Jewellery and Lifestyle Limited (BLUESTONE)
 - **Issue Price:** ₹510 | **Listing Price:** ₹510 (+0% Listing Gain)
 - **Current Price:** **₹809.3** | **Peak Price:** ₹930.4
@@ -89,7 +81,15 @@
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-*...and 37 more Sleeper Breakout alerts. View them in the Market Screener tab.*
+### 📈 Capillary Technologies India Limited (CAPILLARY)
+- **Issue Price:** ₹572 | **Listing Price:** ₹571.9 (+0% Listing Gain)
+- **Current Price:** **₹599.45** | **Peak Price:** ₹732.15
+- **Surge Performance:** 1W: **`+23.84%`** | 1M: **`+17.78%`**
+- **Volume Breakout:** **3.06x** (Today's Vol: 1,297,575)
+- **Key News Triggers Detected:**
+  - Volume breakout & price action suggests heavy institutional accumulation
+
+*...and 33 more Sleeper Breakout alerts. View them in the Market Screener tab.*
 
 ---
 
@@ -118,18 +118,18 @@
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
 ### ⚡ SEDEMAC Mechatronics Limited (SEDEMAC)
-- **52W High:** ₹3313.6 | **Current Price:** **₹3444.9** (**+4.0%** vs. 52W High)
-- **Performance:** 1W: `+10.75%` | 1M: `+12.39%` | 3M: `+26.8%`
+- **52W High:** ₹3444.9 | **Current Price:** **₹3444.9** (**+0.0%** vs. 52W High)
+- **Performance:** 1W: `+9.44%` | 1M: `+13.82%` | 3M: `+18.99%`
 - **Volume Spike:** **3.41x** (Today's Vol: 801,029)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
 ### ⚡ Sonal Mercantile Limited (SONAL)
 - **52W High:** ₹90.8 | **Current Price:** **₹87.7** (**-3.4%** vs. 52W High)
-- **Performance:** 1W: `+5.51%` | 1M: `+2.93%` | 3M: `+null%`
+- **Performance:** 1W: `+4.32%` | 1M: `-1.41%` | 3M: `+null%`
 - **Volume Spike:** **1.72x** (Today's Vol: 203)
 - **Key News Triggers Detected:**
-  - Breakout alert: Trading near or at 52-Week High on high volume
+  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
 ---
 
