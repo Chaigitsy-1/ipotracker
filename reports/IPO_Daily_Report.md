@@ -1,5 +1,5 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 3/10/2026, 6:49:30 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 4/10/2026, 7:24:01 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
 - **Total Closed IPOs Screened:** 384
