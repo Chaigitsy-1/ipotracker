@@ -1,8 +1,8 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 4/10/2026, 7:24:01 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 5/10/2026, 6:38:23 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
-- **Total Closed IPOs Screened:** 384
+- **Total Closed IPOs Screened:** 387
 - **Hype Deflations Detected (Case 1):** 4
 - **Sleeper Breakouts Detected (Case 2):** 30
 - **52-Week High Breakouts (Case 3):** 5
@@ -16,7 +16,7 @@
 - **Issue Price:** ₹70 | **Listing Price:** ₹149 (+112.86% Listing Gain)
 - **Current Price:** **₹83.17** (*Drawdown: **-46.4%** from peak*)
 - **Performance:** 1W: `+0.25%` | 1M: `+0.47%` | 3M: `-7.69%`
-- **Volume Spike:** 1.79x (Today's Vol: 5,600,204)
+- **Volume Spike:** 1.79x (Today's Vol: 5,602,067)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
@@ -24,7 +24,7 @@
 - **Issue Price:** ₹76 | **Listing Price:** ₹100 (+31.58% Listing Gain)
 - **Current Price:** **₹37.09** (*Drawdown: **-62.6%** from peak*)
 - **Performance:** 1W: `-12.77%` | 1M: `-4.85%` | 3M: `-12.5%`
-- **Volume Spike:** 0.57x (Today's Vol: 54,895,799)
+- **Volume Spike:** 0.57x (Today's Vol: 54,910,840)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
@@ -32,7 +32,7 @@
 - **Issue Price:** ₹450 | **Listing Price:** ₹1084 (+140.89% Listing Gain)
 - **Current Price:** **₹878.05** (*Drawdown: **-36.1%** from peak*)
 - **Performance:** 1W: `-2.22%` | 1M: `-12.2%` | 3M: `-14.16%`
-- **Volume Spike:** 1.02x (Today's Vol: 1,258,902)
+- **Volume Spike:** 1.02x (Today's Vol: 1,259,157)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
@@ -40,7 +40,7 @@
 - **Issue Price:** ₹1503 | **Listing Price:** ₹2500 (+66.33% Listing Gain)
 - **Current Price:** **₹2340** (*Drawdown: **-37.4%** from peak*)
 - **Performance:** 1W: `-5.72%` | 1M: `-9.34%` | 3M: `-18.64%`
-- **Volume Spike:** 1.42x (Today's Vol: 841,434)
+- **Volume Spike:** 1.42x (Today's Vol: 841,593)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
@@ -53,7 +53,7 @@
 - **Issue Price:** ₹9 | **Listing Price:** ₹9.2 (+0% Listing Gain)
 - **Current Price:** **₹32.86** | **Peak Price:** ₹36.39
 - **Surge Performance:** 1W: **`+14.69%`** | 1M: **`+111.18%`**
-- **Volume Breakout:** **0.03x** (Today's Vol: 1,444,046)
+- **Volume Breakout:** **0.03x** (Today's Vol: 1,444,357)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
@@ -69,9 +69,17 @@
 - **Issue Price:** ₹40 | **Listing Price:** ₹40.1 (+0% Listing Gain)
 - **Current Price:** **₹63.85** | **Peak Price:** ₹67.22
 - **Surge Performance:** 1W: **`-1.33%`** | 1M: **`+38.83%`**
-- **Volume Breakout:** **5.18x** (Today's Vol: 61,078,981)
+- **Volume Breakout:** **5.18x** (Today's Vol: 61,090,409)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
+
+### 📈 Gujarat Kidney & Super Speciality (GKSL)
+- **Issue Price:** ₹114 | **Listing Price:** ₹120 (+5.26% Listing Gain)
+- **Current Price:** **₹194.65** | **Peak Price:** ₹194.27
+- **Surge Performance:** 1W: **`+13.93%`** | 1M: **`+19.82%`**
+- **Volume Breakout:** **15.17x** (Today's Vol: 34,935,174)
+- **Key News Triggers Detected:**
+  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
 ### 📈 Gretex Corporate Services Limited (GCSL)
 - **Issue Price:** ₹280 | **Listing Price:** ₹280 (+0% Listing Gain)
@@ -80,14 +88,6 @@
 - **Volume Breakout:** **0.47x** (Today's Vol: 321,775)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
-
-### 📈 Gujarat Kidney & Super Speciality (GKSL)
-- **Issue Price:** ₹114 | **Listing Price:** ₹120 (+5.26% Listing Gain)
-- **Current Price:** **₹194.65** | **Peak Price:** ₹194.27
-- **Surge Performance:** 1W: **`+13.93%`** | 1M: **`+19.82%`**
-- **Volume Breakout:** **15.17x** (Today's Vol: 34,933,504)
-- **Key News Triggers Detected:**
-  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
 *...and 25 more Sleeper Breakout alerts. View them in the Market Screener tab.*
 
