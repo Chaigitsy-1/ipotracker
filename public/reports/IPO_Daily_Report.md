@@ -1,11 +1,11 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 10/10/2026, 7:22:14 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 11/10/2026, 6:40:18 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
 - **Total Closed IPOs Screened:** 387
 - **Hype Deflations Detected (Case 1):** 4
-- **Sleeper Breakouts Detected (Case 2):** 33
-- **52-Week High Breakouts (Case 3):** 7
+- **Sleeper Breakouts Detected (Case 2):** 29
+- **52-Week High Breakouts (Case 3):** 8
 
 ---
 
@@ -52,7 +52,7 @@
 ### 📈 Anlon Healthcare Limited (AHCL)
 - **Issue Price:** ₹9 | **Listing Price:** ₹9.2 (+0% Listing Gain)
 - **Current Price:** **₹28.11** | **Peak Price:** ₹36.39
-- **Surge Performance:** 1W: **`-18.71%`** | 1M: **`+81.59%`**
+- **Surge Performance:** 1W: **`-14.46%`** | 1M: **`+80.08%`**
 - **Volume Breakout:** **0.36x** (Today's Vol: 20,427,626)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
@@ -68,7 +68,7 @@
 ### 📈 BlueStone Jewellery and Lifestyle Limited (BLUESTONE)
 - **Issue Price:** ₹510 | **Listing Price:** ₹510 (+0% Listing Gain)
 - **Current Price:** **₹817.65** | **Peak Price:** ₹930.4
-- **Surge Performance:** 1W: **`+2.87%`** | 1M: **`-6.02%`**
+- **Surge Performance:** 1W: **`+3.77%`** | 1M: **`-5.88%`**
 - **Volume Breakout:** **0.4x** (Today's Vol: 702,032)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
@@ -81,15 +81,15 @@
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-### 📈 Dev Accelerator Limited (DEVX)
-- **Issue Price:** ₹61 | **Listing Price:** ₹61 (+0% Listing Gain)
-- **Current Price:** **₹39.92** | **Peak Price:** ₹64.05
-- **Surge Performance:** 1W: **`+10.67%`** | 1M: **`+20.97%`**
-- **Volume Breakout:** **1.09x** (Today's Vol: 154,302)
+### 📈 Elantas Beck India Limited (ELANTAS)
+- **Issue Price:** ₹9280 | **Listing Price:** ₹9279.95 (+0% Listing Gain)
+- **Current Price:** **₹13707** | **Peak Price:** ₹14793
+- **Surge Performance:** 1W: **`+1.73%`** | 1M: **`-1.32%`**
+- **Volume Breakout:** **0.59x** (Today's Vol: 2,462)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-*...and 28 more Sleeper Breakout alerts. View them in the Market Screener tab.*
+*...and 24 more Sleeper Breakout alerts. View them in the Market Screener tab.*
 
 ---
 
@@ -98,14 +98,14 @@
 
 ### ⚡ Abans Enterprises Limited (ABANSENT)
 - **52W High:** ₹30.3 | **Current Price:** **₹30.17** (**-0.4%** vs. 52W High)
-- **Performance:** 1W: `+14.02%` | 1M: `+6.27%` | 3M: `+null%`
+- **Performance:** 1W: `+9.31%` | 1M: `+8.64%` | 3M: `+null%`
 - **Volume Spike:** **5.17x** (Today's Vol: 52,653)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
 ### ⚡ AK Capital Services Limited (AKCAPIT)
 - **52W High:** ₹1772.2 | **Current Price:** **₹1751.7** (**-1.2%** vs. 52W High)
-- **Performance:** 1W: `+2.66%` | 1M: `+1.05%` | 3M: `+null%`
+- **Performance:** 1W: `+2.19%` | 1M: `-1.16%` | 3M: `+null%`
 - **Volume Spike:** **1.92x** (Today's Vol: 2,089)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
@@ -126,12 +126,12 @@
 
 ### ⚡ Industrial & Prudential Investment Company Limited (INDPRUD)
 - **52W High:** ₹6392 | **Current Price:** **₹6300** (**-1.4%** vs. 52W High)
-- **Performance:** 1W: `-0.58%` | 1M: `-1.33%` | 3M: `+null%`
+- **Performance:** 1W: `+0.71%` | 1M: `+1.45%` | 3M: `+null%`
 - **Volume Spike:** **1.87x** (Today's Vol: 131)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
 
-*...and 2 more 52-Week High Breakout alerts. View them in the Market Screener tab.*
+*...and 3 more 52-Week High Breakout alerts. View them in the Market Screener tab.*
 
 ---
 
