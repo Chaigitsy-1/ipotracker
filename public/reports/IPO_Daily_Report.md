@@ -1,11 +1,11 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 30/10/2026, 7:35:37 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 31/10/2026, 7:14:17 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
 - **Total Closed IPOs Screened:** 390
 - **Hype Deflations Detected (Case 1):** 4
-- **Sleeper Breakouts Detected (Case 2):** 34
-- **52-Week High Breakouts (Case 3):** 4
+- **Sleeper Breakouts Detected (Case 2):** 26
+- **52-Week High Breakouts (Case 3):** 1
 
 ---
 
@@ -13,34 +13,34 @@
 *These stocks had strong listing gains (>20%) but have now crashed below their issue price or are hovering around their listing price.*
 
 ### 📉 Bajaj Housing Finance (BAJAJHFL)
-- **Issue Price:** ₹70 | **Listing Price:** ₹131 (+87.14% Listing Gain)
-- **Current Price:** **₹77.92** (*Drawdown: **-46.9%** from peak*)
-- **Performance:** 1W: `-4%` | 1M: `-6.28%` | 3M: `-9.04%`
-- **Volume Spike:** 0.46x (Today's Vol: 1,747,142)
+- **Issue Price:** ₹70 | **Listing Price:** ₹131.8 (+88.29% Listing Gain)
+- **Current Price:** **₹77.42** (*Drawdown: **-47.2%** from peak*)
+- **Performance:** 1W: `-0.04%` | 1M: `-4.73%` | 3M: `-10.52%`
+- **Volume Spike:** 0.88x (Today's Vol: 3,331,862)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📉 Interarch Building Products (INTERARCH)
-- **Issue Price:** ₹900 | **Listing Price:** ₹1522 (+69.11% Listing Gain)
-- **Current Price:** **₹1499.2** (*Drawdown: **-42.9%** from peak*)
-- **Performance:** 1W: `-3.89%` | 1M: `-12.82%` | 3M: `-17.48%`
-- **Volume Spike:** 0.4x (Today's Vol: 24,621)
+- **Issue Price:** ₹900 | **Listing Price:** ₹1550.05 (+72.23% Listing Gain)
+- **Current Price:** **₹1460.4** (*Drawdown: **-44.3%** from peak*)
+- **Performance:** 1W: `-3.21%` | 1M: `-14.41%` | 3M: `-18.86%`
+- **Volume Spike:** 0.93x (Today's Vol: 57,588)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📉 Premier Energies (PREMIERENE)
-- **Issue Price:** ₹450 | **Listing Price:** ₹964.85 (+114.41% Listing Gain)
-- **Current Price:** **₹865.1** (*Drawdown: **-37.0%** from peak*)
-- **Performance:** 1W: `-1.8%` | 1M: `-3.49%` | 3M: `-14.93%`
-- **Volume Spike:** 0.37x (Today's Vol: 389,108)
+- **Issue Price:** ₹450 | **Listing Price:** ₹950 (+111.11% Listing Gain)
+- **Current Price:** **₹876** (*Drawdown: **-36.2%** from peak*)
+- **Performance:** 1W: `+1.41%` | 1M: `-3.31%` | 3M: `-15.46%`
+- **Volume Spike:** 0.81x (Today's Vol: 840,446)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📉 Waaree Energies (WAAREEENER)
-- **Issue Price:** ₹1503 | **Listing Price:** ₹2375.1 (+58.02% Listing Gain)
-- **Current Price:** **₹2318** (*Drawdown: **-38.0%** from peak*)
-- **Performance:** 1W: `-5.58%` | 1M: `-7.09%` | 3M: `-13.97%`
-- **Volume Spike:** 1.16x (Today's Vol: 965,681)
+- **Issue Price:** ₹1503 | **Listing Price:** ₹2391.1 (+59.09% Listing Gain)
+- **Current Price:** **₹2304** (*Drawdown: **-38.4%** from peak*)
+- **Performance:** 1W: `-2.16%` | 1M: `-3.19%` | 3M: `-12.23%`
+- **Volume Spike:** 0.79x (Today's Vol: 668,357)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
@@ -51,78 +51,57 @@
 
 ### 📈 Anlon Healthcare Limited (AHCL)
 - **Issue Price:** ₹9 | **Listing Price:** ₹9.2 (+0% Listing Gain)
-- **Current Price:** **₹25.11** | **Peak Price:** ₹36.39
-- **Surge Performance:** 1W: **`-2.03%`** | 1M: **`-20.31%`**
-- **Volume Breakout:** **0.47x** (Today's Vol: 4,158,106)
+- **Current Price:** **₹25.89** | **Peak Price:** ₹36.39
+- **Surge Performance:** 1W: **`+6.32%`** | 1M: **`-25.3%`**
+- **Volume Breakout:** **1.36x** (Today's Vol: 11,589,356)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📈 Asian Star Company Limited (ASTAR)
 - **Issue Price:** ₹620 | **Listing Price:** ₹619.5 (+0% Listing Gain)
-- **Current Price:** **₹678.75** | **Peak Price:** ₹807.35
-- **Surge Performance:** 1W: **`+15.44%`** | 1M: **`-2.86%`**
-- **Volume Breakout:** **4.91x** (Today's Vol: 1,369)
+- **Current Price:** **₹651** | **Peak Price:** ₹807.35
+- **Surge Performance:** 1W: **`+16.04%`** | 1M: **`-8.15%`**
+- **Volume Breakout:** **3.26x** (Today's Vol: 1,062)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📈 Ather Energy Limited (ATHERENERG)
 - **Issue Price:** ₹328 | **Listing Price:** ₹328 (+0% Listing Gain)
-- **Current Price:** **₹1663** | **Peak Price:** ₹1725.6
-- **Surge Performance:** 1W: **`+14.91%`** | 1M: **`+11.09%`**
-- **Volume Breakout:** **0.47x** (Today's Vol: 1,681,965)
+- **Current Price:** **₹1756** | **Peak Price:** ₹1756
+- **Surge Performance:** 1W: **`+27.25%`** | 1M: **`+24.8%`**
+- **Volume Breakout:** **2.07x** (Today's Vol: 7,918,994)
 - **Key News Triggers Detected:**
-  - Volume breakout & price action suggests heavy institutional accumulation
-
-### 📈 Bluspring Enterprises Limited (BLUSPRING)
-- **Issue Price:** ₹89 | **Listing Price:** ₹89 (+0% Listing Gain)
-- **Current Price:** **₹153.24** | **Peak Price:** ₹172.68
-- **Surge Performance:** 1W: **`-0.72%`** | 1M: **`+5.6%`**
-- **Volume Breakout:** **0.2x** (Today's Vol: 171,726)
-- **Key News Triggers Detected:**
-  - Volume breakout & price action suggests heavy institutional accumulation
+  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
 ### 📈 BMW Ventures Limited (BMWVENTLTD)
 - **Issue Price:** ₹78 | **Listing Price:** ₹78 (+0% Listing Gain)
-- **Current Price:** **₹64.08** | **Peak Price:** ₹74.1
-- **Surge Performance:** 1W: **`-0.34%`** | 1M: **`+22.83%`**
-- **Volume Breakout:** **0.13x** (Today's Vol: 56,268)
+- **Current Price:** **₹62.72** | **Peak Price:** ₹74.1
+- **Surge Performance:** 1W: **`-5.49%`** | 1M: **`+22.02%`**
+- **Volume Breakout:** **0.15x** (Today's Vol: 65,170)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-*...and 29 more Sleeper Breakout alerts. View them in the Market Screener tab.*
+### 📈 Gretex Corporate Services Limited (GCSL)
+- **Issue Price:** ₹280 | **Listing Price:** ₹280 (+0% Listing Gain)
+- **Current Price:** **₹767.45** | **Peak Price:** ₹767.45
+- **Surge Performance:** 1W: **`+5.68%`** | 1M: **`+15.19%`**
+- **Volume Breakout:** **0.65x** (Today's Vol: 245,996)
+- **Key News Triggers Detected:**
+  - Volume breakout & price action suggests heavy institutional accumulation
+
+*...and 21 more Sleeper Breakout alerts. View them in the Market Screener tab.*
 
 ---
 
 ## 🔥 Case 3: 52-Week High Breakouts (Top 5 Listings)
 *These stocks are trading within 4% of their 52-Week Highs with high breakout volumes, indicating strong upward momentum.*
 
-### ⚡ Ceigall India Limited (CEIGALL)
-- **52W High:** ₹395.95 | **Current Price:** **₹392.3** (**-0.9%** vs. 52W High)
-- **Performance:** 1W: `+0.63%` | 1M: `+2.13%` | 3M: `+20.8%`
-- **Volume Spike:** **1.71x** (Today's Vol: 514,662)
+### ⚡ Shiv Aum Steels Limited (SHIVAUM)
+- **52W High:** ₹559.9 | **Current Price:** **₹545.3** (**-2.6%** vs. 52W High)
+- **Performance:** 1W: `+1.17%` | 1M: `+0.2%` | 3M: `+23.32%`
+- **Volume Spike:** **1.41x** (Today's Vol: 67,165)
 - **Key News Triggers Detected:**
-  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
-
-### ⚡ CORONA Remedies Limited (CORONA)
-- **52W High:** ₹2236.1 | **Current Price:** **₹2217.4** (**-0.8%** vs. 52W High)
-- **Performance:** 1W: `+9.72%` | 1M: `+4.71%` | 3M: `+7.14%`
-- **Volume Spike:** **1.44x** (Today's Vol: 36,175)
-- **Key News Triggers Detected:**
-  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
-
-### ⚡ Manba Finance Limited (MANBA)
-- **52W High:** ₹146.82 | **Current Price:** **₹147.04** (**+0.1%** vs. 52W High)
-- **Performance:** 1W: `+2.2%` | 1M: `+5.52%` | 3M: `+7.04%`
-- **Volume Spike:** **4.04x** (Today's Vol: 726,649)
-- **Key News Triggers Detected:**
-  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
-
-### ⚡ Leela Palaces Hotels & Resorts Limited (THELEELA)
-- **52W High:** ₹622.75 | **Current Price:** **₹639.9** (**+2.8%** vs. 52W High)
-- **Performance:** 1W: `+9.29%` | 1M: `+17.17%` | 3M: `+34.55%`
-- **Volume Spike:** **1.79x** (Today's Vol: 1,373,406)
-- **Key News Triggers Detected:**
-  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
+  - Breakout alert: Trading near or at 52-Week High on high volume
 
 ---
 
