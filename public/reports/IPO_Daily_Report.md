@@ -1,10 +1,10 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 31/10/2026, 7:14:17 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 1/11/2026, 6:52:44 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
 - **Total Closed IPOs Screened:** 390
 - **Hype Deflations Detected (Case 1):** 4
-- **Sleeper Breakouts Detected (Case 2):** 26
+- **Sleeper Breakouts Detected (Case 2):** 28
 - **52-Week High Breakouts (Case 3):** 1
 
 ---
@@ -23,7 +23,7 @@
 ### 📉 Interarch Building Products (INTERARCH)
 - **Issue Price:** ₹900 | **Listing Price:** ₹1550.05 (+72.23% Listing Gain)
 - **Current Price:** **₹1460.4** (*Drawdown: **-44.3%** from peak*)
-- **Performance:** 1W: `-3.21%` | 1M: `-14.41%` | 3M: `-18.86%`
+- **Performance:** 1W: `-1.94%` | 1M: `-13.6%` | 3M: `-18.43%`
 - **Volume Spike:** 0.93x (Today's Vol: 57,588)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
@@ -31,7 +31,7 @@
 ### 📉 Premier Energies (PREMIERENE)
 - **Issue Price:** ₹450 | **Listing Price:** ₹950 (+111.11% Listing Gain)
 - **Current Price:** **₹876** (*Drawdown: **-36.2%** from peak*)
-- **Performance:** 1W: `+1.41%` | 1M: `-3.31%` | 3M: `-15.46%`
+- **Performance:** 1W: `+2.66%` | 1M: `+0.69%` | 3M: `-10.86%`
 - **Volume Spike:** 0.81x (Today's Vol: 840,446)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
@@ -52,16 +52,8 @@
 ### 📈 Anlon Healthcare Limited (AHCL)
 - **Issue Price:** ₹9 | **Listing Price:** ₹9.2 (+0% Listing Gain)
 - **Current Price:** **₹25.89** | **Peak Price:** ₹36.39
-- **Surge Performance:** 1W: **`+6.32%`** | 1M: **`-25.3%`**
+- **Surge Performance:** 1W: **`+1.29%`** | 1M: **`-28.85%`**
 - **Volume Breakout:** **1.36x** (Today's Vol: 11,589,356)
-- **Key News Triggers Detected:**
-  - Volume breakout & price action suggests heavy institutional accumulation
-
-### 📈 Asian Star Company Limited (ASTAR)
-- **Issue Price:** ₹620 | **Listing Price:** ₹619.5 (+0% Listing Gain)
-- **Current Price:** **₹651** | **Peak Price:** ₹807.35
-- **Surge Performance:** 1W: **`+16.04%`** | 1M: **`-8.15%`**
-- **Volume Breakout:** **3.26x** (Today's Vol: 1,062)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
@@ -73,23 +65,31 @@
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
+### 📈 Asian Star Company Limited (ASTAR)
+- **Issue Price:** ₹620 | **Listing Price:** ₹619.5 (+0% Listing Gain)
+- **Current Price:** **₹651** | **Peak Price:** ₹807.35
+- **Surge Performance:** 1W: **`+19.88%`** | 1M: **`-5.01%`**
+- **Volume Breakout:** **3.26x** (Today's Vol: 1,062)
+- **Key News Triggers Detected:**
+  - Volume breakout & price action suggests heavy institutional accumulation
+
 ### 📈 BMW Ventures Limited (BMWVENTLTD)
 - **Issue Price:** ₹78 | **Listing Price:** ₹78 (+0% Listing Gain)
 - **Current Price:** **₹62.72** | **Peak Price:** ₹74.1
-- **Surge Performance:** 1W: **`-5.49%`** | 1M: **`+22.02%`**
+- **Surge Performance:** 1W: **`-1.54%`** | 1M: **`+21.81%`**
 - **Volume Breakout:** **0.15x** (Today's Vol: 65,170)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-### 📈 Gretex Corporate Services Limited (GCSL)
-- **Issue Price:** ₹280 | **Listing Price:** ₹280 (+0% Listing Gain)
-- **Current Price:** **₹767.45** | **Peak Price:** ₹767.45
-- **Surge Performance:** 1W: **`+5.68%`** | 1M: **`+15.19%`**
-- **Volume Breakout:** **0.65x** (Today's Vol: 245,996)
+### 📈 Elantas Beck India Limited (ELANTAS)
+- **Issue Price:** ₹9280 | **Listing Price:** ₹9279.95 (+0% Listing Gain)
+- **Current Price:** **₹12753** | **Peak Price:** ₹14793
+- **Surge Performance:** 1W: **`+3.8%`** | 1M: **`-6.56%`**
+- **Volume Breakout:** **1.02x** (Today's Vol: 2,637)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-*...and 21 more Sleeper Breakout alerts. View them in the Market Screener tab.*
+*...and 23 more Sleeper Breakout alerts. View them in the Market Screener tab.*
 
 ---
 
@@ -98,7 +98,7 @@
 
 ### ⚡ Shiv Aum Steels Limited (SHIVAUM)
 - **52W High:** ₹559.9 | **Current Price:** **₹545.3** (**-2.6%** vs. 52W High)
-- **Performance:** 1W: `+1.17%` | 1M: `+0.2%` | 3M: `+23.32%`
+- **Performance:** 1W: `+0.98%` | 1M: `-0.02%` | 3M: `+26.52%`
 - **Volume Spike:** **1.41x** (Today's Vol: 67,165)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
