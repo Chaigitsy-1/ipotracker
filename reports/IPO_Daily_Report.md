@@ -1,5 +1,5 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 10/11/2026, 9:45:35 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 11/11/2026, 7:36:43 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
 - **Total Closed IPOs Screened:** 400
@@ -49,19 +49,19 @@
 ## 🚀 Case 2: Sleeper Breakout Alerts (Top 5 Listings)
 *These stocks listed with weak gains (<= 10%) but are currently surging on high trading volume. This indicates sudden institutional accumulation (FII/DII buying) or turnaround catalyst triggers.*
 
-### 📈 Anlon Healthcare Limited (AHCL)
-- **Issue Price:** ₹9 | **Listing Price:** ₹9.2 (+0% Listing Gain)
-- **Current Price:** **₹26.93** | **Peak Price:** ₹36.39
-- **Surge Performance:** 1W: **`+9.07%`** | 1M: **`+0.56%`**
-- **Volume Breakout:** **0.45x** (Today's Vol: 3,217,208)
-- **Key News Triggers Detected:**
-  - Volume breakout & price action suggests heavy institutional accumulation
-
 ### 📈 Affordable Robotic & Automation Limited (AFFORDABLE)
 - **Issue Price:** ₹635 | **Listing Price:** ₹635 (+0% Listing Gain)
 - **Current Price:** **₹206.95** | **Peak Price:** ₹681.5
 - **Surge Performance:** 1W: **`+33.47%`** | 1M: **`+30.75%`**
 - **Volume Breakout:** **2.29x** (Today's Vol: 73,568)
+- **Key News Triggers Detected:**
+  - Volume breakout & price action suggests heavy institutional accumulation
+
+### 📈 Anlon Healthcare Limited (AHCL)
+- **Issue Price:** ₹9 | **Listing Price:** ₹9.2 (+0% Listing Gain)
+- **Current Price:** **₹26.93** | **Peak Price:** ₹36.39
+- **Surge Performance:** 1W: **`+9.07%`** | 1M: **`+0.56%`**
+- **Volume Breakout:** **0.45x** (Today's Vol: 3,217,208)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
