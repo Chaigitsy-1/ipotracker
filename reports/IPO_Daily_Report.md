@@ -1,11 +1,11 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 12/11/2026, 8:45:40 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 13/11/2026, 8:19:41 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
-- **Total Closed IPOs Screened:** 400
+- **Total Closed IPOs Screened:** 399
 - **Hype Deflations Detected (Case 1):** 4
-- **Sleeper Breakouts Detected (Case 2):** 33
-- **52-Week High Breakouts (Case 3):** 10
+- **Sleeper Breakouts Detected (Case 2):** 31
+- **52-Week High Breakouts (Case 3):** 7
 
 ---
 
@@ -13,34 +13,34 @@
 *These stocks had strong listing gains (>20%) but have now crashed below their issue price or are hovering around their listing price.*
 
 ### 📉 Bajaj Housing Finance (BAJAJHFL)
-- **Issue Price:** ₹70 | **Listing Price:** ₹134 (+91.43% Listing Gain)
-- **Current Price:** **₹82.54** (*Drawdown: **-43.7%** from peak*)
-- **Performance:** 1W: `+5.58%` | 1M: `+0.49%` | 3M: `-3.79%`
-- **Volume Spike:** 1x (Today's Vol: 3,871,932)
+- **Issue Price:** ₹70 | **Listing Price:** ₹133.09 (+90.13% Listing Gain)
+- **Current Price:** **₹82.5** (*Drawdown: **-43.8%** from peak*)
+- **Performance:** 1W: `+1.33%` | 1M: `+1.49%` | 3M: `-3.15%`
+- **Volume Spike:** 0.54x (Today's Vol: 2,045,428)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📉 Interarch Building Products (INTERARCH)
-- **Issue Price:** ₹900 | **Listing Price:** ₹1636 (+81.78% Listing Gain)
-- **Current Price:** **₹1636.2** (*Drawdown: **-37.6%** from peak*)
-- **Performance:** 1W: `+7.55%` | 1M: `-3.43%` | 3M: `-7.71%`
-- **Volume Spike:** 1.36x (Today's Vol: 83,269)
+- **Issue Price:** ₹900 | **Listing Price:** ₹1663.9 (+84.88% Listing Gain)
+- **Current Price:** **₹1646.9** (*Drawdown: **-37.2%** from peak*)
+- **Performance:** 1W: `+7.34%` | 1M: `-3.13%` | 3M: `-2.95%`
+- **Volume Spike:** 0.65x (Today's Vol: 32,521)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📉 Premier Energies (PREMIERENE)
-- **Issue Price:** ₹450 | **Listing Price:** ₹1100 (+144.44% Listing Gain)
-- **Current Price:** **₹884** (*Drawdown: **-35.6%** from peak*)
-- **Performance:** 1W: `+0.11%` | 1M: `-0.07%` | 3M: `-15.58%`
-- **Volume Spike:** 0.88x (Today's Vol: 930,460)
+- **Issue Price:** ₹450 | **Listing Price:** ₹1045.8 (+132.4% Listing Gain)
+- **Current Price:** **₹895** (*Drawdown: **-34.8%** from peak*)
+- **Performance:** 1W: `-1%` | 1M: `-1.52%` | 3M: `-14.76%`
+- **Volume Spike:** 0.94x (Today's Vol: 994,286)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📉 Waaree Energies (WAAREEENER)
-- **Issue Price:** ₹1503 | **Listing Price:** ₹3071 (+104.32% Listing Gain)
-- **Current Price:** **₹2500** (*Drawdown: **-33.1%** from peak*)
-- **Performance:** 1W: `+7.85%` | 1M: `+7.62%` | 3M: `-7.44%`
-- **Volume Spike:** 2.28x (Today's Vol: 2,133,578)
+- **Issue Price:** ₹1503 | **Listing Price:** ₹2821 (+87.69% Listing Gain)
+- **Current Price:** **₹2572** (*Drawdown: **-31.2%** from peak*)
+- **Performance:** 1W: `+6.81%` | 1M: `+9.68%` | 3M: `-4.88%`
+- **Volume Spike:** 0.99x (Today's Vol: 912,487)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
@@ -51,87 +51,87 @@
 
 ### 📈 Allcargo Global Limited (AGL)
 - **Issue Price:** ₹22 | **Listing Price:** ₹22 (+0% Listing Gain)
-- **Current Price:** **₹12.77** | **Peak Price:** ₹20.9
-- **Surge Performance:** 1W: **`+16.41%`** | 1M: **`+4.33%`**
-- **Volume Breakout:** **1.82x** (Today's Vol: 5,175,559)
+- **Current Price:** **₹13.51** | **Peak Price:** ₹20.9
+- **Surge Performance:** 1W: **`+15.27%`** | 1M: **`+10.29%`**
+- **Volume Breakout:** **2.95x** (Today's Vol: 9,665,189)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📈 Anlon Healthcare Limited (AHCL)
 - **Issue Price:** ₹9 | **Listing Price:** ₹9.2 (+0% Listing Gain)
-- **Current Price:** **₹26.94** | **Peak Price:** ₹36.39
-- **Surge Performance:** 1W: **`+6.06%`** | 1M: **`-4.16%`**
-- **Volume Breakout:** **0.45x** (Today's Vol: 3,038,564)
+- **Current Price:** **₹26.73** | **Peak Price:** ₹36.39
+- **Surge Performance:** 1W: **`+5.24%`** | 1M: **`-4.91%`**
+- **Volume Breakout:** **0.38x** (Today's Vol: 2,167,522)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-### 📈 Affordable Robotic & Automation Limited (AFFORDABLE)
-- **Issue Price:** ₹635 | **Listing Price:** ₹635 (+0% Listing Gain)
-- **Current Price:** **₹217.29** | **Peak Price:** ₹681.5
-- **Surge Performance:** 1W: **`+40.14%`** | 1M: **`+37.28%`**
-- **Volume Breakout:** **2.24x** (Today's Vol: 78,984)
+### 📈 Amanta Healthcare Limited (AMANTA)
+- **Issue Price:** ₹146 | **Listing Price:** ₹145.98 (+0% Listing Gain)
+- **Current Price:** **₹228.37** | **Peak Price:** ₹228.37
+- **Surge Performance:** 1W: **`+23.5%`** | 1M: **`+25.33%`**
+- **Volume Breakout:** **9.84x** (Today's Vol: 2,698,475)
 - **Key News Triggers Detected:**
-  - Volume breakout & price action suggests heavy institutional accumulation
+  - Breakout alert: Trading near or at 52-Week High on high volume
 
 ### 📈 Algoquant Fintech Limited (ALGOQUANT)
 - **Issue Price:** ₹70 | **Listing Price:** ₹70 (+0% Listing Gain)
-- **Current Price:** **₹84.99** | **Peak Price:** ₹85.82
-- **Surge Performance:** 1W: **`+9.89%`** | 1M: **`+26.38%`**
-- **Volume Breakout:** **0.77x** (Today's Vol: 1,114,806)
+- **Current Price:** **₹84.29** | **Peak Price:** ₹85.82
+- **Surge Performance:** 1W: **`+8.99%`** | 1M: **`+25.34%`**
+- **Volume Breakout:** **0.74x** (Today's Vol: 1,070,563)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
 ### 📈 Ather Energy Limited (ATHERENERG)
 - **Issue Price:** ₹328 | **Listing Price:** ₹328 (+0% Listing Gain)
-- **Current Price:** **₹1868.2** | **Peak Price:** ₹1868.2
-- **Surge Performance:** 1W: **`+4.08%`** | 1M: **`+30.24%`**
-- **Volume Breakout:** **0.56x** (Today's Vol: 1,981,354)
+- **Current Price:** **₹1923** | **Peak Price:** ₹1923
+- **Surge Performance:** 1W: **`+4.51%`** | 1M: **`+27.27%`**
+- **Volume Breakout:** **0.64x** (Today's Vol: 2,245,752)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-*...and 28 more Sleeper Breakout alerts. View them in the Market Screener tab.*
+*...and 26 more Sleeper Breakout alerts. View them in the Market Screener tab.*
 
 ---
 
 ## 🔥 Case 3: 52-Week High Breakouts (Top 5 Listings)
 *These stocks are trading within 4% of their 52-Week Highs with high breakout volumes, indicating strong upward momentum.*
 
-### ⚡ Dr. Agarwal's Health Care Limited (AGARWALEYE)
-- **52W High:** ₹560.7 | **Current Price:** **₹554.15** (**-1.2%** vs. 52W High)
-- **Performance:** 1W: `+7.84%` | 1M: `+17.65%` | 3M: `+1.45%`
-- **Volume Spike:** **2.01x** (Today's Vol: 472,168)
+### ⚡ B & A Limited (BNALTD)
+- **52W High:** ₹414.4 | **Current Price:** **₹405** (**-2.3%** vs. 52W High)
+- **Performance:** 1W: `+3.85%` | 1M: `+11.57%` | 3M: `+null%`
+- **Volume Spike:** **2.79x** (Today's Vol: 209)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
 ### ⚡ Dr Agarwals Eye Hospital Limited (DRAGARWQ)
-- **52W High:** ₹5552.5 | **Current Price:** **₹5854** (**+5.4%** vs. 52W High)
-- **Performance:** 1W: `+8.18%` | 1M: `+13.44%` | 3M: `+null%`
-- **Volume Spike:** **1.42x** (Today's Vol: 2,338)
+- **52W High:** ₹5854 | **Current Price:** **₹6025.5** (**+2.9%** vs. 52W High)
+- **Performance:** 1W: `+14.36%` | 1M: `+16.74%` | 3M: `+null%`
+- **Volume Spike:** **1.82x** (Today's Vol: 3,010)
 - **Key News Triggers Detected:**
-  - Breakout alert: Trading near or at 52-Week High on high volume
+  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
 ### ⚡ Elpro International Limited (ELPROINTL)
-- **52W High:** ₹180.06 | **Current Price:** **₹177.65** (**-1.3%** vs. 52W High)
-- **Performance:** 1W: `+6.3%` | 1M: `+1.79%` | 3M: `-1.34%`
-- **Volume Spike:** **5.69x** (Today's Vol: 44,307)
+- **52W High:** ₹180.06 | **Current Price:** **₹176.77** (**-1.8%** vs. 52W High)
+- **Performance:** 1W: `+4.68%` | 1M: `+2.48%` | 3M: `+0.71%`
+- **Volume Spike:** **9.35x** (Today's Vol: 129,280)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
 
-### ⚡ HB Estate Developers Limited (HBESD)
-- **52W High:** ₹80 | **Current Price:** **₹81.77** (**+2.2%** vs. 52W High)
-- **Performance:** 1W: `+12%` | 1M: `+9.91%` | 3M: `+null%`
-- **Volume Spike:** **4.92x** (Today's Vol: 12,314)
+### ⚡ Frontier Springs Limited (FRONTSP)
+- **52W High:** ₹1556.3 | **Current Price:** **₹1556.3** (**+0.0%** vs. 52W High)
+- **Performance:** 1W: `+14.34%` | 1M: `+13.14%` | 3M: `+null%`
+- **Volume Spike:** **10.4x** (Today's Vol: 452,391)
 - **Key News Triggers Detected:**
-  - Breakout alert: Trading near or at 52-Week High on high volume
+  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
-### ⚡ Kwality Pharmaceuticals Limited (KPL)
-- **52W High:** ₹3856.4 | **Current Price:** **₹3983.8** (**+3.3%** vs. 52W High)
-- **Performance:** 1W: `+13.31%` | 1M: `+12.75%` | 3M: `+null%`
-- **Volume Spike:** **2.87x** (Today's Vol: 101,595)
+### ⚡ Kovai Medical Center & Hospital Limited (KOVAI)
+- **52W High:** ₹6529.5 | **Current Price:** **₹6529.5** (**+0.0%** vs. 52W High)
+- **Performance:** 1W: `+8.92%` | 1M: `+10.58%` | 3M: `+11.32%`
+- **Volume Spike:** **8.64x** (Today's Vol: 66,475)
 - **Key News Triggers Detected:**
-  - Breakout alert: Trading near or at 52-Week High on high volume
+  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
-*...and 5 more 52-Week High Breakout alerts. View them in the Market Screener tab.*
+*...and 2 more 52-Week High Breakout alerts. View them in the Market Screener tab.*
 
 ---
 
