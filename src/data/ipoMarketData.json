@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "15/11/2026, 7:33:28 am",
+  "lastUpdated": "16/11/2026, 7:49:56 am",
   "status": "success",
   "data": [
     {
@@ -2555,15 +2555,15 @@
       "greyMarketPremium": null,
       "marketData": {
         "ticker": "BNAGROCHEM.NS",
-        "currentPrice": 162.66,
+        "currentPrice": 16.27,
         "listingPrice": 23.53,
         "listingGain": 0,
-        "vsIssue": 591.29,
-        "vsListing": 591.29,
+        "vsIssue": -30.87,
+        "vsListing": -30.87,
         "fiftyTwoWeekHigh": 24,
-        "pctFrom52WHigh": 577.89,
-        "change1w": 1236.35,
-        "change1m": 866.6,
+        "pctFrom52WHigh": -32.21,
+        "change1w": 33.63,
+        "change1m": -3.34,
         "change3m": null,
         "change6m": null,
         "change1y": null,
@@ -2571,11 +2571,9 @@
         "volumeSma20": 173332,
         "volumeSpike": 0.59,
         "peakPrice": 24,
-        "drawdown": 577.89,
-        "anomalyType": "SLEEPER_BREAKOUT",
-        "triggers": [
-          "Volume breakout & price action suggests heavy institutional accumulation"
-        ],
+        "drawdown": -32.21,
+        "anomalyType": "NONE",
+        "triggers": [],
         "news": []
       }
     },

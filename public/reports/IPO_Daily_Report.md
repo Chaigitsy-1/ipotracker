@@ -1,10 +1,10 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 15/11/2026, 7:33:28 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 16/11/2026, 7:49:56 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
 - **Total Closed IPOs Screened:** 399
 - **Hype Deflations Detected (Case 1):** 3
-- **Sleeper Breakouts Detected (Case 2):** 32
+- **Sleeper Breakouts Detected (Case 2):** 31
 - **52-Week High Breakouts (Case 3):** 10
 
 ---
@@ -57,14 +57,6 @@
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-### 📈 Amanta Healthcare Limited (AMANTA)
-- **Issue Price:** ₹146 | **Listing Price:** ₹145.98 (+0% Listing Gain)
-- **Current Price:** **₹233.22** | **Peak Price:** ₹234.47
-- **Surge Performance:** 1W: **`+18.92%`** | 1M: **`+32.89%`**
-- **Volume Breakout:** **2.75x** (Today's Vol: 866,948)
-- **Key News Triggers Detected:**
-  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
-
 ### 📈 Algoquant Fintech Limited (ALGOQUANT)
 - **Issue Price:** ₹70 | **Listing Price:** ₹70 (+0% Listing Gain)
 - **Current Price:** **₹84.3** | **Peak Price:** ₹85.82
@@ -72,6 +64,14 @@
 - **Volume Breakout:** **0.92x** (Today's Vol: 1,299,061)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
+
+### 📈 Amanta Healthcare Limited (AMANTA)
+- **Issue Price:** ₹146 | **Listing Price:** ₹145.98 (+0% Listing Gain)
+- **Current Price:** **₹233.22** | **Peak Price:** ₹234.47
+- **Surge Performance:** 1W: **`+18.92%`** | 1M: **`+32.89%`**
+- **Volume Breakout:** **2.75x** (Today's Vol: 866,948)
+- **Key News Triggers Detected:**
+  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
 ### 📈 Ather Energy Limited (ATHERENERG)
 - **Issue Price:** ₹328 | **Listing Price:** ₹328 (+0% Listing Gain)
@@ -81,24 +81,24 @@
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-*...and 27 more Sleeper Breakout alerts. View them in the Market Screener tab.*
+*...and 26 more Sleeper Breakout alerts. View them in the Market Screener tab.*
 
 ---
 
 ## 🔥 Case 3: 52-Week High Breakouts (Top 5 Listings)
 *These stocks are trading within 4% of their 52-Week Highs with high breakout volumes, indicating strong upward momentum.*
 
-### ⚡ Dr. Agarwal's Health Care Limited (AGARWALEYE)
-- **52W High:** ₹560.7 | **Current Price:** **₹549.5** (**-2.0%** vs. 52W High)
-- **Performance:** 1W: `+7.39%` | 1M: `+16.58%` | 3M: `+7.44%`
-- **Volume Spike:** **3.03x** (Today's Vol: 794,011)
-- **Key News Triggers Detected:**
-  - Breakout alert: Trading near or at 52-Week High on high volume
-
 ### ⚡ AK Capital Services Limited (AKCAPIT)
 - **52W High:** ₹1936 | **Current Price:** **₹1876.9** (**-3.0%** vs. 52W High)
 - **Performance:** 1W: `+6.39%` | 1M: `+8.94%` | 3M: `+null%`
 - **Volume Spike:** **4.32x** (Today's Vol: 14,070)
+- **Key News Triggers Detected:**
+  - Breakout alert: Trading near or at 52-Week High on high volume
+
+### ⚡ Dr. Agarwal's Health Care Limited (AGARWALEYE)
+- **52W High:** ₹560.7 | **Current Price:** **₹549.5** (**-2.0%** vs. 52W High)
+- **Performance:** 1W: `+7.39%` | 1M: `+16.58%` | 3M: `+7.44%`
+- **Volume Spike:** **3.03x** (Today's Vol: 794,011)
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
 
