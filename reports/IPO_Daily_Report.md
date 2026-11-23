@@ -1,8 +1,8 @@
 # Indian IPO Market Analysis Report
-**Report Generated On:** 22/11/2026, 8:01:44 am | **Analyst Feed:** Automated Screener
+**Report Generated On:** 23/11/2026, 8:29:03 am | **Analyst Feed:** Automated Screener
 
 ## Market Indicators & Summary
-- **Total Closed IPOs Screened:** 397
+- **Total Closed IPOs Screened:** 402
 - **Hype Deflations Detected (Case 1):** 4
 - **Sleeper Breakouts Detected (Case 2):** 33
 - **52-Week High Breakouts (Case 3):** 9
@@ -49,11 +49,11 @@
 ## 🚀 Case 2: Sleeper Breakout Alerts (Top 5 Listings)
 *These stocks listed with weak gains (<= 10%) but are currently surging on high trading volume. This indicates sudden institutional accumulation (FII/DII buying) or turnaround catalyst triggers.*
 
-### 📈 Anlon Healthcare Limited (AHCL)
-- **Issue Price:** ₹9 | **Listing Price:** ₹9.2 (+0% Listing Gain)
-- **Current Price:** **₹25.45** | **Peak Price:** ₹36.39
-- **Surge Performance:** 1W: **`-5.53%`** | 1M: **`-0.7%`**
-- **Volume Breakout:** **1.14x** (Today's Vol: 4,846,543)
+### 📈 Amir Chand Jagdish Kumar (Exports) Limited (AEROPLANE)
+- **Issue Price:** ₹200 | **Listing Price:** ₹200 (+0% Listing Gain)
+- **Current Price:** **₹243.5** | **Peak Price:** ₹246.07
+- **Surge Performance:** 1W: **`+0.15%`** | 1M: **`+16.52%`**
+- **Volume Breakout:** **0.78x** (Today's Vol: 507,216)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
@@ -65,11 +65,11 @@
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
-### 📈 Amir Chand Jagdish Kumar (Exports) Limited (AEROPLANE)
-- **Issue Price:** ₹200 | **Listing Price:** ₹200 (+0% Listing Gain)
-- **Current Price:** **₹243.5** | **Peak Price:** ₹246.07
-- **Surge Performance:** 1W: **`+0.15%`** | 1M: **`+16.52%`**
-- **Volume Breakout:** **0.78x** (Today's Vol: 507,216)
+### 📈 Anlon Healthcare Limited (AHCL)
+- **Issue Price:** ₹9 | **Listing Price:** ₹9.2 (+0% Listing Gain)
+- **Current Price:** **₹25.45** | **Peak Price:** ₹36.39
+- **Surge Performance:** 1W: **`-5.53%`** | 1M: **`-0.7%`**
+- **Volume Breakout:** **1.14x** (Today's Vol: 4,846,543)
 - **Key News Triggers Detected:**
   - Volume breakout & price action suggests heavy institutional accumulation
 
@@ -103,17 +103,17 @@
 - **Key News Triggers Detected:**
   - Breakout alert: Trading near or at 52-Week High on high volume
 
-### ⚡ Kama Holdings Limited (KAMAHOLD)
-- **52W High:** ₹2448.5 | **Current Price:** **₹2390** (**-2.4%** vs. 52W High)
-- **Performance:** 1W: `+11.32%` | 1M: `+8.59%` | 3M: `-2.16%`
-- **Volume Spike:** **3.46x** (Today's Vol: 20,548)
-- **Key News Triggers Detected:**
-  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
-
 ### ⚡ KN Agri Resources Limited (KNAGRI)
 - **52W High:** ₹225.91 | **Current Price:** **₹220** (**-2.6%** vs. 52W High)
 - **Performance:** 1W: `+0.41%` | 1M: `+12.48%` | 3M: `+2.38%`
 - **Volume Spike:** **1.61x** (Today's Vol: 42,265)
+- **Key News Triggers Detected:**
+  - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
+
+### ⚡ Kama Holdings Limited (KAMAHOLD)
+- **52W High:** ₹2448.5 | **Current Price:** **₹2390** (**-2.4%** vs. 52W High)
+- **Performance:** 1W: `+11.32%` | 1M: `+8.59%` | 3M: `-2.16%`
+- **Volume Spike:** **3.46x** (Today's Vol: 20,548)
 - **Key News Triggers Detected:**
   - Consistent Breakout: Hitting consecutive new highs over the last 3 sessions on volume
 
